@@ -1,0 +1,2001 @@
+delivery_id,order_id,delivery_partner,delivery_time_mins,delivery_status
+1,1,Uber Eats Rider,70,Delivered
+2,2,Zomato Rider,25,Delivered
+3,3,Uber Eats Rider,44,Delivered
+4,4,Uber Eats Rider,20,Cancelled
+5,5,Swiggy Rider,28,Cancelled
+6,6,Uber Eats Rider,24,Cancelled
+7,7,Swiggy Rider,47,Cancelled
+8,8,Uber Eats Rider,53,Cancelled
+9,9,Uber Eats Rider,64,Pending
+10,10,Zomato Rider,65,Delivered
+11,11,Zomato Rider,33,Pending
+12,12,Uber Eats Rider,69,Pending
+13,13,Swiggy Rider,60,Cancelled
+14,14,Zomato Rider,30,Delivered
+15,15,Uber Eats Rider,53,Delivered
+16,16,Swiggy Rider,51,Cancelled
+17,17,Zomato Rider,21,Delivered
+18,18,Swiggy Rider,64,Pending
+19,19,Uber Eats Rider,70,Delivered
+20,20,Zomato Rider,21,Pending
+21,21,Zomato Rider,25,Pending
+22,22,Swiggy Rider,19,Pending
+23,23,Uber Eats Rider,38,Pending
+24,24,Swiggy Rider,19,Delivered
+25,25,Uber Eats Rider,64,Pending
+26,26,Zomato Rider,45,Pending
+27,27,Zomato Rider,56,Delivered
+28,28,Swiggy Rider,51,Pending
+29,29,Swiggy Rider,38,Pending
+30,30,Zomato Rider,41,Cancelled
+31,31,Uber Eats Rider,23,Pending
+32,32,Zomato Rider,47,Cancelled
+33,33,Zomato Rider,38,Delivered
+34,34,Uber Eats Rider,41,Cancelled
+35,35,Zomato Rider,31,Cancelled
+36,36,Swiggy Rider,54,Cancelled
+37,37,Swiggy Rider,62,Delivered
+38,38,Uber Eats Rider,67,Cancelled
+39,39,Swiggy Rider,24,Delivered
+40,40,Zomato Rider,39,Delivered
+41,41,Uber Eats Rider,40,Delivered
+42,42,Swiggy Rider,39,Pending
+43,43,Uber Eats Rider,20,Pending
+44,44,Zomato Rider,44,Cancelled
+45,45,Uber Eats Rider,67,Pending
+46,46,Swiggy Rider,20,Delivered
+47,47,Uber Eats Rider,21,Pending
+48,48,Zomato Rider,27,Pending
+49,49,Zomato Rider,19,Pending
+50,50,Zomato Rider,53,Pending
+51,51,Swiggy Rider,59,Cancelled
+52,52,Zomato Rider,22,Pending
+53,53,Zomato Rider,17,Cancelled
+54,54,Swiggy Rider,45,Delivered
+55,55,Uber Eats Rider,28,Pending
+56,56,Uber Eats Rider,17,Cancelled
+57,57,Zomato Rider,18,Pending
+58,58,Zomato Rider,45,Delivered
+59,59,Swiggy Rider,28,Delivered
+60,60,Uber Eats Rider,42,Pending
+61,61,Zomato Rider,55,Delivered
+62,62,Swiggy Rider,24,Delivered
+63,63,Zomato Rider,40,Delivered
+64,64,Zomato Rider,70,Cancelled
+65,65,Zomato Rider,70,Pending
+66,66,Uber Eats Rider,28,Cancelled
+67,67,Zomato Rider,26,Delivered
+68,68,Swiggy Rider,42,Pending
+69,69,Zomato Rider,25,Delivered
+70,70,Zomato Rider,41,Pending
+71,71,Zomato Rider,49,Cancelled
+72,72,Swiggy Rider,59,Pending
+73,73,Zomato Rider,59,Cancelled
+74,74,Zomato Rider,67,Delivered
+75,75,Uber Eats Rider,65,Cancelled
+76,76,Swiggy Rider,19,Cancelled
+77,77,Uber Eats Rider,52,Cancelled
+78,78,Swiggy Rider,35,Cancelled
+79,79,Uber Eats Rider,62,Cancelled
+80,80,Uber Eats Rider,35,Delivered
+81,81,Swiggy Rider,44,Delivered
+82,82,Zomato Rider,70,Pending
+83,83,Swiggy Rider,65,Cancelled
+84,84,Zomato Rider,31,Cancelled
+85,85,Uber Eats Rider,15,Pending
+86,86,Swiggy Rider,55,Pending
+87,87,Uber Eats Rider,52,Delivered
+88,88,Swiggy Rider,28,Cancelled
+89,89,Swiggy Rider,41,Cancelled
+90,90,Uber Eats Rider,64,Delivered
+91,91,Uber Eats Rider,39,Delivered
+92,92,Zomato Rider,28,Delivered
+93,93,Uber Eats Rider,51,Delivered
+94,94,Zomato Rider,67,Pending
+95,95,Swiggy Rider,34,Pending
+96,96,Uber Eats Rider,67,Delivered
+97,97,Uber Eats Rider,46,Cancelled
+98,98,Zomato Rider,41,Pending
+99,99,Zomato Rider,37,Cancelled
+100,100,Zomato Rider,48,Pending
+101,101,Swiggy Rider,26,Pending
+102,102,Zomato Rider,38,Delivered
+103,103,Uber Eats Rider,53,Delivered
+104,104,Uber Eats Rider,42,Pending
+105,105,Zomato Rider,69,Cancelled
+106,106,Uber Eats Rider,58,Pending
+107,107,Uber Eats Rider,33,Cancelled
+108,108,Uber Eats Rider,69,Delivered
+109,109,Swiggy Rider,66,Delivered
+110,110,Swiggy Rider,56,Delivered
+111,111,Uber Eats Rider,41,Delivered
+112,112,Zomato Rider,62,Cancelled
+113,113,Uber Eats Rider,21,Cancelled
+114,114,Zomato Rider,47,Cancelled
+115,115,Swiggy Rider,57,Pending
+116,116,Zomato Rider,28,Delivered
+117,117,Zomato Rider,50,Pending
+118,118,Swiggy Rider,27,Pending
+119,119,Swiggy Rider,37,Pending
+120,120,Zomato Rider,67,Cancelled
+121,121,Uber Eats Rider,65,Cancelled
+122,122,Zomato Rider,15,Pending
+123,123,Swiggy Rider,47,Pending
+124,124,Zomato Rider,57,Pending
+125,125,Zomato Rider,68,Pending
+126,126,Uber Eats Rider,30,Delivered
+127,127,Zomato Rider,17,Delivered
+128,128,Swiggy Rider,24,Pending
+129,129,Uber Eats Rider,67,Cancelled
+130,130,Uber Eats Rider,35,Pending
+131,131,Swiggy Rider,51,Pending
+132,132,Swiggy Rider,50,Pending
+133,133,Swiggy Rider,54,Cancelled
+134,134,Zomato Rider,68,Delivered
+135,135,Uber Eats Rider,42,Delivered
+136,136,Uber Eats Rider,39,Cancelled
+137,137,Swiggy Rider,40,Pending
+138,138,Uber Eats Rider,25,Pending
+139,139,Swiggy Rider,21,Cancelled
+140,140,Swiggy Rider,47,Delivered
+141,141,Uber Eats Rider,51,Pending
+142,142,Uber Eats Rider,31,Cancelled
+143,143,Swiggy Rider,35,Delivered
+144,144,Swiggy Rider,20,Delivered
+145,145,Zomato Rider,15,Cancelled
+146,146,Uber Eats Rider,24,Delivered
+147,147,Uber Eats Rider,60,Cancelled
+148,148,Swiggy Rider,51,Pending
+149,149,Swiggy Rider,62,Cancelled
+150,150,Swiggy Rider,44,Cancelled
+151,151,Uber Eats Rider,64,Pending
+152,152,Swiggy Rider,30,Cancelled
+153,153,Swiggy Rider,34,Delivered
+154,154,Uber Eats Rider,68,Delivered
+155,155,Uber Eats Rider,64,Pending
+156,156,Zomato Rider,57,Delivered
+157,157,Zomato Rider,20,Delivered
+158,158,Uber Eats Rider,16,Cancelled
+159,159,Uber Eats Rider,70,Delivered
+160,160,Swiggy Rider,44,Cancelled
+161,161,Swiggy Rider,21,Delivered
+162,162,Zomato Rider,31,Delivered
+163,163,Swiggy Rider,19,Pending
+164,164,Zomato Rider,68,Delivered
+165,165,Zomato Rider,21,Pending
+166,166,Swiggy Rider,41,Delivered
+167,167,Zomato Rider,55,Delivered
+168,168,Swiggy Rider,58,Pending
+169,169,Zomato Rider,35,Cancelled
+170,170,Zomato Rider,66,Delivered
+171,171,Swiggy Rider,34,Delivered
+172,172,Swiggy Rider,57,Cancelled
+173,173,Uber Eats Rider,53,Delivered
+174,174,Swiggy Rider,36,Pending
+175,175,Zomato Rider,54,Cancelled
+176,176,Uber Eats Rider,15,Delivered
+177,177,Uber Eats Rider,62,Pending
+178,178,Swiggy Rider,27,Cancelled
+179,179,Swiggy Rider,49,Delivered
+180,180,Uber Eats Rider,47,Delivered
+181,181,Swiggy Rider,70,Pending
+182,182,Swiggy Rider,28,Delivered
+183,183,Zomato Rider,23,Delivered
+184,184,Swiggy Rider,61,Cancelled
+185,185,Swiggy Rider,32,Pending
+186,186,Zomato Rider,27,Delivered
+187,187,Zomato Rider,60,Cancelled
+188,188,Uber Eats Rider,33,Pending
+189,189,Uber Eats Rider,66,Pending
+190,190,Zomato Rider,47,Pending
+191,191,Swiggy Rider,31,Delivered
+192,192,Swiggy Rider,58,Cancelled
+193,193,Zomato Rider,40,Delivered
+194,194,Uber Eats Rider,65,Cancelled
+195,195,Zomato Rider,25,Delivered
+196,196,Uber Eats Rider,46,Pending
+197,197,Zomato Rider,42,Cancelled
+198,198,Uber Eats Rider,32,Pending
+199,199,Uber Eats Rider,21,Cancelled
+200,200,Zomato Rider,42,Delivered
+201,201,Uber Eats Rider,37,Pending
+202,202,Uber Eats Rider,67,Delivered
+203,203,Zomato Rider,25,Delivered
+204,204,Uber Eats Rider,31,Cancelled
+205,205,Zomato Rider,33,Cancelled
+206,206,Uber Eats Rider,48,Pending
+207,207,Zomato Rider,16,Delivered
+208,208,Swiggy Rider,66,Pending
+209,209,Zomato Rider,65,Delivered
+210,210,Zomato Rider,30,Delivered
+211,211,Swiggy Rider,57,Pending
+212,212,Zomato Rider,24,Pending
+213,213,Swiggy Rider,15,Pending
+214,214,Uber Eats Rider,15,Cancelled
+215,215,Zomato Rider,28,Pending
+216,216,Uber Eats Rider,65,Pending
+217,217,Swiggy Rider,50,Delivered
+218,218,Zomato Rider,33,Cancelled
+219,219,Swiggy Rider,48,Delivered
+220,220,Swiggy Rider,50,Pending
+221,221,Uber Eats Rider,53,Cancelled
+222,222,Swiggy Rider,51,Cancelled
+223,223,Zomato Rider,58,Pending
+224,224,Zomato Rider,67,Pending
+225,225,Swiggy Rider,27,Delivered
+226,226,Zomato Rider,46,Delivered
+227,227,Zomato Rider,41,Delivered
+228,228,Swiggy Rider,43,Delivered
+229,229,Uber Eats Rider,35,Cancelled
+230,230,Zomato Rider,30,Cancelled
+231,231,Swiggy Rider,33,Delivered
+232,232,Uber Eats Rider,65,Cancelled
+233,233,Swiggy Rider,44,Pending
+234,234,Swiggy Rider,68,Pending
+235,235,Swiggy Rider,49,Cancelled
+236,236,Swiggy Rider,36,Cancelled
+237,237,Swiggy Rider,19,Pending
+238,238,Swiggy Rider,68,Pending
+239,239,Uber Eats Rider,34,Pending
+240,240,Zomato Rider,63,Pending
+241,241,Zomato Rider,20,Cancelled
+242,242,Zomato Rider,46,Cancelled
+243,243,Swiggy Rider,40,Pending
+244,244,Uber Eats Rider,44,Pending
+245,245,Uber Eats Rider,22,Pending
+246,246,Uber Eats Rider,21,Delivered
+247,247,Swiggy Rider,18,Delivered
+248,248,Swiggy Rider,21,Pending
+249,249,Uber Eats Rider,61,Pending
+250,250,Swiggy Rider,25,Delivered
+251,251,Swiggy Rider,61,Pending
+252,252,Uber Eats Rider,15,Cancelled
+253,253,Swiggy Rider,31,Delivered
+254,254,Swiggy Rider,18,Pending
+255,255,Swiggy Rider,31,Pending
+256,256,Uber Eats Rider,54,Pending
+257,257,Zomato Rider,59,Delivered
+258,258,Swiggy Rider,52,Pending
+259,259,Swiggy Rider,23,Pending
+260,260,Swiggy Rider,63,Cancelled
+261,261,Zomato Rider,55,Pending
+262,262,Uber Eats Rider,22,Cancelled
+263,263,Uber Eats Rider,30,Cancelled
+264,264,Zomato Rider,57,Pending
+265,265,Zomato Rider,35,Cancelled
+266,266,Zomato Rider,29,Delivered
+267,267,Zomato Rider,64,Pending
+268,268,Uber Eats Rider,20,Pending
+269,269,Uber Eats Rider,68,Delivered
+270,270,Uber Eats Rider,56,Cancelled
+271,271,Swiggy Rider,59,Delivered
+272,272,Swiggy Rider,46,Delivered
+273,273,Swiggy Rider,15,Cancelled
+274,274,Swiggy Rider,44,Pending
+275,275,Swiggy Rider,46,Delivered
+276,276,Zomato Rider,28,Cancelled
+277,277,Uber Eats Rider,47,Pending
+278,278,Zomato Rider,60,Pending
+279,279,Uber Eats Rider,24,Cancelled
+280,280,Swiggy Rider,23,Delivered
+281,281,Zomato Rider,39,Pending
+282,282,Uber Eats Rider,47,Delivered
+283,283,Zomato Rider,27,Delivered
+284,284,Zomato Rider,42,Delivered
+285,285,Uber Eats Rider,34,Cancelled
+286,286,Uber Eats Rider,21,Delivered
+287,287,Zomato Rider,21,Cancelled
+288,288,Swiggy Rider,30,Delivered
+289,289,Zomato Rider,26,Pending
+290,290,Swiggy Rider,45,Cancelled
+291,291,Uber Eats Rider,43,Pending
+292,292,Zomato Rider,22,Cancelled
+293,293,Swiggy Rider,37,Pending
+294,294,Swiggy Rider,24,Pending
+295,295,Uber Eats Rider,42,Cancelled
+296,296,Zomato Rider,18,Pending
+297,297,Zomato Rider,38,Delivered
+298,298,Swiggy Rider,56,Pending
+299,299,Uber Eats Rider,42,Delivered
+300,300,Zomato Rider,27,Pending
+301,301,Swiggy Rider,53,Pending
+302,302,Uber Eats Rider,53,Pending
+303,303,Uber Eats Rider,42,Delivered
+304,304,Uber Eats Rider,18,Cancelled
+305,305,Swiggy Rider,22,Delivered
+306,306,Swiggy Rider,18,Delivered
+307,307,Uber Eats Rider,32,Delivered
+308,308,Swiggy Rider,49,Delivered
+309,309,Zomato Rider,29,Cancelled
+310,310,Uber Eats Rider,60,Pending
+311,311,Zomato Rider,40,Delivered
+312,312,Swiggy Rider,61,Cancelled
+313,313,Zomato Rider,46,Delivered
+314,314,Swiggy Rider,65,Delivered
+315,315,Zomato Rider,55,Pending
+316,316,Uber Eats Rider,53,Pending
+317,317,Uber Eats Rider,15,Delivered
+318,318,Swiggy Rider,47,Cancelled
+319,319,Uber Eats Rider,45,Cancelled
+320,320,Zomato Rider,69,Cancelled
+321,321,Swiggy Rider,25,Pending
+322,322,Uber Eats Rider,19,Delivered
+323,323,Swiggy Rider,36,Pending
+324,324,Swiggy Rider,15,Cancelled
+325,325,Zomato Rider,42,Pending
+326,326,Swiggy Rider,26,Pending
+327,327,Swiggy Rider,25,Cancelled
+328,328,Swiggy Rider,53,Pending
+329,329,Zomato Rider,52,Delivered
+330,330,Zomato Rider,70,Delivered
+331,331,Zomato Rider,22,Delivered
+332,332,Swiggy Rider,51,Cancelled
+333,333,Zomato Rider,68,Delivered
+334,334,Uber Eats Rider,47,Delivered
+335,335,Swiggy Rider,64,Delivered
+336,336,Swiggy Rider,34,Cancelled
+337,337,Zomato Rider,43,Pending
+338,338,Uber Eats Rider,37,Cancelled
+339,339,Zomato Rider,57,Pending
+340,340,Zomato Rider,38,Pending
+341,341,Swiggy Rider,67,Pending
+342,342,Zomato Rider,60,Pending
+343,343,Uber Eats Rider,64,Cancelled
+344,344,Uber Eats Rider,45,Delivered
+345,345,Zomato Rider,58,Cancelled
+346,346,Uber Eats Rider,55,Delivered
+347,347,Swiggy Rider,41,Delivered
+348,348,Uber Eats Rider,24,Pending
+349,349,Zomato Rider,16,Delivered
+350,350,Uber Eats Rider,62,Cancelled
+351,351,Zomato Rider,38,Delivered
+352,352,Uber Eats Rider,20,Delivered
+353,353,Zomato Rider,55,Delivered
+354,354,Zomato Rider,55,Cancelled
+355,355,Uber Eats Rider,43,Cancelled
+356,356,Swiggy Rider,31,Cancelled
+357,357,Zomato Rider,36,Pending
+358,358,Uber Eats Rider,41,Pending
+359,359,Zomato Rider,27,Delivered
+360,360,Uber Eats Rider,48,Cancelled
+361,361,Zomato Rider,68,Cancelled
+362,362,Swiggy Rider,42,Pending
+363,363,Uber Eats Rider,65,Pending
+364,364,Zomato Rider,22,Delivered
+365,365,Zomato Rider,58,Delivered
+366,366,Zomato Rider,58,Delivered
+367,367,Uber Eats Rider,33,Cancelled
+368,368,Uber Eats Rider,57,Delivered
+369,369,Zomato Rider,46,Pending
+370,370,Swiggy Rider,66,Pending
+371,371,Swiggy Rider,44,Delivered
+372,372,Swiggy Rider,33,Cancelled
+373,373,Swiggy Rider,18,Pending
+374,374,Zomato Rider,15,Pending
+375,375,Zomato Rider,57,Delivered
+376,376,Swiggy Rider,31,Delivered
+377,377,Zomato Rider,33,Cancelled
+378,378,Uber Eats Rider,64,Cancelled
+379,379,Swiggy Rider,20,Cancelled
+380,380,Zomato Rider,24,Cancelled
+381,381,Swiggy Rider,42,Cancelled
+382,382,Swiggy Rider,33,Delivered
+383,383,Swiggy Rider,45,Pending
+384,384,Swiggy Rider,66,Cancelled
+385,385,Uber Eats Rider,39,Pending
+386,386,Zomato Rider,21,Pending
+387,387,Zomato Rider,53,Pending
+388,388,Swiggy Rider,51,Pending
+389,389,Uber Eats Rider,35,Cancelled
+390,390,Swiggy Rider,58,Delivered
+391,391,Zomato Rider,23,Pending
+392,392,Uber Eats Rider,27,Pending
+393,393,Zomato Rider,20,Pending
+394,394,Uber Eats Rider,55,Pending
+395,395,Uber Eats Rider,26,Pending
+396,396,Zomato Rider,21,Delivered
+397,397,Uber Eats Rider,43,Cancelled
+398,398,Zomato Rider,47,Cancelled
+399,399,Uber Eats Rider,37,Pending
+400,400,Zomato Rider,42,Pending
+401,401,Zomato Rider,41,Pending
+402,402,Swiggy Rider,50,Delivered
+403,403,Zomato Rider,20,Delivered
+404,404,Uber Eats Rider,34,Delivered
+405,405,Uber Eats Rider,47,Pending
+406,406,Swiggy Rider,54,Cancelled
+407,407,Uber Eats Rider,33,Delivered
+408,408,Zomato Rider,23,Pending
+409,409,Uber Eats Rider,15,Pending
+410,410,Uber Eats Rider,44,Delivered
+411,411,Swiggy Rider,18,Pending
+412,412,Uber Eats Rider,21,Pending
+413,413,Uber Eats Rider,21,Pending
+414,414,Uber Eats Rider,45,Cancelled
+415,415,Zomato Rider,70,Delivered
+416,416,Swiggy Rider,62,Cancelled
+417,417,Uber Eats Rider,47,Cancelled
+418,418,Uber Eats Rider,18,Cancelled
+419,419,Swiggy Rider,48,Delivered
+420,420,Uber Eats Rider,62,Pending
+421,421,Swiggy Rider,29,Cancelled
+422,422,Uber Eats Rider,69,Delivered
+423,423,Zomato Rider,55,Pending
+424,424,Uber Eats Rider,15,Pending
+425,425,Uber Eats Rider,59,Delivered
+426,426,Swiggy Rider,19,Delivered
+427,427,Swiggy Rider,53,Delivered
+428,428,Uber Eats Rider,21,Delivered
+429,429,Swiggy Rider,21,Pending
+430,430,Swiggy Rider,68,Cancelled
+431,431,Zomato Rider,40,Delivered
+432,432,Swiggy Rider,34,Pending
+433,433,Zomato Rider,26,Delivered
+434,434,Uber Eats Rider,31,Cancelled
+435,435,Uber Eats Rider,43,Cancelled
+436,436,Uber Eats Rider,22,Pending
+437,437,Swiggy Rider,55,Delivered
+438,438,Swiggy Rider,24,Cancelled
+439,439,Uber Eats Rider,30,Delivered
+440,440,Uber Eats Rider,62,Cancelled
+441,441,Uber Eats Rider,27,Pending
+442,442,Zomato Rider,33,Pending
+443,443,Uber Eats Rider,21,Cancelled
+444,444,Zomato Rider,38,Cancelled
+445,445,Zomato Rider,40,Pending
+446,446,Uber Eats Rider,66,Delivered
+447,447,Zomato Rider,41,Pending
+448,448,Swiggy Rider,16,Pending
+449,449,Zomato Rider,22,Cancelled
+450,450,Zomato Rider,15,Cancelled
+451,451,Zomato Rider,17,Cancelled
+452,452,Uber Eats Rider,57,Cancelled
+453,453,Zomato Rider,17,Pending
+454,454,Swiggy Rider,44,Cancelled
+455,455,Zomato Rider,32,Delivered
+456,456,Swiggy Rider,37,Cancelled
+457,457,Uber Eats Rider,28,Pending
+458,458,Uber Eats Rider,48,Pending
+459,459,Uber Eats Rider,19,Delivered
+460,460,Uber Eats Rider,24,Pending
+461,461,Uber Eats Rider,61,Cancelled
+462,462,Zomato Rider,44,Cancelled
+463,463,Swiggy Rider,32,Cancelled
+464,464,Zomato Rider,40,Delivered
+465,465,Uber Eats Rider,45,Pending
+466,466,Zomato Rider,53,Cancelled
+467,467,Swiggy Rider,51,Cancelled
+468,468,Uber Eats Rider,64,Cancelled
+469,469,Uber Eats Rider,31,Delivered
+470,470,Uber Eats Rider,35,Cancelled
+471,471,Uber Eats Rider,37,Cancelled
+472,472,Uber Eats Rider,68,Pending
+473,473,Swiggy Rider,17,Delivered
+474,474,Uber Eats Rider,25,Delivered
+475,475,Swiggy Rider,57,Delivered
+476,476,Zomato Rider,58,Pending
+477,477,Zomato Rider,63,Delivered
+478,478,Uber Eats Rider,65,Delivered
+479,479,Swiggy Rider,26,Cancelled
+480,480,Zomato Rider,63,Pending
+481,481,Swiggy Rider,18,Cancelled
+482,482,Zomato Rider,22,Delivered
+483,483,Uber Eats Rider,19,Pending
+484,484,Zomato Rider,53,Cancelled
+485,485,Swiggy Rider,26,Pending
+486,486,Swiggy Rider,59,Pending
+487,487,Zomato Rider,23,Cancelled
+488,488,Uber Eats Rider,50,Delivered
+489,489,Swiggy Rider,31,Pending
+490,490,Zomato Rider,58,Pending
+491,491,Swiggy Rider,27,Cancelled
+492,492,Swiggy Rider,42,Cancelled
+493,493,Swiggy Rider,20,Cancelled
+494,494,Swiggy Rider,55,Cancelled
+495,495,Swiggy Rider,28,Delivered
+496,496,Swiggy Rider,15,Pending
+497,497,Zomato Rider,51,Cancelled
+498,498,Swiggy Rider,36,Delivered
+499,499,Uber Eats Rider,61,Cancelled
+500,500,Uber Eats Rider,48,Pending
+501,501,Swiggy Rider,68,Delivered
+502,502,Uber Eats Rider,67,Pending
+503,503,Uber Eats Rider,37,Pending
+504,504,Uber Eats Rider,50,Delivered
+505,505,Swiggy Rider,43,Pending
+506,506,Uber Eats Rider,39,Delivered
+507,507,Uber Eats Rider,20,Delivered
+508,508,Uber Eats Rider,34,Delivered
+509,509,Swiggy Rider,46,Delivered
+510,510,Swiggy Rider,53,Cancelled
+511,511,Zomato Rider,16,Delivered
+512,512,Zomato Rider,68,Pending
+513,513,Zomato Rider,60,Pending
+514,514,Swiggy Rider,70,Delivered
+515,515,Zomato Rider,19,Cancelled
+516,516,Uber Eats Rider,30,Cancelled
+517,517,Uber Eats Rider,47,Pending
+518,518,Zomato Rider,54,Delivered
+519,519,Uber Eats Rider,59,Delivered
+520,520,Uber Eats Rider,45,Pending
+521,521,Uber Eats Rider,16,Delivered
+522,522,Zomato Rider,41,Pending
+523,523,Swiggy Rider,36,Delivered
+524,524,Swiggy Rider,28,Cancelled
+525,525,Uber Eats Rider,36,Cancelled
+526,526,Swiggy Rider,30,Pending
+527,527,Swiggy Rider,66,Cancelled
+528,528,Uber Eats Rider,59,Delivered
+529,529,Zomato Rider,19,Pending
+530,530,Uber Eats Rider,62,Cancelled
+531,531,Swiggy Rider,50,Pending
+532,532,Swiggy Rider,32,Cancelled
+533,533,Swiggy Rider,21,Delivered
+534,534,Zomato Rider,47,Delivered
+535,535,Uber Eats Rider,37,Pending
+536,536,Zomato Rider,34,Delivered
+537,537,Swiggy Rider,18,Delivered
+538,538,Swiggy Rider,49,Cancelled
+539,539,Zomato Rider,58,Cancelled
+540,540,Uber Eats Rider,16,Cancelled
+541,541,Zomato Rider,18,Pending
+542,542,Zomato Rider,59,Delivered
+543,543,Zomato Rider,59,Pending
+544,544,Uber Eats Rider,23,Delivered
+545,545,Zomato Rider,22,Cancelled
+546,546,Zomato Rider,37,Delivered
+547,547,Zomato Rider,42,Delivered
+548,548,Swiggy Rider,29,Delivered
+549,549,Uber Eats Rider,15,Delivered
+550,550,Zomato Rider,62,Cancelled
+551,551,Uber Eats Rider,17,Delivered
+552,552,Uber Eats Rider,30,Delivered
+553,553,Swiggy Rider,18,Delivered
+554,554,Zomato Rider,26,Pending
+555,555,Swiggy Rider,35,Pending
+556,556,Uber Eats Rider,56,Delivered
+557,557,Zomato Rider,23,Cancelled
+558,558,Zomato Rider,45,Cancelled
+559,559,Swiggy Rider,57,Delivered
+560,560,Swiggy Rider,31,Cancelled
+561,561,Swiggy Rider,46,Cancelled
+562,562,Uber Eats Rider,67,Pending
+563,563,Swiggy Rider,43,Cancelled
+564,564,Zomato Rider,38,Cancelled
+565,565,Zomato Rider,70,Cancelled
+566,566,Swiggy Rider,48,Pending
+567,567,Zomato Rider,59,Cancelled
+568,568,Uber Eats Rider,21,Delivered
+569,569,Zomato Rider,41,Cancelled
+570,570,Uber Eats Rider,46,Pending
+571,571,Swiggy Rider,28,Delivered
+572,572,Uber Eats Rider,29,Pending
+573,573,Uber Eats Rider,50,Delivered
+574,574,Swiggy Rider,38,Cancelled
+575,575,Swiggy Rider,17,Delivered
+576,576,Uber Eats Rider,43,Cancelled
+577,577,Zomato Rider,22,Delivered
+578,578,Zomato Rider,68,Delivered
+579,579,Zomato Rider,32,Cancelled
+580,580,Zomato Rider,34,Delivered
+581,581,Swiggy Rider,32,Cancelled
+582,582,Zomato Rider,46,Delivered
+583,583,Zomato Rider,39,Pending
+584,584,Swiggy Rider,29,Delivered
+585,585,Zomato Rider,26,Cancelled
+586,586,Zomato Rider,49,Delivered
+587,587,Uber Eats Rider,34,Delivered
+588,588,Uber Eats Rider,63,Pending
+589,589,Swiggy Rider,53,Pending
+590,590,Zomato Rider,66,Cancelled
+591,591,Swiggy Rider,63,Delivered
+592,592,Zomato Rider,61,Cancelled
+593,593,Zomato Rider,70,Pending
+594,594,Uber Eats Rider,62,Delivered
+595,595,Swiggy Rider,50,Pending
+596,596,Uber Eats Rider,58,Pending
+597,597,Uber Eats Rider,44,Pending
+598,598,Uber Eats Rider,61,Cancelled
+599,599,Uber Eats Rider,31,Delivered
+600,600,Zomato Rider,44,Cancelled
+601,601,Swiggy Rider,23,Delivered
+602,602,Zomato Rider,66,Cancelled
+603,603,Zomato Rider,20,Delivered
+604,604,Uber Eats Rider,33,Pending
+605,605,Uber Eats Rider,40,Delivered
+606,606,Uber Eats Rider,32,Pending
+607,607,Zomato Rider,57,Pending
+608,608,Uber Eats Rider,66,Cancelled
+609,609,Swiggy Rider,22,Pending
+610,610,Uber Eats Rider,57,Pending
+611,611,Zomato Rider,69,Delivered
+612,612,Zomato Rider,44,Delivered
+613,613,Zomato Rider,15,Pending
+614,614,Swiggy Rider,37,Pending
+615,615,Uber Eats Rider,69,Cancelled
+616,616,Swiggy Rider,41,Delivered
+617,617,Uber Eats Rider,20,Pending
+618,618,Uber Eats Rider,50,Pending
+619,619,Swiggy Rider,43,Delivered
+620,620,Zomato Rider,64,Pending
+621,621,Zomato Rider,70,Pending
+622,622,Swiggy Rider,29,Cancelled
+623,623,Swiggy Rider,24,Cancelled
+624,624,Uber Eats Rider,18,Delivered
+625,625,Swiggy Rider,56,Delivered
+626,626,Swiggy Rider,58,Cancelled
+627,627,Zomato Rider,52,Pending
+628,628,Swiggy Rider,50,Cancelled
+629,629,Swiggy Rider,18,Cancelled
+630,630,Zomato Rider,31,Delivered
+631,631,Uber Eats Rider,69,Pending
+632,632,Uber Eats Rider,60,Delivered
+633,633,Uber Eats Rider,30,Pending
+634,634,Swiggy Rider,19,Cancelled
+635,635,Zomato Rider,22,Cancelled
+636,636,Swiggy Rider,30,Delivered
+637,637,Zomato Rider,51,Pending
+638,638,Uber Eats Rider,41,Delivered
+639,639,Uber Eats Rider,42,Pending
+640,640,Swiggy Rider,16,Pending
+641,641,Uber Eats Rider,65,Pending
+642,642,Zomato Rider,41,Cancelled
+643,643,Zomato Rider,45,Pending
+644,644,Uber Eats Rider,16,Delivered
+645,645,Zomato Rider,17,Pending
+646,646,Swiggy Rider,52,Delivered
+647,647,Swiggy Rider,53,Delivered
+648,648,Zomato Rider,47,Cancelled
+649,649,Uber Eats Rider,47,Cancelled
+650,650,Uber Eats Rider,37,Delivered
+651,651,Zomato Rider,68,Cancelled
+652,652,Swiggy Rider,57,Cancelled
+653,653,Swiggy Rider,39,Cancelled
+654,654,Swiggy Rider,19,Delivered
+655,655,Uber Eats Rider,47,Cancelled
+656,656,Uber Eats Rider,50,Cancelled
+657,657,Zomato Rider,49,Cancelled
+658,658,Swiggy Rider,69,Cancelled
+659,659,Swiggy Rider,53,Pending
+660,660,Uber Eats Rider,48,Cancelled
+661,661,Zomato Rider,35,Pending
+662,662,Swiggy Rider,68,Cancelled
+663,663,Zomato Rider,30,Pending
+664,664,Swiggy Rider,66,Pending
+665,665,Swiggy Rider,44,Pending
+666,666,Uber Eats Rider,22,Cancelled
+667,667,Swiggy Rider,43,Cancelled
+668,668,Zomato Rider,38,Delivered
+669,669,Zomato Rider,50,Cancelled
+670,670,Swiggy Rider,38,Cancelled
+671,671,Zomato Rider,53,Delivered
+672,672,Zomato Rider,65,Pending
+673,673,Swiggy Rider,51,Delivered
+674,674,Uber Eats Rider,30,Pending
+675,675,Uber Eats Rider,52,Cancelled
+676,676,Swiggy Rider,53,Pending
+677,677,Zomato Rider,36,Pending
+678,678,Swiggy Rider,20,Pending
+679,679,Zomato Rider,47,Delivered
+680,680,Uber Eats Rider,46,Cancelled
+681,681,Swiggy Rider,26,Pending
+682,682,Swiggy Rider,25,Delivered
+683,683,Zomato Rider,31,Cancelled
+684,684,Uber Eats Rider,45,Cancelled
+685,685,Swiggy Rider,23,Delivered
+686,686,Zomato Rider,16,Cancelled
+687,687,Swiggy Rider,19,Delivered
+688,688,Uber Eats Rider,70,Cancelled
+689,689,Zomato Rider,42,Pending
+690,690,Swiggy Rider,40,Cancelled
+691,691,Uber Eats Rider,30,Cancelled
+692,692,Zomato Rider,22,Pending
+693,693,Zomato Rider,52,Cancelled
+694,694,Uber Eats Rider,21,Cancelled
+695,695,Swiggy Rider,19,Cancelled
+696,696,Zomato Rider,43,Pending
+697,697,Uber Eats Rider,43,Cancelled
+698,698,Zomato Rider,33,Pending
+699,699,Uber Eats Rider,23,Cancelled
+700,700,Swiggy Rider,61,Cancelled
+701,701,Uber Eats Rider,20,Delivered
+702,702,Swiggy Rider,52,Cancelled
+703,703,Zomato Rider,58,Cancelled
+704,704,Zomato Rider,39,Pending
+705,705,Zomato Rider,26,Cancelled
+706,706,Uber Eats Rider,52,Pending
+707,707,Swiggy Rider,29,Pending
+708,708,Zomato Rider,36,Delivered
+709,709,Uber Eats Rider,48,Cancelled
+710,710,Uber Eats Rider,47,Pending
+711,711,Zomato Rider,35,Pending
+712,712,Zomato Rider,63,Delivered
+713,713,Swiggy Rider,17,Cancelled
+714,714,Uber Eats Rider,28,Pending
+715,715,Uber Eats Rider,32,Cancelled
+716,716,Uber Eats Rider,35,Delivered
+717,717,Zomato Rider,33,Delivered
+718,718,Swiggy Rider,33,Pending
+719,719,Zomato Rider,43,Delivered
+720,720,Swiggy Rider,33,Pending
+721,721,Uber Eats Rider,63,Delivered
+722,722,Swiggy Rider,57,Pending
+723,723,Swiggy Rider,21,Delivered
+724,724,Uber Eats Rider,68,Cancelled
+725,725,Swiggy Rider,16,Cancelled
+726,726,Swiggy Rider,49,Cancelled
+727,727,Swiggy Rider,15,Pending
+728,728,Swiggy Rider,38,Delivered
+729,729,Zomato Rider,51,Pending
+730,730,Uber Eats Rider,43,Cancelled
+731,731,Swiggy Rider,68,Pending
+732,732,Zomato Rider,22,Cancelled
+733,733,Uber Eats Rider,69,Delivered
+734,734,Zomato Rider,42,Pending
+735,735,Zomato Rider,20,Delivered
+736,736,Zomato Rider,61,Cancelled
+737,737,Swiggy Rider,37,Delivered
+738,738,Uber Eats Rider,65,Delivered
+739,739,Uber Eats Rider,19,Pending
+740,740,Swiggy Rider,47,Pending
+741,741,Zomato Rider,44,Cancelled
+742,742,Uber Eats Rider,47,Cancelled
+743,743,Swiggy Rider,60,Cancelled
+744,744,Zomato Rider,17,Pending
+745,745,Swiggy Rider,60,Cancelled
+746,746,Zomato Rider,27,Cancelled
+747,747,Uber Eats Rider,68,Cancelled
+748,748,Swiggy Rider,55,Cancelled
+749,749,Swiggy Rider,30,Delivered
+750,750,Uber Eats Rider,39,Delivered
+751,751,Uber Eats Rider,27,Pending
+752,752,Zomato Rider,24,Pending
+753,753,Swiggy Rider,61,Pending
+754,754,Zomato Rider,23,Delivered
+755,755,Uber Eats Rider,20,Cancelled
+756,756,Uber Eats Rider,62,Delivered
+757,757,Swiggy Rider,42,Delivered
+758,758,Zomato Rider,50,Cancelled
+759,759,Swiggy Rider,60,Delivered
+760,760,Swiggy Rider,41,Cancelled
+761,761,Zomato Rider,54,Pending
+762,762,Uber Eats Rider,52,Delivered
+763,763,Uber Eats Rider,37,Pending
+764,764,Uber Eats Rider,57,Delivered
+765,765,Zomato Rider,68,Delivered
+766,766,Zomato Rider,57,Pending
+767,767,Zomato Rider,65,Cancelled
+768,768,Zomato Rider,53,Pending
+769,769,Uber Eats Rider,45,Pending
+770,770,Swiggy Rider,29,Delivered
+771,771,Zomato Rider,41,Pending
+772,772,Zomato Rider,30,Cancelled
+773,773,Zomato Rider,22,Delivered
+774,774,Zomato Rider,35,Cancelled
+775,775,Swiggy Rider,37,Cancelled
+776,776,Zomato Rider,60,Delivered
+777,777,Zomato Rider,68,Pending
+778,778,Uber Eats Rider,41,Cancelled
+779,779,Swiggy Rider,16,Pending
+780,780,Zomato Rider,47,Delivered
+781,781,Zomato Rider,18,Cancelled
+782,782,Zomato Rider,31,Cancelled
+783,783,Zomato Rider,41,Pending
+784,784,Zomato Rider,42,Pending
+785,785,Zomato Rider,18,Pending
+786,786,Zomato Rider,61,Delivered
+787,787,Zomato Rider,55,Delivered
+788,788,Zomato Rider,43,Pending
+789,789,Swiggy Rider,51,Delivered
+790,790,Uber Eats Rider,28,Cancelled
+791,791,Swiggy Rider,54,Cancelled
+792,792,Zomato Rider,23,Cancelled
+793,793,Uber Eats Rider,16,Cancelled
+794,794,Swiggy Rider,66,Pending
+795,795,Swiggy Rider,64,Cancelled
+796,796,Zomato Rider,37,Cancelled
+797,797,Swiggy Rider,56,Delivered
+798,798,Uber Eats Rider,28,Pending
+799,799,Uber Eats Rider,27,Delivered
+800,800,Uber Eats Rider,40,Cancelled
+801,801,Swiggy Rider,33,Delivered
+802,802,Zomato Rider,36,Pending
+803,803,Swiggy Rider,50,Cancelled
+804,804,Swiggy Rider,15,Delivered
+805,805,Swiggy Rider,63,Cancelled
+806,806,Swiggy Rider,47,Pending
+807,807,Zomato Rider,17,Delivered
+808,808,Zomato Rider,34,Delivered
+809,809,Swiggy Rider,55,Cancelled
+810,810,Swiggy Rider,17,Pending
+811,811,Uber Eats Rider,22,Pending
+812,812,Uber Eats Rider,40,Delivered
+813,813,Uber Eats Rider,32,Delivered
+814,814,Swiggy Rider,19,Cancelled
+815,815,Uber Eats Rider,60,Cancelled
+816,816,Zomato Rider,16,Delivered
+817,817,Uber Eats Rider,68,Cancelled
+818,818,Uber Eats Rider,24,Delivered
+819,819,Uber Eats Rider,52,Pending
+820,820,Swiggy Rider,68,Cancelled
+821,821,Zomato Rider,65,Pending
+822,822,Zomato Rider,47,Cancelled
+823,823,Swiggy Rider,34,Pending
+824,824,Zomato Rider,27,Delivered
+825,825,Zomato Rider,56,Cancelled
+826,826,Zomato Rider,39,Pending
+827,827,Zomato Rider,20,Delivered
+828,828,Zomato Rider,50,Pending
+829,829,Zomato Rider,33,Cancelled
+830,830,Uber Eats Rider,47,Delivered
+831,831,Zomato Rider,16,Pending
+832,832,Uber Eats Rider,40,Pending
+833,833,Uber Eats Rider,60,Delivered
+834,834,Zomato Rider,29,Cancelled
+835,835,Swiggy Rider,40,Delivered
+836,836,Zomato Rider,38,Pending
+837,837,Uber Eats Rider,21,Cancelled
+838,838,Zomato Rider,36,Delivered
+839,839,Uber Eats Rider,20,Delivered
+840,840,Uber Eats Rider,25,Delivered
+841,841,Zomato Rider,52,Delivered
+842,842,Swiggy Rider,24,Pending
+843,843,Uber Eats Rider,68,Pending
+844,844,Uber Eats Rider,61,Cancelled
+845,845,Swiggy Rider,18,Pending
+846,846,Zomato Rider,41,Pending
+847,847,Uber Eats Rider,36,Delivered
+848,848,Swiggy Rider,35,Cancelled
+849,849,Uber Eats Rider,53,Pending
+850,850,Swiggy Rider,32,Cancelled
+851,851,Swiggy Rider,63,Cancelled
+852,852,Zomato Rider,49,Pending
+853,853,Zomato Rider,56,Delivered
+854,854,Zomato Rider,44,Cancelled
+855,855,Zomato Rider,47,Cancelled
+856,856,Uber Eats Rider,61,Delivered
+857,857,Swiggy Rider,42,Cancelled
+858,858,Swiggy Rider,39,Delivered
+859,859,Swiggy Rider,25,Cancelled
+860,860,Uber Eats Rider,22,Delivered
+861,861,Swiggy Rider,43,Delivered
+862,862,Swiggy Rider,42,Pending
+863,863,Swiggy Rider,55,Cancelled
+864,864,Zomato Rider,23,Cancelled
+865,865,Uber Eats Rider,41,Pending
+866,866,Swiggy Rider,33,Delivered
+867,867,Zomato Rider,33,Cancelled
+868,868,Uber Eats Rider,32,Cancelled
+869,869,Zomato Rider,54,Pending
+870,870,Uber Eats Rider,56,Delivered
+871,871,Swiggy Rider,33,Cancelled
+872,872,Uber Eats Rider,28,Cancelled
+873,873,Uber Eats Rider,38,Cancelled
+874,874,Uber Eats Rider,31,Pending
+875,875,Zomato Rider,28,Pending
+876,876,Uber Eats Rider,61,Delivered
+877,877,Swiggy Rider,48,Cancelled
+878,878,Zomato Rider,15,Pending
+879,879,Zomato Rider,26,Delivered
+880,880,Zomato Rider,19,Delivered
+881,881,Zomato Rider,59,Delivered
+882,882,Swiggy Rider,59,Delivered
+883,883,Uber Eats Rider,44,Pending
+884,884,Swiggy Rider,18,Cancelled
+885,885,Zomato Rider,53,Delivered
+886,886,Swiggy Rider,37,Cancelled
+887,887,Uber Eats Rider,29,Pending
+888,888,Uber Eats Rider,15,Delivered
+889,889,Zomato Rider,33,Pending
+890,890,Uber Eats Rider,61,Pending
+891,891,Zomato Rider,54,Pending
+892,892,Zomato Rider,50,Cancelled
+893,893,Uber Eats Rider,57,Delivered
+894,894,Swiggy Rider,52,Delivered
+895,895,Swiggy Rider,61,Delivered
+896,896,Zomato Rider,26,Pending
+897,897,Uber Eats Rider,21,Delivered
+898,898,Uber Eats Rider,52,Cancelled
+899,899,Zomato Rider,36,Cancelled
+900,900,Uber Eats Rider,53,Pending
+901,901,Uber Eats Rider,70,Cancelled
+902,902,Uber Eats Rider,45,Delivered
+903,903,Swiggy Rider,15,Delivered
+904,904,Swiggy Rider,20,Cancelled
+905,905,Swiggy Rider,24,Delivered
+906,906,Zomato Rider,70,Delivered
+907,907,Zomato Rider,19,Delivered
+908,908,Swiggy Rider,47,Pending
+909,909,Zomato Rider,57,Pending
+910,910,Zomato Rider,34,Cancelled
+911,911,Swiggy Rider,30,Cancelled
+912,912,Zomato Rider,39,Pending
+913,913,Uber Eats Rider,45,Pending
+914,914,Zomato Rider,68,Cancelled
+915,915,Zomato Rider,48,Delivered
+916,916,Uber Eats Rider,68,Delivered
+917,917,Swiggy Rider,55,Pending
+918,918,Uber Eats Rider,24,Pending
+919,919,Uber Eats Rider,43,Pending
+920,920,Uber Eats Rider,65,Pending
+921,921,Uber Eats Rider,22,Cancelled
+922,922,Zomato Rider,56,Pending
+923,923,Swiggy Rider,16,Pending
+924,924,Zomato Rider,64,Cancelled
+925,925,Zomato Rider,61,Pending
+926,926,Swiggy Rider,54,Cancelled
+927,927,Swiggy Rider,39,Pending
+928,928,Swiggy Rider,62,Delivered
+929,929,Swiggy Rider,43,Pending
+930,930,Uber Eats Rider,27,Delivered
+931,931,Uber Eats Rider,34,Pending
+932,932,Swiggy Rider,38,Pending
+933,933,Uber Eats Rider,15,Cancelled
+934,934,Zomato Rider,17,Cancelled
+935,935,Zomato Rider,56,Pending
+936,936,Zomato Rider,17,Cancelled
+937,937,Uber Eats Rider,31,Pending
+938,938,Uber Eats Rider,18,Cancelled
+939,939,Swiggy Rider,70,Cancelled
+940,940,Zomato Rider,53,Cancelled
+941,941,Zomato Rider,46,Delivered
+942,942,Zomato Rider,62,Cancelled
+943,943,Uber Eats Rider,66,Delivered
+944,944,Swiggy Rider,38,Delivered
+945,945,Uber Eats Rider,60,Delivered
+946,946,Uber Eats Rider,62,Delivered
+947,947,Swiggy Rider,20,Pending
+948,948,Swiggy Rider,18,Pending
+949,949,Uber Eats Rider,60,Delivered
+950,950,Zomato Rider,21,Cancelled
+951,951,Zomato Rider,69,Delivered
+952,952,Uber Eats Rider,54,Cancelled
+953,953,Swiggy Rider,36,Cancelled
+954,954,Zomato Rider,60,Delivered
+955,955,Uber Eats Rider,61,Pending
+956,956,Uber Eats Rider,15,Cancelled
+957,957,Zomato Rider,41,Cancelled
+958,958,Uber Eats Rider,18,Delivered
+959,959,Swiggy Rider,67,Cancelled
+960,960,Swiggy Rider,61,Pending
+961,961,Swiggy Rider,26,Pending
+962,962,Swiggy Rider,32,Cancelled
+963,963,Swiggy Rider,59,Cancelled
+964,964,Zomato Rider,26,Cancelled
+965,965,Uber Eats Rider,68,Delivered
+966,966,Zomato Rider,32,Cancelled
+967,967,Zomato Rider,22,Pending
+968,968,Zomato Rider,51,Cancelled
+969,969,Swiggy Rider,51,Pending
+970,970,Swiggy Rider,22,Delivered
+971,971,Swiggy Rider,61,Delivered
+972,972,Swiggy Rider,35,Cancelled
+973,973,Uber Eats Rider,16,Delivered
+974,974,Swiggy Rider,28,Cancelled
+975,975,Zomato Rider,44,Delivered
+976,976,Uber Eats Rider,30,Pending
+977,977,Uber Eats Rider,56,Delivered
+978,978,Uber Eats Rider,63,Cancelled
+979,979,Swiggy Rider,34,Delivered
+980,980,Zomato Rider,60,Pending
+981,981,Swiggy Rider,32,Delivered
+982,982,Uber Eats Rider,35,Pending
+983,983,Swiggy Rider,68,Delivered
+984,984,Zomato Rider,27,Delivered
+985,985,Zomato Rider,31,Cancelled
+986,986,Zomato Rider,31,Delivered
+987,987,Zomato Rider,37,Cancelled
+988,988,Zomato Rider,37,Cancelled
+989,989,Uber Eats Rider,43,Cancelled
+990,990,Uber Eats Rider,68,Delivered
+991,991,Swiggy Rider,68,Cancelled
+992,992,Zomato Rider,24,Cancelled
+993,993,Uber Eats Rider,28,Cancelled
+994,994,Zomato Rider,37,Cancelled
+995,995,Uber Eats Rider,65,Pending
+996,996,Swiggy Rider,36,Cancelled
+997,997,Uber Eats Rider,50,Cancelled
+998,998,Zomato Rider,20,Cancelled
+999,999,Swiggy Rider,31,Delivered
+1000,1000,Zomato Rider,31,Delivered
+1001,1001,Swiggy Rider,48,Cancelled
+1002,1002,Uber Eats Rider,26,Pending
+1003,1003,Swiggy Rider,44,Cancelled
+1004,1004,Zomato Rider,38,Cancelled
+1005,1005,Zomato Rider,57,Cancelled
+1006,1006,Swiggy Rider,35,Cancelled
+1007,1007,Swiggy Rider,55,Pending
+1008,1008,Swiggy Rider,25,Pending
+1009,1009,Zomato Rider,36,Pending
+1010,1010,Uber Eats Rider,21,Delivered
+1011,1011,Zomato Rider,34,Delivered
+1012,1012,Zomato Rider,49,Delivered
+1013,1013,Swiggy Rider,43,Cancelled
+1014,1014,Zomato Rider,52,Cancelled
+1015,1015,Uber Eats Rider,42,Cancelled
+1016,1016,Zomato Rider,45,Delivered
+1017,1017,Zomato Rider,61,Pending
+1018,1018,Uber Eats Rider,36,Pending
+1019,1019,Uber Eats Rider,40,Pending
+1020,1020,Swiggy Rider,29,Cancelled
+1021,1021,Swiggy Rider,41,Pending
+1022,1022,Zomato Rider,51,Pending
+1023,1023,Uber Eats Rider,16,Delivered
+1024,1024,Uber Eats Rider,25,Pending
+1025,1025,Uber Eats Rider,59,Cancelled
+1026,1026,Swiggy Rider,51,Delivered
+1027,1027,Swiggy Rider,57,Pending
+1028,1028,Swiggy Rider,20,Pending
+1029,1029,Swiggy Rider,66,Pending
+1030,1030,Zomato Rider,40,Delivered
+1031,1031,Zomato Rider,15,Cancelled
+1032,1032,Swiggy Rider,27,Delivered
+1033,1033,Zomato Rider,34,Delivered
+1034,1034,Swiggy Rider,30,Delivered
+1035,1035,Zomato Rider,20,Cancelled
+1036,1036,Swiggy Rider,24,Cancelled
+1037,1037,Uber Eats Rider,69,Pending
+1038,1038,Swiggy Rider,45,Delivered
+1039,1039,Zomato Rider,21,Pending
+1040,1040,Uber Eats Rider,58,Pending
+1041,1041,Uber Eats Rider,28,Pending
+1042,1042,Uber Eats Rider,39,Pending
+1043,1043,Uber Eats Rider,30,Delivered
+1044,1044,Zomato Rider,23,Pending
+1045,1045,Swiggy Rider,40,Pending
+1046,1046,Zomato Rider,67,Cancelled
+1047,1047,Uber Eats Rider,70,Pending
+1048,1048,Uber Eats Rider,40,Cancelled
+1049,1049,Swiggy Rider,37,Pending
+1050,1050,Uber Eats Rider,62,Cancelled
+1051,1051,Swiggy Rider,29,Cancelled
+1052,1052,Swiggy Rider,64,Delivered
+1053,1053,Zomato Rider,38,Pending
+1054,1054,Uber Eats Rider,67,Delivered
+1055,1055,Uber Eats Rider,53,Pending
+1056,1056,Swiggy Rider,56,Delivered
+1057,1057,Swiggy Rider,46,Delivered
+1058,1058,Swiggy Rider,28,Pending
+1059,1059,Zomato Rider,20,Pending
+1060,1060,Zomato Rider,56,Delivered
+1061,1061,Zomato Rider,24,Pending
+1062,1062,Zomato Rider,39,Cancelled
+1063,1063,Zomato Rider,17,Pending
+1064,1064,Zomato Rider,26,Delivered
+1065,1065,Zomato Rider,58,Cancelled
+1066,1066,Swiggy Rider,44,Delivered
+1067,1067,Zomato Rider,58,Cancelled
+1068,1068,Swiggy Rider,56,Pending
+1069,1069,Swiggy Rider,25,Pending
+1070,1070,Swiggy Rider,51,Cancelled
+1071,1071,Zomato Rider,58,Pending
+1072,1072,Swiggy Rider,46,Cancelled
+1073,1073,Uber Eats Rider,40,Pending
+1074,1074,Swiggy Rider,34,Pending
+1075,1075,Zomato Rider,62,Cancelled
+1076,1076,Swiggy Rider,53,Pending
+1077,1077,Uber Eats Rider,38,Pending
+1078,1078,Uber Eats Rider,36,Cancelled
+1079,1079,Zomato Rider,22,Delivered
+1080,1080,Zomato Rider,49,Pending
+1081,1081,Uber Eats Rider,20,Delivered
+1082,1082,Swiggy Rider,36,Cancelled
+1083,1083,Uber Eats Rider,31,Delivered
+1084,1084,Uber Eats Rider,67,Cancelled
+1085,1085,Uber Eats Rider,70,Pending
+1086,1086,Zomato Rider,18,Pending
+1087,1087,Zomato Rider,17,Delivered
+1088,1088,Zomato Rider,44,Pending
+1089,1089,Swiggy Rider,53,Cancelled
+1090,1090,Zomato Rider,31,Pending
+1091,1091,Zomato Rider,58,Pending
+1092,1092,Swiggy Rider,49,Pending
+1093,1093,Swiggy Rider,33,Pending
+1094,1094,Zomato Rider,16,Pending
+1095,1095,Zomato Rider,34,Cancelled
+1096,1096,Swiggy Rider,53,Delivered
+1097,1097,Zomato Rider,61,Delivered
+1098,1098,Uber Eats Rider,62,Pending
+1099,1099,Swiggy Rider,26,Delivered
+1100,1100,Uber Eats Rider,21,Delivered
+1101,1101,Uber Eats Rider,24,Cancelled
+1102,1102,Zomato Rider,42,Pending
+1103,1103,Zomato Rider,44,Cancelled
+1104,1104,Uber Eats Rider,30,Cancelled
+1105,1105,Uber Eats Rider,51,Pending
+1106,1106,Swiggy Rider,19,Pending
+1107,1107,Zomato Rider,17,Delivered
+1108,1108,Uber Eats Rider,61,Cancelled
+1109,1109,Swiggy Rider,39,Cancelled
+1110,1110,Uber Eats Rider,20,Pending
+1111,1111,Uber Eats Rider,62,Pending
+1112,1112,Zomato Rider,40,Delivered
+1113,1113,Swiggy Rider,62,Pending
+1114,1114,Uber Eats Rider,56,Cancelled
+1115,1115,Swiggy Rider,68,Pending
+1116,1116,Swiggy Rider,65,Delivered
+1117,1117,Uber Eats Rider,31,Pending
+1118,1118,Uber Eats Rider,47,Cancelled
+1119,1119,Swiggy Rider,59,Delivered
+1120,1120,Zomato Rider,51,Pending
+1121,1121,Swiggy Rider,63,Pending
+1122,1122,Zomato Rider,62,Cancelled
+1123,1123,Swiggy Rider,32,Cancelled
+1124,1124,Uber Eats Rider,17,Cancelled
+1125,1125,Zomato Rider,26,Cancelled
+1126,1126,Zomato Rider,32,Delivered
+1127,1127,Zomato Rider,28,Delivered
+1128,1128,Zomato Rider,57,Delivered
+1129,1129,Zomato Rider,32,Pending
+1130,1130,Uber Eats Rider,65,Cancelled
+1131,1131,Zomato Rider,21,Delivered
+1132,1132,Swiggy Rider,16,Cancelled
+1133,1133,Zomato Rider,29,Delivered
+1134,1134,Uber Eats Rider,33,Cancelled
+1135,1135,Uber Eats Rider,53,Pending
+1136,1136,Uber Eats Rider,41,Cancelled
+1137,1137,Uber Eats Rider,36,Cancelled
+1138,1138,Zomato Rider,45,Cancelled
+1139,1139,Swiggy Rider,36,Pending
+1140,1140,Zomato Rider,37,Pending
+1141,1141,Swiggy Rider,44,Cancelled
+1142,1142,Zomato Rider,28,Cancelled
+1143,1143,Uber Eats Rider,25,Cancelled
+1144,1144,Zomato Rider,31,Pending
+1145,1145,Swiggy Rider,57,Cancelled
+1146,1146,Swiggy Rider,55,Pending
+1147,1147,Uber Eats Rider,37,Delivered
+1148,1148,Swiggy Rider,62,Cancelled
+1149,1149,Zomato Rider,34,Pending
+1150,1150,Zomato Rider,43,Cancelled
+1151,1151,Zomato Rider,16,Delivered
+1152,1152,Uber Eats Rider,52,Delivered
+1153,1153,Uber Eats Rider,37,Cancelled
+1154,1154,Zomato Rider,41,Delivered
+1155,1155,Zomato Rider,50,Cancelled
+1156,1156,Zomato Rider,30,Pending
+1157,1157,Uber Eats Rider,23,Pending
+1158,1158,Uber Eats Rider,69,Delivered
+1159,1159,Swiggy Rider,40,Delivered
+1160,1160,Swiggy Rider,22,Cancelled
+1161,1161,Zomato Rider,26,Delivered
+1162,1162,Uber Eats Rider,40,Cancelled
+1163,1163,Zomato Rider,37,Delivered
+1164,1164,Zomato Rider,53,Pending
+1165,1165,Zomato Rider,64,Pending
+1166,1166,Uber Eats Rider,21,Cancelled
+1167,1167,Uber Eats Rider,55,Cancelled
+1168,1168,Zomato Rider,47,Cancelled
+1169,1169,Uber Eats Rider,40,Delivered
+1170,1170,Zomato Rider,46,Pending
+1171,1171,Zomato Rider,67,Pending
+1172,1172,Swiggy Rider,70,Delivered
+1173,1173,Zomato Rider,33,Delivered
+1174,1174,Uber Eats Rider,68,Pending
+1175,1175,Zomato Rider,56,Delivered
+1176,1176,Uber Eats Rider,21,Pending
+1177,1177,Uber Eats Rider,56,Pending
+1178,1178,Zomato Rider,41,Delivered
+1179,1179,Uber Eats Rider,16,Cancelled
+1180,1180,Swiggy Rider,23,Cancelled
+1181,1181,Uber Eats Rider,47,Delivered
+1182,1182,Uber Eats Rider,51,Cancelled
+1183,1183,Zomato Rider,16,Pending
+1184,1184,Uber Eats Rider,30,Delivered
+1185,1185,Uber Eats Rider,55,Pending
+1186,1186,Uber Eats Rider,20,Pending
+1187,1187,Swiggy Rider,62,Cancelled
+1188,1188,Uber Eats Rider,39,Cancelled
+1189,1189,Uber Eats Rider,70,Delivered
+1190,1190,Swiggy Rider,44,Pending
+1191,1191,Uber Eats Rider,70,Delivered
+1192,1192,Swiggy Rider,45,Cancelled
+1193,1193,Swiggy Rider,35,Delivered
+1194,1194,Zomato Rider,19,Delivered
+1195,1195,Swiggy Rider,51,Pending
+1196,1196,Zomato Rider,30,Cancelled
+1197,1197,Uber Eats Rider,43,Delivered
+1198,1198,Swiggy Rider,44,Cancelled
+1199,1199,Uber Eats Rider,22,Cancelled
+1200,1200,Zomato Rider,70,Delivered
+1201,1201,Swiggy Rider,44,Cancelled
+1202,1202,Swiggy Rider,15,Cancelled
+1203,1203,Swiggy Rider,58,Cancelled
+1204,1204,Zomato Rider,70,Cancelled
+1205,1205,Zomato Rider,70,Pending
+1206,1206,Swiggy Rider,65,Pending
+1207,1207,Zomato Rider,60,Cancelled
+1208,1208,Swiggy Rider,60,Cancelled
+1209,1209,Uber Eats Rider,49,Cancelled
+1210,1210,Swiggy Rider,43,Pending
+1211,1211,Uber Eats Rider,18,Pending
+1212,1212,Zomato Rider,68,Cancelled
+1213,1213,Swiggy Rider,38,Pending
+1214,1214,Uber Eats Rider,47,Cancelled
+1215,1215,Uber Eats Rider,43,Pending
+1216,1216,Swiggy Rider,21,Delivered
+1217,1217,Zomato Rider,63,Cancelled
+1218,1218,Swiggy Rider,61,Delivered
+1219,1219,Zomato Rider,41,Cancelled
+1220,1220,Zomato Rider,24,Delivered
+1221,1221,Zomato Rider,28,Pending
+1222,1222,Swiggy Rider,36,Cancelled
+1223,1223,Uber Eats Rider,19,Pending
+1224,1224,Uber Eats Rider,46,Delivered
+1225,1225,Zomato Rider,36,Pending
+1226,1226,Uber Eats Rider,43,Pending
+1227,1227,Zomato Rider,59,Pending
+1228,1228,Uber Eats Rider,32,Cancelled
+1229,1229,Swiggy Rider,63,Delivered
+1230,1230,Swiggy Rider,48,Pending
+1231,1231,Swiggy Rider,29,Pending
+1232,1232,Uber Eats Rider,38,Cancelled
+1233,1233,Zomato Rider,34,Cancelled
+1234,1234,Swiggy Rider,51,Cancelled
+1235,1235,Zomato Rider,45,Cancelled
+1236,1236,Zomato Rider,58,Pending
+1237,1237,Swiggy Rider,62,Cancelled
+1238,1238,Swiggy Rider,24,Cancelled
+1239,1239,Zomato Rider,69,Pending
+1240,1240,Zomato Rider,55,Delivered
+1241,1241,Swiggy Rider,69,Delivered
+1242,1242,Uber Eats Rider,34,Delivered
+1243,1243,Uber Eats Rider,15,Pending
+1244,1244,Zomato Rider,61,Cancelled
+1245,1245,Uber Eats Rider,70,Cancelled
+1246,1246,Zomato Rider,45,Cancelled
+1247,1247,Swiggy Rider,37,Cancelled
+1248,1248,Swiggy Rider,52,Cancelled
+1249,1249,Zomato Rider,48,Pending
+1250,1250,Zomato Rider,70,Pending
+1251,1251,Uber Eats Rider,25,Cancelled
+1252,1252,Zomato Rider,26,Pending
+1253,1253,Zomato Rider,15,Cancelled
+1254,1254,Swiggy Rider,36,Delivered
+1255,1255,Zomato Rider,28,Delivered
+1256,1256,Swiggy Rider,32,Cancelled
+1257,1257,Uber Eats Rider,65,Delivered
+1258,1258,Uber Eats Rider,27,Pending
+1259,1259,Zomato Rider,44,Cancelled
+1260,1260,Uber Eats Rider,15,Cancelled
+1261,1261,Uber Eats Rider,29,Cancelled
+1262,1262,Swiggy Rider,38,Cancelled
+1263,1263,Swiggy Rider,40,Cancelled
+1264,1264,Swiggy Rider,36,Cancelled
+1265,1265,Swiggy Rider,32,Cancelled
+1266,1266,Uber Eats Rider,69,Cancelled
+1267,1267,Uber Eats Rider,70,Delivered
+1268,1268,Swiggy Rider,43,Cancelled
+1269,1269,Uber Eats Rider,30,Delivered
+1270,1270,Zomato Rider,66,Cancelled
+1271,1271,Swiggy Rider,59,Cancelled
+1272,1272,Swiggy Rider,29,Cancelled
+1273,1273,Uber Eats Rider,44,Delivered
+1274,1274,Swiggy Rider,53,Pending
+1275,1275,Uber Eats Rider,32,Delivered
+1276,1276,Uber Eats Rider,27,Cancelled
+1277,1277,Swiggy Rider,23,Cancelled
+1278,1278,Zomato Rider,18,Delivered
+1279,1279,Swiggy Rider,30,Cancelled
+1280,1280,Uber Eats Rider,45,Pending
+1281,1281,Swiggy Rider,49,Delivered
+1282,1282,Zomato Rider,65,Cancelled
+1283,1283,Swiggy Rider,27,Pending
+1284,1284,Swiggy Rider,43,Delivered
+1285,1285,Zomato Rider,27,Delivered
+1286,1286,Uber Eats Rider,52,Delivered
+1287,1287,Uber Eats Rider,46,Pending
+1288,1288,Uber Eats Rider,15,Cancelled
+1289,1289,Zomato Rider,70,Delivered
+1290,1290,Uber Eats Rider,43,Cancelled
+1291,1291,Swiggy Rider,52,Cancelled
+1292,1292,Uber Eats Rider,63,Pending
+1293,1293,Swiggy Rider,31,Pending
+1294,1294,Uber Eats Rider,32,Pending
+1295,1295,Uber Eats Rider,26,Pending
+1296,1296,Uber Eats Rider,45,Cancelled
+1297,1297,Zomato Rider,56,Pending
+1298,1298,Zomato Rider,70,Cancelled
+1299,1299,Swiggy Rider,36,Pending
+1300,1300,Uber Eats Rider,50,Cancelled
+1301,1301,Zomato Rider,55,Pending
+1302,1302,Swiggy Rider,63,Delivered
+1303,1303,Zomato Rider,15,Pending
+1304,1304,Uber Eats Rider,45,Pending
+1305,1305,Swiggy Rider,26,Delivered
+1306,1306,Zomato Rider,58,Pending
+1307,1307,Swiggy Rider,70,Pending
+1308,1308,Zomato Rider,55,Cancelled
+1309,1309,Uber Eats Rider,67,Delivered
+1310,1310,Swiggy Rider,64,Delivered
+1311,1311,Swiggy Rider,28,Pending
+1312,1312,Uber Eats Rider,34,Pending
+1313,1313,Uber Eats Rider,45,Delivered
+1314,1314,Uber Eats Rider,34,Cancelled
+1315,1315,Swiggy Rider,51,Cancelled
+1316,1316,Swiggy Rider,35,Delivered
+1317,1317,Swiggy Rider,64,Pending
+1318,1318,Swiggy Rider,69,Delivered
+1319,1319,Uber Eats Rider,57,Delivered
+1320,1320,Zomato Rider,48,Pending
+1321,1321,Uber Eats Rider,53,Pending
+1322,1322,Uber Eats Rider,32,Delivered
+1323,1323,Zomato Rider,45,Pending
+1324,1324,Zomato Rider,24,Pending
+1325,1325,Zomato Rider,61,Pending
+1326,1326,Uber Eats Rider,35,Pending
+1327,1327,Zomato Rider,42,Cancelled
+1328,1328,Zomato Rider,63,Pending
+1329,1329,Swiggy Rider,63,Pending
+1330,1330,Swiggy Rider,41,Pending
+1331,1331,Uber Eats Rider,66,Delivered
+1332,1332,Zomato Rider,64,Pending
+1333,1333,Swiggy Rider,67,Cancelled
+1334,1334,Swiggy Rider,28,Cancelled
+1335,1335,Uber Eats Rider,31,Pending
+1336,1336,Zomato Rider,16,Pending
+1337,1337,Zomato Rider,65,Pending
+1338,1338,Zomato Rider,50,Cancelled
+1339,1339,Uber Eats Rider,27,Delivered
+1340,1340,Uber Eats Rider,47,Pending
+1341,1341,Zomato Rider,21,Delivered
+1342,1342,Swiggy Rider,25,Pending
+1343,1343,Uber Eats Rider,45,Cancelled
+1344,1344,Uber Eats Rider,45,Delivered
+1345,1345,Uber Eats Rider,39,Cancelled
+1346,1346,Uber Eats Rider,46,Delivered
+1347,1347,Zomato Rider,53,Cancelled
+1348,1348,Zomato Rider,18,Delivered
+1349,1349,Swiggy Rider,55,Pending
+1350,1350,Zomato Rider,49,Pending
+1351,1351,Zomato Rider,33,Delivered
+1352,1352,Zomato Rider,23,Cancelled
+1353,1353,Swiggy Rider,35,Cancelled
+1354,1354,Zomato Rider,67,Delivered
+1355,1355,Swiggy Rider,52,Pending
+1356,1356,Uber Eats Rider,27,Cancelled
+1357,1357,Swiggy Rider,43,Delivered
+1358,1358,Zomato Rider,51,Cancelled
+1359,1359,Uber Eats Rider,31,Cancelled
+1360,1360,Uber Eats Rider,67,Pending
+1361,1361,Uber Eats Rider,16,Delivered
+1362,1362,Swiggy Rider,70,Cancelled
+1363,1363,Uber Eats Rider,62,Pending
+1364,1364,Zomato Rider,64,Pending
+1365,1365,Uber Eats Rider,28,Delivered
+1366,1366,Zomato Rider,44,Delivered
+1367,1367,Zomato Rider,38,Pending
+1368,1368,Swiggy Rider,58,Cancelled
+1369,1369,Zomato Rider,31,Cancelled
+1370,1370,Uber Eats Rider,16,Delivered
+1371,1371,Swiggy Rider,56,Pending
+1372,1372,Zomato Rider,40,Pending
+1373,1373,Swiggy Rider,68,Cancelled
+1374,1374,Swiggy Rider,47,Pending
+1375,1375,Swiggy Rider,51,Pending
+1376,1376,Swiggy Rider,47,Pending
+1377,1377,Uber Eats Rider,46,Pending
+1378,1378,Uber Eats Rider,36,Cancelled
+1379,1379,Swiggy Rider,62,Delivered
+1380,1380,Uber Eats Rider,20,Cancelled
+1381,1381,Swiggy Rider,49,Delivered
+1382,1382,Uber Eats Rider,69,Delivered
+1383,1383,Uber Eats Rider,44,Cancelled
+1384,1384,Uber Eats Rider,27,Delivered
+1385,1385,Uber Eats Rider,42,Pending
+1386,1386,Zomato Rider,43,Cancelled
+1387,1387,Swiggy Rider,56,Pending
+1388,1388,Swiggy Rider,26,Cancelled
+1389,1389,Uber Eats Rider,36,Pending
+1390,1390,Uber Eats Rider,64,Cancelled
+1391,1391,Uber Eats Rider,67,Pending
+1392,1392,Swiggy Rider,40,Cancelled
+1393,1393,Zomato Rider,15,Cancelled
+1394,1394,Zomato Rider,16,Delivered
+1395,1395,Swiggy Rider,35,Pending
+1396,1396,Swiggy Rider,31,Delivered
+1397,1397,Uber Eats Rider,58,Pending
+1398,1398,Uber Eats Rider,44,Cancelled
+1399,1399,Uber Eats Rider,27,Cancelled
+1400,1400,Zomato Rider,60,Cancelled
+1401,1401,Swiggy Rider,27,Delivered
+1402,1402,Swiggy Rider,34,Delivered
+1403,1403,Swiggy Rider,16,Cancelled
+1404,1404,Uber Eats Rider,69,Delivered
+1405,1405,Swiggy Rider,49,Pending
+1406,1406,Swiggy Rider,35,Pending
+1407,1407,Swiggy Rider,57,Delivered
+1408,1408,Swiggy Rider,34,Delivered
+1409,1409,Zomato Rider,32,Delivered
+1410,1410,Swiggy Rider,64,Pending
+1411,1411,Swiggy Rider,23,Pending
+1412,1412,Swiggy Rider,68,Pending
+1413,1413,Swiggy Rider,43,Cancelled
+1414,1414,Uber Eats Rider,28,Pending
+1415,1415,Swiggy Rider,43,Pending
+1416,1416,Zomato Rider,27,Delivered
+1417,1417,Zomato Rider,52,Delivered
+1418,1418,Swiggy Rider,26,Cancelled
+1419,1419,Uber Eats Rider,61,Cancelled
+1420,1420,Swiggy Rider,25,Delivered
+1421,1421,Swiggy Rider,46,Cancelled
+1422,1422,Uber Eats Rider,37,Cancelled
+1423,1423,Zomato Rider,41,Delivered
+1424,1424,Swiggy Rider,20,Cancelled
+1425,1425,Zomato Rider,45,Pending
+1426,1426,Uber Eats Rider,22,Pending
+1427,1427,Swiggy Rider,15,Pending
+1428,1428,Zomato Rider,40,Delivered
+1429,1429,Zomato Rider,38,Pending
+1430,1430,Swiggy Rider,42,Cancelled
+1431,1431,Zomato Rider,29,Cancelled
+1432,1432,Swiggy Rider,56,Cancelled
+1433,1433,Zomato Rider,45,Delivered
+1434,1434,Zomato Rider,61,Cancelled
+1435,1435,Zomato Rider,17,Delivered
+1436,1436,Swiggy Rider,26,Cancelled
+1437,1437,Swiggy Rider,23,Cancelled
+1438,1438,Swiggy Rider,23,Cancelled
+1439,1439,Zomato Rider,63,Delivered
+1440,1440,Swiggy Rider,53,Delivered
+1441,1441,Uber Eats Rider,57,Pending
+1442,1442,Zomato Rider,54,Pending
+1443,1443,Swiggy Rider,41,Delivered
+1444,1444,Swiggy Rider,48,Delivered
+1445,1445,Uber Eats Rider,66,Cancelled
+1446,1446,Swiggy Rider,38,Delivered
+1447,1447,Swiggy Rider,16,Pending
+1448,1448,Swiggy Rider,34,Pending
+1449,1449,Uber Eats Rider,38,Pending
+1450,1450,Uber Eats Rider,35,Delivered
+1451,1451,Swiggy Rider,36,Delivered
+1452,1452,Zomato Rider,17,Cancelled
+1453,1453,Swiggy Rider,41,Delivered
+1454,1454,Uber Eats Rider,39,Cancelled
+1455,1455,Uber Eats Rider,48,Delivered
+1456,1456,Swiggy Rider,21,Delivered
+1457,1457,Zomato Rider,29,Delivered
+1458,1458,Zomato Rider,19,Delivered
+1459,1459,Zomato Rider,44,Pending
+1460,1460,Uber Eats Rider,43,Delivered
+1461,1461,Uber Eats Rider,66,Cancelled
+1462,1462,Swiggy Rider,34,Pending
+1463,1463,Zomato Rider,31,Delivered
+1464,1464,Zomato Rider,57,Cancelled
+1465,1465,Zomato Rider,54,Cancelled
+1466,1466,Uber Eats Rider,21,Pending
+1467,1467,Zomato Rider,62,Cancelled
+1468,1468,Swiggy Rider,23,Delivered
+1469,1469,Uber Eats Rider,23,Delivered
+1470,1470,Swiggy Rider,57,Delivered
+1471,1471,Uber Eats Rider,21,Cancelled
+1472,1472,Zomato Rider,33,Cancelled
+1473,1473,Swiggy Rider,30,Delivered
+1474,1474,Zomato Rider,26,Cancelled
+1475,1475,Uber Eats Rider,34,Pending
+1476,1476,Uber Eats Rider,44,Cancelled
+1477,1477,Uber Eats Rider,48,Cancelled
+1478,1478,Uber Eats Rider,32,Delivered
+1479,1479,Zomato Rider,42,Pending
+1480,1480,Uber Eats Rider,24,Cancelled
+1481,1481,Uber Eats Rider,69,Delivered
+1482,1482,Uber Eats Rider,66,Pending
+1483,1483,Uber Eats Rider,18,Delivered
+1484,1484,Swiggy Rider,15,Delivered
+1485,1485,Uber Eats Rider,17,Delivered
+1486,1486,Swiggy Rider,40,Pending
+1487,1487,Swiggy Rider,51,Pending
+1488,1488,Zomato Rider,69,Pending
+1489,1489,Swiggy Rider,55,Cancelled
+1490,1490,Zomato Rider,43,Delivered
+1491,1491,Zomato Rider,54,Pending
+1492,1492,Uber Eats Rider,43,Delivered
+1493,1493,Uber Eats Rider,32,Cancelled
+1494,1494,Uber Eats Rider,36,Pending
+1495,1495,Swiggy Rider,31,Pending
+1496,1496,Zomato Rider,64,Cancelled
+1497,1497,Zomato Rider,57,Delivered
+1498,1498,Uber Eats Rider,69,Pending
+1499,1499,Uber Eats Rider,31,Delivered
+1500,1500,Zomato Rider,42,Cancelled
+1501,1501,Swiggy Rider,49,Delivered
+1502,1502,Swiggy Rider,29,Pending
+1503,1503,Swiggy Rider,22,Cancelled
+1504,1504,Uber Eats Rider,33,Delivered
+1505,1505,Zomato Rider,34,Pending
+1506,1506,Zomato Rider,50,Delivered
+1507,1507,Uber Eats Rider,26,Pending
+1508,1508,Uber Eats Rider,27,Delivered
+1509,1509,Uber Eats Rider,29,Delivered
+1510,1510,Swiggy Rider,61,Cancelled
+1511,1511,Zomato Rider,48,Cancelled
+1512,1512,Swiggy Rider,51,Cancelled
+1513,1513,Uber Eats Rider,18,Cancelled
+1514,1514,Zomato Rider,49,Delivered
+1515,1515,Uber Eats Rider,48,Delivered
+1516,1516,Zomato Rider,25,Delivered
+1517,1517,Uber Eats Rider,25,Cancelled
+1518,1518,Uber Eats Rider,69,Cancelled
+1519,1519,Swiggy Rider,68,Cancelled
+1520,1520,Swiggy Rider,49,Cancelled
+1521,1521,Zomato Rider,69,Delivered
+1522,1522,Zomato Rider,18,Pending
+1523,1523,Zomato Rider,39,Cancelled
+1524,1524,Zomato Rider,45,Pending
+1525,1525,Zomato Rider,23,Cancelled
+1526,1526,Zomato Rider,15,Delivered
+1527,1527,Zomato Rider,60,Cancelled
+1528,1528,Uber Eats Rider,34,Delivered
+1529,1529,Uber Eats Rider,54,Cancelled
+1530,1530,Swiggy Rider,18,Pending
+1531,1531,Swiggy Rider,24,Pending
+1532,1532,Swiggy Rider,63,Delivered
+1533,1533,Zomato Rider,65,Delivered
+1534,1534,Uber Eats Rider,41,Pending
+1535,1535,Uber Eats Rider,27,Delivered
+1536,1536,Zomato Rider,19,Delivered
+1537,1537,Zomato Rider,23,Pending
+1538,1538,Swiggy Rider,61,Cancelled
+1539,1539,Uber Eats Rider,58,Delivered
+1540,1540,Swiggy Rider,43,Delivered
+1541,1541,Uber Eats Rider,32,Pending
+1542,1542,Swiggy Rider,55,Delivered
+1543,1543,Uber Eats Rider,34,Cancelled
+1544,1544,Swiggy Rider,64,Cancelled
+1545,1545,Uber Eats Rider,45,Delivered
+1546,1546,Uber Eats Rider,43,Pending
+1547,1547,Swiggy Rider,49,Cancelled
+1548,1548,Uber Eats Rider,44,Delivered
+1549,1549,Swiggy Rider,63,Cancelled
+1550,1550,Zomato Rider,32,Delivered
+1551,1551,Zomato Rider,68,Pending
+1552,1552,Swiggy Rider,55,Pending
+1553,1553,Zomato Rider,52,Delivered
+1554,1554,Uber Eats Rider,59,Pending
+1555,1555,Zomato Rider,29,Cancelled
+1556,1556,Swiggy Rider,20,Cancelled
+1557,1557,Uber Eats Rider,53,Pending
+1558,1558,Swiggy Rider,70,Cancelled
+1559,1559,Zomato Rider,68,Cancelled
+1560,1560,Zomato Rider,41,Delivered
+1561,1561,Uber Eats Rider,21,Pending
+1562,1562,Uber Eats Rider,61,Pending
+1563,1563,Zomato Rider,55,Cancelled
+1564,1564,Zomato Rider,41,Cancelled
+1565,1565,Zomato Rider,37,Delivered
+1566,1566,Swiggy Rider,21,Cancelled
+1567,1567,Zomato Rider,30,Cancelled
+1568,1568,Zomato Rider,29,Cancelled
+1569,1569,Zomato Rider,57,Pending
+1570,1570,Swiggy Rider,64,Cancelled
+1571,1571,Zomato Rider,50,Cancelled
+1572,1572,Uber Eats Rider,39,Cancelled
+1573,1573,Uber Eats Rider,70,Cancelled
+1574,1574,Zomato Rider,17,Cancelled
+1575,1575,Swiggy Rider,52,Cancelled
+1576,1576,Swiggy Rider,51,Delivered
+1577,1577,Swiggy Rider,63,Delivered
+1578,1578,Zomato Rider,52,Cancelled
+1579,1579,Uber Eats Rider,53,Pending
+1580,1580,Zomato Rider,60,Cancelled
+1581,1581,Swiggy Rider,37,Cancelled
+1582,1582,Zomato Rider,69,Pending
+1583,1583,Uber Eats Rider,70,Cancelled
+1584,1584,Swiggy Rider,40,Cancelled
+1585,1585,Uber Eats Rider,64,Pending
+1586,1586,Uber Eats Rider,16,Delivered
+1587,1587,Uber Eats Rider,26,Delivered
+1588,1588,Uber Eats Rider,36,Delivered
+1589,1589,Zomato Rider,41,Delivered
+1590,1590,Uber Eats Rider,44,Pending
+1591,1591,Zomato Rider,67,Cancelled
+1592,1592,Zomato Rider,37,Delivered
+1593,1593,Zomato Rider,43,Delivered
+1594,1594,Zomato Rider,44,Cancelled
+1595,1595,Uber Eats Rider,31,Delivered
+1596,1596,Swiggy Rider,50,Cancelled
+1597,1597,Uber Eats Rider,35,Cancelled
+1598,1598,Zomato Rider,63,Pending
+1599,1599,Swiggy Rider,69,Pending
+1600,1600,Swiggy Rider,36,Pending
+1601,1601,Uber Eats Rider,49,Cancelled
+1602,1602,Swiggy Rider,35,Pending
+1603,1603,Swiggy Rider,61,Delivered
+1604,1604,Uber Eats Rider,40,Pending
+1605,1605,Uber Eats Rider,46,Cancelled
+1606,1606,Swiggy Rider,63,Pending
+1607,1607,Swiggy Rider,31,Cancelled
+1608,1608,Zomato Rider,37,Pending
+1609,1609,Zomato Rider,38,Delivered
+1610,1610,Swiggy Rider,35,Delivered
+1611,1611,Swiggy Rider,27,Cancelled
+1612,1612,Zomato Rider,47,Cancelled
+1613,1613,Uber Eats Rider,50,Pending
+1614,1614,Uber Eats Rider,49,Delivered
+1615,1615,Zomato Rider,54,Cancelled
+1616,1616,Swiggy Rider,27,Delivered
+1617,1617,Swiggy Rider,60,Cancelled
+1618,1618,Uber Eats Rider,40,Pending
+1619,1619,Swiggy Rider,60,Pending
+1620,1620,Uber Eats Rider,37,Pending
+1621,1621,Swiggy Rider,39,Delivered
+1622,1622,Uber Eats Rider,67,Pending
+1623,1623,Uber Eats Rider,51,Delivered
+1624,1624,Zomato Rider,29,Pending
+1625,1625,Swiggy Rider,30,Cancelled
+1626,1626,Swiggy Rider,57,Pending
+1627,1627,Swiggy Rider,46,Delivered
+1628,1628,Uber Eats Rider,29,Delivered
+1629,1629,Swiggy Rider,43,Cancelled
+1630,1630,Swiggy Rider,24,Delivered
+1631,1631,Zomato Rider,30,Delivered
+1632,1632,Uber Eats Rider,45,Pending
+1633,1633,Zomato Rider,50,Cancelled
+1634,1634,Uber Eats Rider,27,Pending
+1635,1635,Swiggy Rider,69,Cancelled
+1636,1636,Uber Eats Rider,40,Cancelled
+1637,1637,Uber Eats Rider,39,Cancelled
+1638,1638,Zomato Rider,60,Pending
+1639,1639,Zomato Rider,42,Pending
+1640,1640,Zomato Rider,30,Pending
+1641,1641,Uber Eats Rider,37,Delivered
+1642,1642,Uber Eats Rider,23,Pending
+1643,1643,Uber Eats Rider,30,Cancelled
+1644,1644,Uber Eats Rider,23,Delivered
+1645,1645,Uber Eats Rider,60,Pending
+1646,1646,Uber Eats Rider,35,Delivered
+1647,1647,Uber Eats Rider,29,Cancelled
+1648,1648,Zomato Rider,60,Cancelled
+1649,1649,Uber Eats Rider,50,Delivered
+1650,1650,Zomato Rider,32,Cancelled
+1651,1651,Swiggy Rider,44,Cancelled
+1652,1652,Zomato Rider,46,Cancelled
+1653,1653,Zomato Rider,19,Delivered
+1654,1654,Swiggy Rider,50,Pending
+1655,1655,Uber Eats Rider,56,Delivered
+1656,1656,Zomato Rider,45,Cancelled
+1657,1657,Swiggy Rider,19,Cancelled
+1658,1658,Zomato Rider,19,Cancelled
+1659,1659,Zomato Rider,51,Pending
+1660,1660,Uber Eats Rider,16,Cancelled
+1661,1661,Uber Eats Rider,46,Pending
+1662,1662,Uber Eats Rider,63,Delivered
+1663,1663,Zomato Rider,28,Cancelled
+1664,1664,Zomato Rider,34,Cancelled
+1665,1665,Uber Eats Rider,58,Pending
+1666,1666,Zomato Rider,29,Cancelled
+1667,1667,Uber Eats Rider,41,Delivered
+1668,1668,Uber Eats Rider,58,Cancelled
+1669,1669,Zomato Rider,70,Delivered
+1670,1670,Uber Eats Rider,18,Cancelled
+1671,1671,Zomato Rider,52,Delivered
+1672,1672,Swiggy Rider,54,Delivered
+1673,1673,Uber Eats Rider,41,Cancelled
+1674,1674,Swiggy Rider,61,Delivered
+1675,1675,Swiggy Rider,53,Delivered
+1676,1676,Swiggy Rider,16,Cancelled
+1677,1677,Zomato Rider,61,Delivered
+1678,1678,Zomato Rider,20,Delivered
+1679,1679,Zomato Rider,51,Cancelled
+1680,1680,Uber Eats Rider,39,Pending
+1681,1681,Zomato Rider,59,Pending
+1682,1682,Swiggy Rider,69,Pending
+1683,1683,Swiggy Rider,21,Pending
+1684,1684,Zomato Rider,26,Cancelled
+1685,1685,Zomato Rider,31,Pending
+1686,1686,Swiggy Rider,26,Pending
+1687,1687,Zomato Rider,27,Delivered
+1688,1688,Zomato Rider,56,Cancelled
+1689,1689,Swiggy Rider,36,Pending
+1690,1690,Swiggy Rider,48,Pending
+1691,1691,Swiggy Rider,53,Delivered
+1692,1692,Uber Eats Rider,18,Cancelled
+1693,1693,Zomato Rider,21,Delivered
+1694,1694,Swiggy Rider,48,Delivered
+1695,1695,Swiggy Rider,35,Pending
+1696,1696,Zomato Rider,16,Cancelled
+1697,1697,Uber Eats Rider,38,Delivered
+1698,1698,Swiggy Rider,27,Cancelled
+1699,1699,Uber Eats Rider,46,Delivered
+1700,1700,Uber Eats Rider,28,Pending
+1701,1701,Swiggy Rider,70,Cancelled
+1702,1702,Swiggy Rider,53,Pending
+1703,1703,Uber Eats Rider,26,Pending
+1704,1704,Uber Eats Rider,69,Delivered
+1705,1705,Uber Eats Rider,24,Pending
+1706,1706,Swiggy Rider,54,Delivered
+1707,1707,Uber Eats Rider,65,Delivered
+1708,1708,Zomato Rider,33,Delivered
+1709,1709,Zomato Rider,58,Delivered
+1710,1710,Uber Eats Rider,48,Delivered
+1711,1711,Swiggy Rider,46,Delivered
+1712,1712,Uber Eats Rider,24,Cancelled
+1713,1713,Zomato Rider,44,Cancelled
+1714,1714,Uber Eats Rider,68,Pending
+1715,1715,Zomato Rider,22,Cancelled
+1716,1716,Uber Eats Rider,19,Pending
+1717,1717,Swiggy Rider,38,Delivered
+1718,1718,Swiggy Rider,67,Pending
+1719,1719,Swiggy Rider,65,Pending
+1720,1720,Swiggy Rider,37,Delivered
+1721,1721,Zomato Rider,66,Cancelled
+1722,1722,Uber Eats Rider,63,Cancelled
+1723,1723,Swiggy Rider,69,Cancelled
+1724,1724,Swiggy Rider,57,Cancelled
+1725,1725,Zomato Rider,48,Cancelled
+1726,1726,Uber Eats Rider,59,Cancelled
+1727,1727,Uber Eats Rider,40,Cancelled
+1728,1728,Uber Eats Rider,27,Pending
+1729,1729,Zomato Rider,23,Pending
+1730,1730,Swiggy Rider,33,Cancelled
+1731,1731,Zomato Rider,40,Pending
+1732,1732,Zomato Rider,20,Pending
+1733,1733,Swiggy Rider,46,Delivered
+1734,1734,Zomato Rider,50,Pending
+1735,1735,Uber Eats Rider,39,Pending
+1736,1736,Zomato Rider,65,Pending
+1737,1737,Uber Eats Rider,59,Delivered
+1738,1738,Uber Eats Rider,68,Delivered
+1739,1739,Swiggy Rider,20,Pending
+1740,1740,Uber Eats Rider,62,Cancelled
+1741,1741,Uber Eats Rider,26,Cancelled
+1742,1742,Zomato Rider,62,Delivered
+1743,1743,Uber Eats Rider,16,Delivered
+1744,1744,Zomato Rider,39,Delivered
+1745,1745,Zomato Rider,49,Delivered
+1746,1746,Uber Eats Rider,70,Pending
+1747,1747,Uber Eats Rider,47,Cancelled
+1748,1748,Swiggy Rider,47,Pending
+1749,1749,Uber Eats Rider,59,Delivered
+1750,1750,Swiggy Rider,21,Pending
+1751,1751,Swiggy Rider,29,Cancelled
+1752,1752,Zomato Rider,19,Cancelled
+1753,1753,Swiggy Rider,46,Delivered
+1754,1754,Uber Eats Rider,55,Cancelled
+1755,1755,Swiggy Rider,17,Pending
+1756,1756,Swiggy Rider,59,Delivered
+1757,1757,Zomato Rider,15,Delivered
+1758,1758,Uber Eats Rider,67,Pending
+1759,1759,Swiggy Rider,39,Delivered
+1760,1760,Zomato Rider,68,Pending
+1761,1761,Swiggy Rider,24,Delivered
+1762,1762,Uber Eats Rider,30,Cancelled
+1763,1763,Uber Eats Rider,31,Pending
+1764,1764,Uber Eats Rider,51,Cancelled
+1765,1765,Uber Eats Rider,34,Delivered
+1766,1766,Uber Eats Rider,62,Pending
+1767,1767,Zomato Rider,59,Delivered
+1768,1768,Zomato Rider,67,Pending
+1769,1769,Zomato Rider,32,Delivered
+1770,1770,Zomato Rider,31,Cancelled
+1771,1771,Swiggy Rider,55,Cancelled
+1772,1772,Zomato Rider,17,Cancelled
+1773,1773,Zomato Rider,23,Cancelled
+1774,1774,Uber Eats Rider,29,Delivered
+1775,1775,Uber Eats Rider,22,Delivered
+1776,1776,Swiggy Rider,65,Pending
+1777,1777,Swiggy Rider,26,Cancelled
+1778,1778,Zomato Rider,25,Cancelled
+1779,1779,Zomato Rider,58,Cancelled
+1780,1780,Uber Eats Rider,40,Pending
+1781,1781,Uber Eats Rider,33,Pending
+1782,1782,Uber Eats Rider,31,Delivered
+1783,1783,Swiggy Rider,40,Delivered
+1784,1784,Swiggy Rider,50,Pending
+1785,1785,Swiggy Rider,23,Cancelled
+1786,1786,Swiggy Rider,45,Pending
+1787,1787,Swiggy Rider,22,Delivered
+1788,1788,Swiggy Rider,68,Pending
+1789,1789,Swiggy Rider,20,Cancelled
+1790,1790,Swiggy Rider,30,Pending
+1791,1791,Uber Eats Rider,38,Pending
+1792,1792,Uber Eats Rider,24,Pending
+1793,1793,Uber Eats Rider,64,Delivered
+1794,1794,Uber Eats Rider,47,Delivered
+1795,1795,Swiggy Rider,61,Pending
+1796,1796,Swiggy Rider,51,Delivered
+1797,1797,Swiggy Rider,36,Pending
+1798,1798,Swiggy Rider,37,Pending
+1799,1799,Swiggy Rider,56,Delivered
+1800,1800,Zomato Rider,39,Delivered
+1801,1801,Zomato Rider,47,Delivered
+1802,1802,Swiggy Rider,26,Cancelled
+1803,1803,Swiggy Rider,36,Cancelled
+1804,1804,Uber Eats Rider,43,Delivered
+1805,1805,Zomato Rider,19,Delivered
+1806,1806,Uber Eats Rider,48,Pending
+1807,1807,Uber Eats Rider,25,Delivered
+1808,1808,Uber Eats Rider,35,Delivered
+1809,1809,Swiggy Rider,58,Delivered
+1810,1810,Zomato Rider,48,Cancelled
+1811,1811,Swiggy Rider,54,Cancelled
+1812,1812,Swiggy Rider,61,Pending
+1813,1813,Zomato Rider,17,Delivered
+1814,1814,Swiggy Rider,58,Delivered
+1815,1815,Swiggy Rider,39,Delivered
+1816,1816,Uber Eats Rider,18,Pending
+1817,1817,Uber Eats Rider,22,Delivered
+1818,1818,Uber Eats Rider,17,Cancelled
+1819,1819,Uber Eats Rider,19,Delivered
+1820,1820,Uber Eats Rider,67,Pending
+1821,1821,Uber Eats Rider,56,Pending
+1822,1822,Zomato Rider,58,Cancelled
+1823,1823,Zomato Rider,43,Cancelled
+1824,1824,Swiggy Rider,58,Pending
+1825,1825,Uber Eats Rider,31,Pending
+1826,1826,Uber Eats Rider,44,Pending
+1827,1827,Swiggy Rider,44,Cancelled
+1828,1828,Zomato Rider,29,Delivered
+1829,1829,Zomato Rider,55,Cancelled
+1830,1830,Swiggy Rider,39,Pending
+1831,1831,Swiggy Rider,38,Cancelled
+1832,1832,Swiggy Rider,42,Pending
+1833,1833,Swiggy Rider,17,Pending
+1834,1834,Zomato Rider,60,Cancelled
+1835,1835,Swiggy Rider,40,Delivered
+1836,1836,Uber Eats Rider,37,Delivered
+1837,1837,Zomato Rider,41,Pending
+1838,1838,Zomato Rider,61,Pending
+1839,1839,Zomato Rider,39,Pending
+1840,1840,Zomato Rider,36,Pending
+1841,1841,Uber Eats Rider,40,Delivered
+1842,1842,Uber Eats Rider,48,Delivered
+1843,1843,Swiggy Rider,28,Cancelled
+1844,1844,Swiggy Rider,51,Delivered
+1845,1845,Uber Eats Rider,57,Cancelled
+1846,1846,Zomato Rider,44,Cancelled
+1847,1847,Zomato Rider,38,Cancelled
+1848,1848,Zomato Rider,28,Pending
+1849,1849,Swiggy Rider,45,Delivered
+1850,1850,Uber Eats Rider,56,Pending
+1851,1851,Zomato Rider,68,Cancelled
+1852,1852,Zomato Rider,18,Delivered
+1853,1853,Swiggy Rider,36,Cancelled
+1854,1854,Swiggy Rider,57,Pending
+1855,1855,Uber Eats Rider,42,Delivered
+1856,1856,Zomato Rider,16,Cancelled
+1857,1857,Swiggy Rider,39,Cancelled
+1858,1858,Uber Eats Rider,26,Pending
+1859,1859,Uber Eats Rider,58,Cancelled
+1860,1860,Swiggy Rider,56,Pending
+1861,1861,Uber Eats Rider,65,Delivered
+1862,1862,Swiggy Rider,41,Pending
+1863,1863,Zomato Rider,30,Cancelled
+1864,1864,Swiggy Rider,63,Pending
+1865,1865,Zomato Rider,54,Cancelled
+1866,1866,Uber Eats Rider,62,Cancelled
+1867,1867,Swiggy Rider,58,Delivered
+1868,1868,Swiggy Rider,20,Delivered
+1869,1869,Swiggy Rider,70,Delivered
+1870,1870,Zomato Rider,69,Delivered
+1871,1871,Zomato Rider,37,Delivered
+1872,1872,Uber Eats Rider,24,Delivered
+1873,1873,Zomato Rider,68,Delivered
+1874,1874,Zomato Rider,54,Pending
+1875,1875,Uber Eats Rider,68,Pending
+1876,1876,Zomato Rider,36,Cancelled
+1877,1877,Swiggy Rider,33,Pending
+1878,1878,Swiggy Rider,66,Cancelled
+1879,1879,Swiggy Rider,24,Delivered
+1880,1880,Zomato Rider,22,Cancelled
+1881,1881,Uber Eats Rider,41,Delivered
+1882,1882,Uber Eats Rider,50,Cancelled
+1883,1883,Zomato Rider,59,Pending
+1884,1884,Uber Eats Rider,69,Delivered
+1885,1885,Swiggy Rider,57,Delivered
+1886,1886,Zomato Rider,21,Delivered
+1887,1887,Swiggy Rider,39,Pending
+1888,1888,Zomato Rider,45,Delivered
+1889,1889,Swiggy Rider,52,Cancelled
+1890,1890,Zomato Rider,43,Cancelled
+1891,1891,Uber Eats Rider,26,Pending
+1892,1892,Swiggy Rider,46,Cancelled
+1893,1893,Uber Eats Rider,37,Pending
+1894,1894,Swiggy Rider,38,Delivered
+1895,1895,Swiggy Rider,23,Cancelled
+1896,1896,Zomato Rider,58,Pending
+1897,1897,Swiggy Rider,22,Cancelled
+1898,1898,Swiggy Rider,55,Pending
+1899,1899,Zomato Rider,60,Delivered
+1900,1900,Zomato Rider,53,Pending
+1901,1901,Swiggy Rider,54,Cancelled
+1902,1902,Zomato Rider,25,Pending
+1903,1903,Zomato Rider,27,Cancelled
+1904,1904,Zomato Rider,48,Delivered
+1905,1905,Zomato Rider,35,Delivered
+1906,1906,Swiggy Rider,56,Delivered
+1907,1907,Uber Eats Rider,34,Pending
+1908,1908,Zomato Rider,42,Pending
+1909,1909,Swiggy Rider,32,Cancelled
+1910,1910,Uber Eats Rider,44,Cancelled
+1911,1911,Swiggy Rider,36,Cancelled
+1912,1912,Swiggy Rider,23,Cancelled
+1913,1913,Swiggy Rider,62,Cancelled
+1914,1914,Swiggy Rider,34,Pending
+1915,1915,Swiggy Rider,45,Pending
+1916,1916,Zomato Rider,17,Cancelled
+1917,1917,Uber Eats Rider,32,Cancelled
+1918,1918,Zomato Rider,36,Pending
+1919,1919,Uber Eats Rider,69,Pending
+1920,1920,Zomato Rider,60,Pending
+1921,1921,Swiggy Rider,37,Cancelled
+1922,1922,Zomato Rider,50,Delivered
+1923,1923,Zomato Rider,33,Pending
+1924,1924,Swiggy Rider,43,Cancelled
+1925,1925,Swiggy Rider,66,Cancelled
+1926,1926,Zomato Rider,70,Cancelled
+1927,1927,Swiggy Rider,16,Delivered
+1928,1928,Swiggy Rider,30,Delivered
+1929,1929,Swiggy Rider,38,Delivered
+1930,1930,Swiggy Rider,51,Delivered
+1931,1931,Swiggy Rider,70,Delivered
+1932,1932,Swiggy Rider,61,Delivered
+1933,1933,Uber Eats Rider,66,Pending
+1934,1934,Uber Eats Rider,19,Delivered
+1935,1935,Uber Eats Rider,55,Pending
+1936,1936,Uber Eats Rider,70,Pending
+1937,1937,Uber Eats Rider,21,Cancelled
+1938,1938,Swiggy Rider,18,Cancelled
+1939,1939,Swiggy Rider,27,Cancelled
+1940,1940,Swiggy Rider,26,Delivered
+1941,1941,Uber Eats Rider,20,Delivered
+1942,1942,Zomato Rider,65,Cancelled
+1943,1943,Swiggy Rider,28,Delivered
+1944,1944,Uber Eats Rider,20,Pending
+1945,1945,Zomato Rider,55,Cancelled
+1946,1946,Swiggy Rider,45,Delivered
+1947,1947,Uber Eats Rider,46,Cancelled
+1948,1948,Uber Eats Rider,26,Pending
+1949,1949,Zomato Rider,61,Cancelled
+1950,1950,Uber Eats Rider,70,Delivered
+1951,1951,Zomato Rider,26,Cancelled
+1952,1952,Swiggy Rider,20,Delivered
+1953,1953,Swiggy Rider,31,Delivered
+1954,1954,Uber Eats Rider,51,Delivered
+1955,1955,Uber Eats Rider,22,Cancelled
+1956,1956,Swiggy Rider,27,Delivered
+1957,1957,Zomato Rider,63,Delivered
+1958,1958,Swiggy Rider,40,Cancelled
+1959,1959,Uber Eats Rider,33,Cancelled
+1960,1960,Zomato Rider,47,Cancelled
+1961,1961,Zomato Rider,28,Pending
+1962,1962,Zomato Rider,67,Pending
+1963,1963,Uber Eats Rider,30,Cancelled
+1964,1964,Swiggy Rider,56,Cancelled
+1965,1965,Zomato Rider,33,Delivered
+1966,1966,Swiggy Rider,18,Delivered
+1967,1967,Zomato Rider,37,Cancelled
+1968,1968,Swiggy Rider,54,Pending
+1969,1969,Swiggy Rider,58,Cancelled
+1970,1970,Zomato Rider,15,Cancelled
+1971,1971,Uber Eats Rider,20,Pending
+1972,1972,Uber Eats Rider,64,Pending
+1973,1973,Uber Eats Rider,58,Cancelled
+1974,1974,Uber Eats Rider,19,Cancelled
+1975,1975,Zomato Rider,61,Pending
+1976,1976,Zomato Rider,37,Cancelled
+1977,1977,Zomato Rider,38,Pending
+1978,1978,Zomato Rider,63,Pending
+1979,1979,Zomato Rider,49,Cancelled
+1980,1980,Swiggy Rider,29,Cancelled
+1981,1981,Swiggy Rider,17,Cancelled
+1982,1982,Zomato Rider,41,Pending
+1983,1983,Zomato Rider,35,Pending
+1984,1984,Zomato Rider,70,Pending
+1985,1985,Zomato Rider,24,Delivered
+1986,1986,Uber Eats Rider,63,Pending
+1987,1987,Zomato Rider,16,Delivered
+1988,1988,Zomato Rider,39,Cancelled
+1989,1989,Swiggy Rider,40,Pending
+1990,1990,Swiggy Rider,42,Cancelled
+1991,1991,Swiggy Rider,24,Cancelled
+1992,1992,Swiggy Rider,28,Delivered
+1993,1993,Swiggy Rider,40,Pending
+1994,1994,Swiggy Rider,32,Pending
+1995,1995,Swiggy Rider,16,Pending
+1996,1996,Zomato Rider,25,Pending
+1997,1997,Uber Eats Rider,32,Delivered
+1998,1998,Swiggy Rider,46,Cancelled
+1999,1999,Uber Eats Rider,46,Pending
+2000,2000,Zomato Rider,69,Delivered

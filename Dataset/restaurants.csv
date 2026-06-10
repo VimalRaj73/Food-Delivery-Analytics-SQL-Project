@@ -1,0 +1,2001 @@
+restaurant_id,restaurant_name,cuisine,city
+1,Burger Point 1,Indian,Ambarnath
+2,Biryani Zone 2,South Indian,Kirari Suleman Nagar
+3,Dosa Corner 3,Chinese,Aurangabad
+4,Burger Point 4,Italian,Ambala
+5,Tandoori Treat 5,Cafe,Tenali
+6,Spice Hub 6,Indian,Latur
+7,Burger Point 7,South Indian,Dehri
+8,Dosa Corner 8,Indian,Jalna
+9,Pasta Palace 9,South Indian,Bongaigaon
+10,Pasta Palace 10,Cafe,Ulhasnagar
+11,Dosa Corner 11,Mexican,Giridih
+12,Tandoori Treat 12,North Indian,Thoothukudi
+13,Spice Hub 13,Chinese,Thanjavur
+14,BBQ Nation 14,Fast Food,Bulandshahr
+15,Biryani Zone 15,Chinese,Aizawl
+16,Dosa Corner 16,Fast Food,Kota
+17,Burger Point 17,Italian,Nagercoil
+18,BBQ Nation 18,Italian,Kulti
+19,Cafe Delight 19,Fast Food,Dhule
+20,Tandoori Treat 20,North Indian,Tadepalligudem
+21,Spice Hub 21,Mexican,Ambala
+22,Pasta Palace 22,Italian,Haldia
+23,BBQ Nation 23,Italian,Ajmer
+24,Pasta Palace 24,North Indian,Dhule
+25,Tandoori Treat 25,Fast Food,Bellary
+26,Tandoori Treat 26,South Indian,Dindigul
+27,Burger Point 27,Indian,Malegaon
+28,Dosa Corner 28,North Indian,Mysore
+29,Burger Point 29,South Indian,Saharanpur
+30,Burger Point 30,Cafe,Rampur
+31,Biryani Zone 31,Mexican,Karnal
+32,Cafe Delight 32,Chinese,Visakhapatnam
+33,Cafe Delight 33,Fast Food,Siliguri
+34,Dosa Corner 34,North Indian,Gopalpur
+35,Burger Point 35,Chinese,Bhubaneswar
+36,Pasta Palace 36,South Indian,Kavali
+37,Pizza World 37,Mexican,Deoghar
+38,BBQ Nation 38,North Indian,Chinsurah
+39,Pasta Palace 39,South Indian,Naihati
+40,Cafe Delight 40,Indian,Arrah
+41,Dosa Corner 41,Indian,Surat
+42,Cafe Delight 42,Cafe,Muzaffarnagar
+43,Biryani Zone 43,Italian,Bilaspur
+44,Dosa Corner 44,Fast Food,Vasai-Virar
+45,Dosa Corner 45,Mexican,Hazaribagh
+46,BBQ Nation 46,Mexican,Ramgarh
+47,Pizza World 47,North Indian,Kurnool
+48,Pizza World 48,South Indian,Ongole
+49,Pasta Palace 49,North Indian,Indore
+50,Tandoori Treat 50,Cafe,Raurkela Industrial Township
+51,Tandoori Treat 51,Cafe,Siliguri
+52,Cafe Delight 52,South Indian,Shahjahanpur
+53,Pizza World 53,Mexican,Bokaro
+54,Burger Point 54,Indian,Ahmedabad
+55,Burger Point 55,Chinese,Begusarai
+56,Pizza World 56,Cafe,Guwahati
+57,Tandoori Treat 57,Italian,Satara
+58,BBQ Nation 58,Cafe,Shimla
+59,Tandoori Treat 59,Mexican,Ambarnath
+60,Pasta Palace 60,North Indian,Ghaziabad
+61,Pasta Palace 61,Indian,Chittoor
+62,Burger Point 62,North Indian,Bhimavaram
+63,Cafe Delight 63,Italian,Ujjain
+64,Biryani Zone 64,Cafe,Bangalore
+65,Pizza World 65,Mexican,Vellore
+66,Spice Hub 66,North Indian,Gwalior
+67,Pasta Palace 67,Chinese,Hospet
+68,Pasta Palace 68,Italian,Ichalkaranji
+69,Biryani Zone 69,South Indian,Ratlam
+70,Pizza World 70,Fast Food,Jalna
+71,Pizza World 71,Indian,Singrauli
+72,Tandoori Treat 72,Fast Food,Jalgaon
+73,Dragon Wok 73,Indian,Gandhinagar
+74,Burger Point 74,Fast Food,Bhimavaram
+75,Biryani Zone 75,South Indian,Tadipatri
+76,Spice Hub 76,South Indian,Pallavaram
+77,Tandoori Treat 77,Italian,Mirzapur
+78,Burger Point 78,Mexican,Kollam
+79,Burger Point 79,Chinese,Ballia
+80,Pizza World 80,Mexican,Medininagar
+81,Pasta Palace 81,Chinese,Ranchi
+82,Biryani Zone 82,Cafe,Bahraich
+83,Dosa Corner 83,South Indian,Hyderabad
+84,Biryani Zone 84,Cafe,Hajipur
+85,Cafe Delight 85,Mexican,Aizawl
+86,Pasta Palace 86,Mexican,Jaipur
+87,Burger Point 87,South Indian,Mango
+88,Dosa Corner 88,Italian,Nashik
+89,Cafe Delight 89,Indian,Mysore
+90,Tandoori Treat 90,South Indian,Amravati
+91,Tandoori Treat 91,South Indian,Gangtok
+92,Spice Hub 92,Italian,Madurai
+93,Spice Hub 93,South Indian,Erode
+94,Burger Point 94,Indian,Singrauli
+95,Cafe Delight 95,Italian,Bongaigaon
+96,Pasta Palace 96,South Indian,Coimbatore
+97,Biryani Zone 97,Mexican,Barasat
+98,Dosa Corner 98,Chinese,Bidar
+99,Tandoori Treat 99,Mexican,Sasaram
+100,Dosa Corner 100,Mexican,Belgaum
+101,BBQ Nation 101,South Indian,Hyderabad
+102,Burger Point 102,Italian,Vellore
+103,BBQ Nation 103,Fast Food,Secunderabad
+104,BBQ Nation 104,Cafe,Latur
+105,Dragon Wok 105,Indian,Akola
+106,Burger Point 106,Indian,Pimpri-Chinchwad
+107,BBQ Nation 107,Fast Food,Mehsana
+108,Burger Point 108,South Indian,Hubli–Dharwad
+109,Dosa Corner 109,South Indian,Bokaro
+110,Pasta Palace 110,Mexican,Allahabad
+111,Pizza World 111,Cafe,Ichalkaranji
+112,Pizza World 112,North Indian,Ajmer
+113,Dragon Wok 113,South Indian,Narasaraopet
+114,Burger Point 114,Mexican,Surat
+115,Pasta Palace 115,Italian,Mira-Bhayandar
+116,Spice Hub 116,Indian,Nizamabad
+117,Burger Point 117,South Indian,Pondicherry
+118,Pizza World 118,Cafe,Meerut
+119,Dragon Wok 119,Mexican,Tezpur
+120,Dosa Corner 120,Cafe,Agartala
+121,Spice Hub 121,Chinese,Ludhiana
+122,BBQ Nation 122,Indian,Medininagar
+123,BBQ Nation 123,North Indian,Hospet
+124,Dragon Wok 124,North Indian,Ulhasnagar
+125,BBQ Nation 125,Mexican,Hapur
+126,Pizza World 126,South Indian,Pondicherry
+127,Biryani Zone 127,South Indian,Haldia
+128,Spice Hub 128,Indian,Meerut
+129,Cafe Delight 129,Indian,Khandwa
+130,Spice Hub 130,Mexican,Arrah
+131,Pasta Palace 131,Chinese,Bilaspur
+132,Spice Hub 132,Italian,Jamshedpur
+133,Pizza World 133,Italian,Nellore
+134,Tandoori Treat 134,Italian,Munger
+135,Dosa Corner 135,Cafe,Kochi
+136,Burger Point 136,South Indian,Khammam
+137,Tandoori Treat 137,Indian,Hyderabad
+138,Tandoori Treat 138,Italian,Varanasi
+139,BBQ Nation 139,Fast Food,Dhanbad
+140,Biryani Zone 140,South Indian,Ghaziabad
+141,Cafe Delight 141,South Indian,Shimoga
+142,Biryani Zone 142,Cafe,Bidar
+143,Pizza World 143,North Indian,Nagpur
+144,Dragon Wok 144,Fast Food,Bokaro
+145,Burger Point 145,Indian,Bulandshahr
+146,Dragon Wok 146,Italian,Yamunanagar
+147,Burger Point 147,South Indian,Jalna
+148,Pasta Palace 148,North Indian,Chittoor
+149,Pizza World 149,Fast Food,Kochi
+150,Burger Point 150,South Indian,Junagadh
+151,Cafe Delight 151,North Indian,Dewas
+152,Pizza World 152,Mexican,Siliguri
+153,Pasta Palace 153,North Indian,Medininagar
+154,Tandoori Treat 154,Indian,Bhavnagar
+155,Pasta Palace 155,North Indian,Hospet
+156,Burger Point 156,Chinese,Durgapur
+157,Biryani Zone 157,Italian,Ulhasnagar
+158,Burger Point 158,Chinese,Karaikudi
+159,Biryani Zone 159,North Indian,Begusarai
+160,Tandoori Treat 160,South Indian,Thiruvananthapuram
+161,Cafe Delight 161,South Indian,Asansol
+162,Biryani Zone 162,Mexican,Raipur
+163,Biryani Zone 163,Indian,Raichur
+164,Burger Point 164,Cafe,Bilaspur
+165,Biryani Zone 165,Indian,Maheshtala
+166,Spice Hub 166,Fast Food,Kavali
+167,Pizza World 167,North Indian,Hazaribagh
+168,Pizza World 168,Mexican,Jabalpur
+169,Pasta Palace 169,Cafe,Bareilly
+170,Pasta Palace 170,Indian,Karnal
+171,Burger Point 171,Italian,Durg
+172,Pizza World 172,Indian,Chandigarh
+173,Cafe Delight 173,Chinese,Jammu
+174,BBQ Nation 174,Chinese,Bhiwandi
+175,Spice Hub 175,North Indian,Khandwa
+176,Cafe Delight 176,Indian,Aurangabad
+177,Cafe Delight 177,South Indian,Hyderabad
+178,Dosa Corner 178,Italian,Rewa
+179,Cafe Delight 179,Cafe,Rourkela
+180,Tandoori Treat 180,Chinese,Tenali
+181,Dosa Corner 181,Chinese,Hyderabad
+182,Pizza World 182,Cafe,Karawal Nagar
+183,Spice Hub 183,Chinese,Dharmavaram
+184,Cafe Delight 184,Cafe,Sultan Pur Majra
+185,Dosa Corner 185,North Indian,Mangalore
+186,Pizza World 186,Italian,Gandhidham
+187,BBQ Nation 187,Indian,Jalna
+188,Dragon Wok 188,South Indian,Mangalore
+189,Dosa Corner 189,Mexican,Gaya
+190,Cafe Delight 190,North Indian,Bulandshahr
+191,Dosa Corner 191,South Indian,Kolkata
+192,Spice Hub 192,South Indian,Bettiah
+193,BBQ Nation 193,Fast Food,Visakhapatnam
+194,Biryani Zone 194,Italian,North Dumdum
+195,Biryani Zone 195,Fast Food,Delhi
+196,Pasta Palace 196,Cafe,Guntur
+197,Pasta Palace 197,Fast Food,Bikaner
+198,Spice Hub 198,Italian,Avadi
+199,Biryani Zone 199,Chinese,Sonipat
+200,Tandoori Treat 200,North Indian,Pali
+201,Spice Hub 201,Italian,Fatehpur
+202,Tandoori Treat 202,Cafe,Visakhapatnam
+203,Cafe Delight 203,Fast Food,Khora 
+204,BBQ Nation 204,Italian,Baranagar
+205,BBQ Nation 205,South Indian,Bijapur
+206,Biryani Zone 206,Indian,Chennai
+207,BBQ Nation 207,Indian,Amaravati
+208,Pasta Palace 208,South Indian,Giridih
+209,Cafe Delight 209,Cafe,Yamunanagar
+210,Burger Point 210,Fast Food,Jhansi
+211,Tandoori Treat 211,Fast Food,Ballia
+212,Burger Point 212,North Indian,Tiruppur
+213,Pasta Palace 213,North Indian,Vijayanagaram
+214,BBQ Nation 214,Fast Food,Thrissur
+215,BBQ Nation 215,North Indian,Chennai
+216,Pasta Palace 216,Chinese,Vellore
+217,Dosa Corner 217,Cafe,Kottayam
+218,BBQ Nation 218,Chinese,Ramgarh
+219,Tandoori Treat 219,North Indian,Shahjahanpur
+220,BBQ Nation 220,Indian,Kozhikode
+221,Biryani Zone 221,North Indian,Nagpur
+222,Dosa Corner 222,Cafe,Chapra
+223,Tandoori Treat 223,Fast Food,Visakhapatnam
+224,Dragon Wok 224,Mexican,Hubli–Dharwad
+225,Dragon Wok 225,South Indian,Kozhikode
+226,Pasta Palace 226,Mexican,Arrah
+227,Pizza World 227,Italian,Thiruvananthapuram
+228,Biryani Zone 228,Fast Food,Ozhukarai
+229,Burger Point 229,South Indian,North Dumdum
+230,Biryani Zone 230,South Indian,Bharatpur
+231,Dosa Corner 231,Chinese,Bidhannagar
+232,Spice Hub 232,Indian,Amroha
+233,Dosa Corner 233,Mexican,Solapur
+234,Tandoori Treat 234,Italian,Durg
+235,Dragon Wok 235,Cafe,Panchkula
+236,Tandoori Treat 236,South Indian,Hyderabad
+237,BBQ Nation 237,Mexican,Ulhasnagar
+238,BBQ Nation 238,South Indian,Gangtok
+239,Pizza World 239,Indian,Srinagar
+240,Burger Point 240,Cafe,Gandhinagar
+241,Dosa Corner 241,Chinese,Rajahmundry
+242,Pasta Palace 242,Mexican,Rohtak
+243,Spice Hub 243,South Indian,Amroha
+244,Burger Point 244,Mexican,Bhimavaram
+245,Pizza World 245,Mexican,Tirupati
+246,Pasta Palace 246,Fast Food,Medininagar
+247,Dragon Wok 247,Cafe,Rewa
+248,Pasta Palace 248,Mexican,Kota
+249,Pizza World 249,Mexican,Motihari
+250,Dragon Wok 250,North Indian,Gandhidham
+251,Dosa Corner 251,North Indian,Raebareli
+252,Pasta Palace 252,Mexican,Imphal
+253,Dosa Corner 253,North Indian,Vadodara
+254,Dragon Wok 254,Italian,Madurai
+255,Biryani Zone 255,South Indian,Belgaum
+256,Biryani Zone 256,Fast Food,Vadodara
+257,Cafe Delight 257,Italian,Gopalpur
+258,Pizza World 258,Chinese,Purnia
+259,Dosa Corner 259,Cafe,Adoni
+260,Pizza World 260,South Indian,Dharmavaram
+261,Burger Point 261,Cafe,Singrauli
+262,BBQ Nation 262,Fast Food,Siwan
+263,Pasta Palace 263,Mexican,Sagar
+264,BBQ Nation 264,Indian,Kulti
+265,Dosa Corner 265,Cafe,Dibrugarh
+266,BBQ Nation 266,Indian,Khammam
+267,Tandoori Treat 267,Cafe,Singrauli
+268,Dragon Wok 268,Indian,Danapur
+269,Cafe Delight 269,North Indian,Malda
+270,BBQ Nation 270,Cafe,Machilipatnam
+271,Pasta Palace 271,South Indian,Karawal Nagar
+272,Dragon Wok 272,South Indian,Nadiad
+273,Biryani Zone 273,Cafe,Mumbai
+274,Dragon Wok 274,Indian,Erode
+275,BBQ Nation 275,Fast Food,Secunderabad
+276,BBQ Nation 276,Chinese,Raurkela Industrial Township
+277,Dragon Wok 277,Chinese,Tinsukia
+278,Tandoori Treat 278,Indian,Chapra
+279,BBQ Nation 279,Indian,Tirunelveli
+280,Burger Point 280,Cafe,Lucknow
+281,Pizza World 281,Mexican,Ranchi
+282,Pizza World 282,Indian,Bijapur
+283,Biryani Zone 283,Cafe,Narasaraopet
+284,Cafe Delight 284,South Indian,Ujjain
+285,Dragon Wok 285,Fast Food,Gangtok
+286,Cafe Delight 286,Cafe,Patiala
+287,Biryani Zone 287,Cafe,Ambattur
+288,Biryani Zone 288,Italian,Karimnagar
+289,Dragon Wok 289,Indian,Junagadh
+290,Pasta Palace 290,Indian,Ambala
+291,Cafe Delight 291,South Indian,Mangalore
+292,Burger Point 292,Indian,Muzaffarnagar
+293,Spice Hub 293,South Indian,Erode
+294,Dosa Corner 294,Indian,Buxar
+295,Tandoori Treat 295,Chinese,Solapur
+296,Dosa Corner 296,Chinese,Muzaffarnagar
+297,Dragon Wok 297,Italian,Sri Ganganagar
+298,Tandoori Treat 298,South Indian,Thanjavur
+299,Dragon Wok 299,North Indian,Bhimavaram
+300,Cafe Delight 300,Chinese,Faridabad
+301,Tandoori Treat 301,Italian,Jalandhar
+302,Pizza World 302,North Indian,Karawal Nagar
+303,Burger Point 303,Indian,Bellary
+304,Biryani Zone 304,Cafe,Gopalpur
+305,BBQ Nation 305,South Indian,Sasaram
+306,Burger Point 306,South Indian,Thrissur
+307,Burger Point 307,North Indian,Kadapa
+308,Tandoori Treat 308,Italian,Tenali
+309,Tandoori Treat 309,Indian,Miryalaguda
+310,Cafe Delight 310,Cafe,Amritsar
+311,Cafe Delight 311,Italian,Mango
+312,Pasta Palace 312,Fast Food,Madhyamgram
+313,Spice Hub 313,Cafe,Coimbatore
+314,Dragon Wok 314,Italian,Imphal
+315,BBQ Nation 315,Fast Food,Gulbarga
+316,Dragon Wok 316,Chinese,Kalyan-Dombivli
+317,BBQ Nation 317,Chinese,Pallavaram
+318,Pasta Palace 318,North Indian,Secunderabad
+319,Tandoori Treat 319,Mexican,Sangli-Miraj & Kupwad
+320,Dragon Wok 320,Cafe,Dharmavaram
+321,Tandoori Treat 321,North Indian,Farrukhabad
+322,Cafe Delight 322,South Indian,Dibrugarh
+323,Burger Point 323,North Indian,Imphal
+324,Dragon Wok 324,South Indian,Ambattur
+325,Dragon Wok 325,Cafe,Bokaro
+326,Cafe Delight 326,Indian,Kurnool
+327,Dragon Wok 327,Fast Food,Patiala
+328,Pizza World 328,Mexican,Ambattur
+329,Dosa Corner 329,Fast Food,Agartala
+330,Biryani Zone 330,Fast Food,Bahraich
+331,Biryani Zone 331,North Indian,Purnia
+332,Pasta Palace 332,Indian,Pudukkottai
+333,Pasta Palace 333,South Indian,Miryalaguda
+334,Burger Point 334,South Indian,Bihar Sharif
+335,BBQ Nation 335,Mexican,Jalgaon
+336,Pasta Palace 336,South Indian,Etawah
+337,Dragon Wok 337,Mexican,Bhopal
+338,Dragon Wok 338,Indian,Chennai
+339,Burger Point 339,North Indian,Patna
+340,Dosa Corner 340,Cafe,Ahmednagar
+341,Dosa Corner 341,North Indian,Bhiwandi
+342,Tandoori Treat 342,Fast Food,Kamarhati
+343,Dragon Wok 343,Fast Food,Guna
+344,BBQ Nation 344,Fast Food,Pondicherry
+345,Cafe Delight 345,Mexican,Dehradun
+346,Biryani Zone 346,North Indian,Maheshtala
+347,Biryani Zone 347,South Indian,Bidhannagar
+348,Burger Point 348,South Indian,Parbhani
+349,Cafe Delight 349,Italian,Orai
+350,Pasta Palace 350,Chinese,Tirupati
+351,Dosa Corner 351,South Indian,Srinagar
+352,Dragon Wok 352,North Indian,Bhopal
+353,Tandoori Treat 353,North Indian,Kamarhati
+354,Burger Point 354,South Indian,Anand
+355,Biryani Zone 355,South Indian,Davanagere
+356,Cafe Delight 356,Chinese,Kamarhati
+357,Biryani Zone 357,Indian,Coimbatore
+358,Pasta Palace 358,Chinese,Meerut
+359,Biryani Zone 359,Indian,Kadapa
+360,Spice Hub 360,North Indian,Jaipur
+361,Pizza World 361,Mexican,Sasaram
+362,Burger Point 362,Indian,Bhilai
+363,Tandoori Treat 363,North Indian,Ujjain
+364,Dragon Wok 364,Mexican,Madhyamgram
+365,Dragon Wok 365,Fast Food,Farrukhabad
+366,Pizza World 366,Indian,Nagaon
+367,Biryani Zone 367,Mexican,Jammu
+368,Burger Point 368,Italian,Kalyan-Dombivli
+369,BBQ Nation 369,Mexican,Nashik
+370,Burger Point 370,Indian,Kamarhati
+371,Pizza World 371,Chinese,Medininagar
+372,Tandoori Treat 372,North Indian,Chandigarh
+373,Burger Point 373,South Indian,Kumbakonam
+374,Burger Point 374,Cafe,Secunderabad
+375,Tandoori Treat 375,South Indian,Rourkela
+376,Pasta Palace 376,Cafe,Patna
+377,Dragon Wok 377,Mexican,Pondicherry
+378,Biryani Zone 378,Cafe,Bhimavaram
+379,Biryani Zone 379,Indian,Kottayam
+380,Tandoori Treat 380,Italian,Cuttack
+381,Dosa Corner 381,South Indian,Ahmedabad
+382,Biryani Zone 382,Italian,Pallavaram
+383,Pizza World 383,South Indian,Nagaon
+384,Pizza World 384,Italian,Chandrapur
+385,Pizza World 385,Indian,Nagercoil
+386,BBQ Nation 386,Mexican,Madhyamgram
+387,Tandoori Treat 387,Mexican,Raebareli
+388,Biryani Zone 388,Indian,Anantapur
+389,Dosa Corner 389,North Indian,Warangal
+390,Biryani Zone 390,Mexican,Karimnagar
+391,Burger Point 391,South Indian,Chandigarh
+392,Biryani Zone 392,South Indian,Sri Ganganagar
+393,BBQ Nation 393,Italian,Aurangabad
+394,Pasta Palace 394,South Indian,Dhule
+395,Pizza World 395,North Indian,Kochi
+396,Pizza World 396,Italian,Madhyamgram
+397,Spice Hub 397,Chinese,Jalandhar
+398,Biryani Zone 398,North Indian,Bhilwara
+399,Dragon Wok 399,Italian,Bahraich
+400,Dragon Wok 400,North Indian,Thoothukudi
+401,BBQ Nation 401,North Indian,Jalna
+402,Pasta Palace 402,Mexican,Jamalpur
+403,Dragon Wok 403,Italian,Ranchi
+404,Tandoori Treat 404,Indian,Bally
+405,BBQ Nation 405,Fast Food,Giridih
+406,Tandoori Treat 406,North Indian,Guntur
+407,Spice Hub 407,Italian,Firozabad
+408,Dosa Corner 408,Indian,South Dumdum
+409,Biryani Zone 409,Indian,Nandyal
+410,Pizza World 410,Mexican,Ratlam
+411,Pasta Palace 411,Mexican,Udupi
+412,Biryani Zone 412,Chinese,Medininagar
+413,Tandoori Treat 413,Cafe,Agra
+414,Dragon Wok 414,Italian,Bhatpara
+415,Dragon Wok 415,Fast Food,Guna
+416,BBQ Nation 416,Fast Food,Ghaziabad
+417,Cafe Delight 417,Italian,Ozhukarai
+418,Pizza World 418,Fast Food,Rajkot
+419,BBQ Nation 419,Mexican,Madurai
+420,Biryani Zone 420,Cafe,Bhiwani
+421,Pasta Palace 421,Indian,Sirsa
+422,Dragon Wok 422,Italian,Kota
+423,Cafe Delight 423,North Indian,Sagar
+424,Cafe Delight 424,Italian,Madurai
+425,BBQ Nation 425,Indian,Agartala
+426,Pasta Palace 426,Mexican,Mumbai
+427,BBQ Nation 427,Indian,Nagpur
+428,Dosa Corner 428,Fast Food,Mathura
+429,Tandoori Treat 429,Mexican,Sri Ganganagar
+430,Dragon Wok 430,Indian,Gopalpur
+431,Dosa Corner 431,North Indian,Gopalpur
+432,Pasta Palace 432,Chinese,Mangalore
+433,Biryani Zone 433,Mexican,Ballia
+434,Dragon Wok 434,Italian,Satara
+435,Spice Hub 435,South Indian,Bettiah
+436,Pizza World 436,North Indian,Indore
+437,Pasta Palace 437,Indian,Sambalpur
+438,Pasta Palace 438,Cafe,Raurkela Industrial Township
+439,Burger Point 439,South Indian,Durgapur
+440,Burger Point 440,Mexican,Satara
+441,Burger Point 441,Chinese,Malegaon
+442,Dragon Wok 442,North Indian,Ludhiana
+443,Pasta Palace 443,North Indian,Chinsurah
+444,BBQ Nation 444,Mexican,Thoothukudi
+445,Dragon Wok 445,South Indian,Salem
+446,Dragon Wok 446,Chinese,Karimnagar
+447,BBQ Nation 447,South Indian,Eluru
+448,Tandoori Treat 448,Chinese,Raiganj
+449,Burger Point 449,North Indian,Jaipur
+450,BBQ Nation 450,Fast Food,Tiruchirappalli
+451,Pasta Palace 451,North Indian,Kozhikode
+452,Spice Hub 452,North Indian,Bulandshahr
+453,Biryani Zone 453,Mexican,Pune
+454,Pizza World 454,Mexican,Bhiwani
+455,Pasta Palace 455,Mexican,Jaunpur
+456,Cafe Delight 456,Fast Food,Siwan
+457,Pasta Palace 457,Cafe,Udaipur
+458,Dragon Wok 458,Fast Food,Sangli-Miraj & Kupwad
+459,Dosa Corner 459,South Indian,Tumkur
+460,Tandoori Treat 460,Cafe,Sultan Pur Majra
+461,Dosa Corner 461,Cafe,Jodhpur
+462,Spice Hub 462,Fast Food,Loni
+463,Dragon Wok 463,Cafe,Malda
+464,BBQ Nation 464,Chinese,Dhule
+465,Dragon Wok 465,Indian,Berhampore
+466,Pizza World 466,Fast Food,Panihati
+467,Burger Point 467,Mexican,Sikar
+468,Burger Point 468,Mexican,Kamarhati
+469,Spice Hub 469,Chinese,Bellary
+470,BBQ Nation 470,Chinese,Ambarnath
+471,Burger Point 471,Mexican,Aurangabad
+472,Biryani Zone 472,Fast Food,Bhimavaram
+473,Tandoori Treat 473,Cafe,Moradabad
+474,Burger Point 474,Fast Food,Imphal
+475,Pasta Palace 475,Cafe,Anand
+476,Cafe Delight 476,Mexican,Shimoga
+477,Pasta Palace 477,Indian,Bhubaneswar
+478,Tandoori Treat 478,Italian,Raipur
+479,Dosa Corner 479,North Indian,Pondicherry
+480,Dosa Corner 480,Italian,Giridih
+481,BBQ Nation 481,Italian,Kanpur
+482,Burger Point 482,Mexican,Saharanpur
+483,Pizza World 483,North Indian,Kottayam
+484,Spice Hub 484,Indian,Morena
+485,Cafe Delight 485,Indian,Kalyan-Dombivli
+486,Biryani Zone 486,Fast Food,Kadapa
+487,Cafe Delight 487,Cafe,Thrissur
+488,Pizza World 488,South Indian,Bhalswa Jahangir Pur
+489,Pasta Palace 489,Cafe,Rajpur Sonarpur
+490,Tandoori Treat 490,Chinese,Sangli-Miraj & Kupwad
+491,Pizza World 491,Chinese,Sasaram
+492,Burger Point 492,Cafe,Chandrapur
+493,Tandoori Treat 493,South Indian,Panihati
+494,Dragon Wok 494,Chinese,Ambattur
+495,Dosa Corner 495,Mexican,Haldia
+496,Biryani Zone 496,Mexican,Nashik
+497,Biryani Zone 497,Indian,Karimnagar
+498,Dragon Wok 498,North Indian,Jhansi
+499,Pasta Palace 499,Chinese,Satna
+500,Burger Point 500,Mexican,Nizamabad
+501,Cafe Delight 501,North Indian,Ambarnath
+502,BBQ Nation 502,North Indian,Adoni
+503,Dragon Wok 503,North Indian,Bijapur
+504,Dosa Corner 504,Cafe,Panchkula
+505,Dragon Wok 505,Italian,Hapur
+506,Dosa Corner 506,Cafe,Bathinda
+507,Tandoori Treat 507,Fast Food,Korba
+508,Tandoori Treat 508,North Indian,Sirsa
+509,Biryani Zone 509,Indian,Khandwa
+510,BBQ Nation 510,North Indian,Guna
+511,Spice Hub 511,Indian,Farrukhabad
+512,Tandoori Treat 512,Mexican,Haridwar
+513,Biryani Zone 513,South Indian,Medininagar
+514,Tandoori Treat 514,Fast Food,Ambala
+515,Dosa Corner 515,South Indian,Alappuzha
+516,Tandoori Treat 516,North Indian,Bidhannagar
+517,Pizza World 517,Italian,Shivpuri
+518,Spice Hub 518,North Indian,Parbhani
+519,Dragon Wok 519,Indian,Morena
+520,Tandoori Treat 520,Fast Food,Berhampore
+521,Pizza World 521,Italian,Karimnagar
+522,Biryani Zone 522,Fast Food,Shimla
+523,BBQ Nation 523,Chinese,Kirari Suleman Nagar
+524,Dosa Corner 524,Chinese,Maheshtala
+525,Pasta Palace 525,Fast Food,Nanded
+526,Pasta Palace 526,North Indian,Ambala
+527,Pizza World 527,North Indian,Mirzapur
+528,Dragon Wok 528,North Indian,Dhanbad
+529,Cafe Delight 529,Italian,Nadiad
+530,Dragon Wok 530,Italian,Gudivada
+531,Pizza World 531,South Indian,Bulandshahr
+532,BBQ Nation 532,Fast Food,Serampore
+533,Burger Point 533,Cafe,Burhanpur
+534,Spice Hub 534,North Indian,Noida
+535,Pasta Palace 535,Italian,Khora 
+536,Dragon Wok 536,Fast Food,Bhind
+537,Biryani Zone 537,Cafe,Tiruppur
+538,Cafe Delight 538,Italian,Patiala
+539,Dosa Corner 539,Mexican,Nellore
+540,Spice Hub 540,Fast Food,Aurangabad
+541,Tandoori Treat 541,South Indian,Vadodara
+542,Burger Point 542,Mexican,Hubli–Dharwad
+543,Biryani Zone 543,Cafe,Durgapur
+544,Burger Point 544,Chinese,Jehanabad
+545,Spice Hub 545,Indian,Ahmedabad
+546,Biryani Zone 546,Mexican,Noida
+547,Burger Point 547,Italian,Fatehpur
+548,Dosa Corner 548,Chinese,Tiruvottiyur
+549,BBQ Nation 549,Mexican,Arrah
+550,Cafe Delight 550,Cafe,Bareilly
+551,Tandoori Treat 551,Chinese,Bally
+552,BBQ Nation 552,Italian,Sagar
+553,Dragon Wok 553,Cafe,Mumbai
+554,Biryani Zone 554,Indian,Serampore
+555,Cafe Delight 555,South Indian,Durgapur
+556,Dragon Wok 556,Mexican,Karawal Nagar
+557,Dosa Corner 557,Fast Food,Pallavaram
+558,Burger Point 558,Fast Food,Amravati
+559,Pasta Palace 559,Fast Food,Kolhapur
+560,Spice Hub 560,Cafe,Amroha
+561,Biryani Zone 561,South Indian,Machilipatnam
+562,Burger Point 562,Mexican,Ballia
+563,Burger Point 563,South Indian,Aligarh
+564,Tandoori Treat 564,Indian,Bokaro
+565,Spice Hub 565,Fast Food,Satara
+566,Dosa Corner 566,Chinese,Agartala
+567,Tandoori Treat 567,South Indian,Machilipatnam
+568,Burger Point 568,South Indian,Sirsa
+569,Tandoori Treat 569,South Indian,Mangalore
+570,Dosa Corner 570,Fast Food,Pune
+571,Pizza World 571,Indian,Kirari Suleman Nagar
+572,Biryani Zone 572,Chinese,Hapur
+573,Pizza World 573,North Indian,Morbi
+574,Pizza World 574,Italian,Gurgaon
+575,Spice Hub 575,Chinese,Kadapa
+576,Spice Hub 576,Fast Food,Lucknow
+577,Dosa Corner 577,Fast Food,Howrah
+578,Spice Hub 578,Chinese,Hyderabad
+579,Biryani Zone 579,Indian,Khora 
+580,Pizza World 580,Cafe,Vijayanagaram
+581,Pasta Palace 581,Italian,Morbi
+582,Burger Point 582,Mexican,Miryalaguda
+583,Dragon Wok 583,Fast Food,Bokaro
+584,Pasta Palace 584,Italian,Ambala
+585,Dragon Wok 585,South Indian,Nellore
+586,Tandoori Treat 586,Indian,Morena
+587,Pasta Palace 587,North Indian,Agartala
+588,Dragon Wok 588,Indian,Bidhannagar
+589,Spice Hub 589,Mexican,Bhavnagar
+590,BBQ Nation 590,Cafe,Cuttack
+591,Burger Point 591,Mexican,Berhampore
+592,Dragon Wok 592,Italian,Nanded
+593,Burger Point 593,Fast Food,Ahmedabad
+594,Tandoori Treat 594,Chinese,Aurangabad
+595,Burger Point 595,Chinese,Kadapa
+596,Biryani Zone 596,Fast Food,Mehsana
+597,BBQ Nation 597,North Indian,Ambala
+598,Dragon Wok 598,Cafe,Bhatpara
+599,Burger Point 599,Italian,Amravati
+600,Pasta Palace 600,South Indian,Motihari
+601,BBQ Nation 601,Mexican,Durg
+602,Dosa Corner 602,Cafe,Ongole
+603,Cafe Delight 603,Mexican,Jalna
+604,BBQ Nation 604,Cafe,Madhyamgram
+605,Burger Point 605,Fast Food,Guwahati
+606,BBQ Nation 606,Fast Food,Chapra
+607,Biryani Zone 607,Fast Food,Mira-Bhayandar
+608,Pizza World 608,Mexican,Korba
+609,Burger Point 609,Italian,Jorhat
+610,Burger Point 610,Italian,Srinagar
+611,BBQ Nation 611,Italian,Kanpur
+612,Cafe Delight 612,Chinese,Vijayanagaram
+613,Pasta Palace 613,Indian,Vijayanagaram
+614,Tandoori Treat 614,Fast Food,Saharsa
+615,Burger Point 615,Cafe,Karaikudi
+616,Cafe Delight 616,Cafe,Tumkur
+617,Spice Hub 617,North Indian,Chandigarh
+618,Tandoori Treat 618,North Indian,Bikaner
+619,Cafe Delight 619,Italian,Jalandhar
+620,Tandoori Treat 620,South Indian,Solapur
+621,Pizza World 621,Mexican,Darbhanga
+622,Dosa Corner 622,Italian,Avadi
+623,Cafe Delight 623,Fast Food,Orai
+624,Burger Point 624,North Indian,Patna
+625,Tandoori Treat 625,South Indian,Mysore
+626,BBQ Nation 626,Indian,Ongole
+627,Tandoori Treat 627,North Indian,Gangtok
+628,Spice Hub 628,Chinese,Bellary
+629,Biryani Zone 629,North Indian,Aligarh
+630,Cafe Delight 630,Fast Food,Haldia
+631,Spice Hub 631,Chinese,Akola
+632,Pizza World 632,Cafe,Bathinda
+633,Burger Point 633,Chinese,Kochi
+634,Spice Hub 634,Italian,Tinsukia
+635,Pasta Palace 635,South Indian,Dhule
+636,BBQ Nation 636,Cafe,Bokaro
+637,Dragon Wok 637,Fast Food,Ranchi
+638,Pizza World 638,Fast Food,Siliguri
+639,Biryani Zone 639,Fast Food,Adoni
+640,Tandoori Treat 640,Italian,Shivpuri
+641,Spice Hub 641,Chinese,Kochi
+642,Pizza World 642,Indian,Kishanganj
+643,Burger Point 643,North Indian,Hubli–Dharwad
+644,Dragon Wok 644,Cafe,Gudivada
+645,Dragon Wok 645,Mexican,Vadodara
+646,BBQ Nation 646,North Indian,Khora 
+647,Dosa Corner 647,Italian,Thrissur
+648,Cafe Delight 648,Cafe,Bongaigaon
+649,Burger Point 649,North Indian,Sikar
+650,Tandoori Treat 650,Mexican,Khora 
+651,Pasta Palace 651,North Indian,Bulandshahr
+652,Spice Hub 652,South Indian,Hapur
+653,BBQ Nation 653,Indian,Mira-Bhayandar
+654,Spice Hub 654,South Indian,Sikar
+655,Biryani Zone 655,South Indian,Erode
+656,Pizza World 656,North Indian,Nagpur
+657,Biryani Zone 657,Fast Food,Bidar
+658,Burger Point 658,Indian,Bokaro
+659,Dragon Wok 659,Cafe,Ratlam
+660,Pizza World 660,Chinese,Shimla
+661,BBQ Nation 661,South Indian,Amaravati
+662,Pasta Palace 662,Fast Food,Gwalior
+663,Burger Point 663,Cafe,Malegaon
+664,Spice Hub 664,Cafe,Ranchi
+665,Spice Hub 665,Mexican,Junagadh
+666,Burger Point 666,Fast Food,Anantapur
+667,Tandoori Treat 667,Cafe,Saharsa
+668,Tandoori Treat 668,Cafe,Nellore
+669,BBQ Nation 669,North Indian,Alappuzha
+670,Burger Point 670,Cafe,Mahbubnagar
+671,Spice Hub 671,Fast Food,Haldia
+672,Pizza World 672,Mexican,Srikakulam
+673,Cafe Delight 673,Italian,Sambhal
+674,BBQ Nation 674,Italian,Rampur
+675,Dosa Corner 675,Cafe,Anand
+676,Tandoori Treat 676,Cafe,Nizamabad
+677,Pasta Palace 677,Italian,Dehradun
+678,BBQ Nation 678,North Indian,Kanpur
+679,Cafe Delight 679,South Indian,Varanasi
+680,Cafe Delight 680,Chinese,Tiruppur
+681,Burger Point 681,Italian,Chittoor
+682,Pasta Palace 682,South Indian,Arrah
+683,Cafe Delight 683,Fast Food,Guna
+684,Pizza World 684,South Indian,Phagwara
+685,Burger Point 685,Chinese,Khandwa
+686,Biryani Zone 686,South Indian,Ambala
+687,Pizza World 687,Chinese,Farrukhabad
+688,Burger Point 688,Chinese,Ambala
+689,Dragon Wok 689,Mexican,Gorakhpur
+690,Tandoori Treat 690,Mexican,Thrissur
+691,Tandoori Treat 691,Fast Food,Varanasi
+692,Cafe Delight 692,Chinese,Dharmavaram
+693,Dragon Wok 693,Italian,Aurangabad
+694,Dragon Wok 694,Mexican,Tadepalligudem
+695,Biryani Zone 695,North Indian,Serampore
+696,Tandoori Treat 696,Indian,Guntur
+697,Cafe Delight 697,Italian,Bardhaman
+698,Biryani Zone 698,Mexican,Kota
+699,Dragon Wok 699,Indian,Haldia
+700,Spice Hub 700,Fast Food,Malda
+701,Biryani Zone 701,Italian,Nangloi Jat
+702,Burger Point 702,Cafe,Hosur
+703,Dragon Wok 703,Indian,Orai
+704,Dragon Wok 704,South Indian,Saharsa
+705,Cafe Delight 705,Mexican,Buxar
+706,Pasta Palace 706,Chinese,Khammam
+707,Spice Hub 707,Mexican,Nagaon
+708,Burger Point 708,Fast Food,Hajipur
+709,Burger Point 709,Chinese,Maheshtala
+710,Spice Hub 710,South Indian,Tumkur
+711,Dragon Wok 711,Mexican,Parbhani
+712,Pasta Palace 712,Chinese,Narasaraopet
+713,Cafe Delight 713,Fast Food,Thrissur
+714,Biryani Zone 714,Cafe,Dhanbad
+715,BBQ Nation 715,Fast Food,Bardhaman
+716,Tandoori Treat 716,Indian,Narasaraopet
+717,Cafe Delight 717,Italian,Bareilly
+718,Cafe Delight 718,Italian,Guwahati
+719,Pasta Palace 719,Cafe,Tadepalligudem
+720,Biryani Zone 720,North Indian,Coimbatore
+721,Tandoori Treat 721,Chinese,Bally
+722,Cafe Delight 722,Italian,Kishanganj
+723,Tandoori Treat 723,Chinese,Ajmer
+724,Cafe Delight 724,North Indian,Durg
+725,BBQ Nation 725,Chinese,Dhanbad
+726,Tandoori Treat 726,Italian,Baranagar
+727,Biryani Zone 727,Cafe,Jaipur
+728,Cafe Delight 728,Chinese,Hindupur
+729,Pasta Palace 729,Italian,Danapur
+730,BBQ Nation 730,Fast Food,Mumbai
+731,Spice Hub 731,Fast Food,Jalgaon
+732,Biryani Zone 732,Chinese,Durg
+733,Dosa Corner 733,Fast Food,North Dumdum
+734,Dragon Wok 734,South Indian,Bathinda
+735,Dosa Corner 735,Chinese,Ratlam
+736,Pizza World 736,Italian,Sambhal
+737,Biryani Zone 737,Italian,Udupi
+738,Pasta Palace 738,Indian,Karimnagar
+739,Cafe Delight 739,Chinese,Ludhiana
+740,Tandoori Treat 740,Cafe,Hapur
+741,Pizza World 741,Chinese,Bahraich
+742,Pizza World 742,Chinese,Saharsa
+743,Dragon Wok 743,Indian,Shahjahanpur
+744,BBQ Nation 744,Fast Food,Belgaum
+745,Dosa Corner 745,Mexican,Gurgaon
+746,Tandoori Treat 746,North Indian,Ambala
+747,Dragon Wok 747,South Indian,Jorhat
+748,Pasta Palace 748,South Indian,Eluru
+749,Biryani Zone 749,Mexican,Adoni
+750,Dosa Corner 750,Fast Food,Indore
+751,Tandoori Treat 751,Mexican,Rewa
+752,Dragon Wok 752,North Indian,Bijapur
+753,BBQ Nation 753,Cafe,Chapra
+754,Pizza World 754,South Indian,Srinagar
+755,Tandoori Treat 755,Chinese,Amritsar
+756,Biryani Zone 756,Indian,Kumbakonam
+757,Dragon Wok 757,Fast Food,Chinsurah
+758,Pasta Palace 758,Italian,Kurnool
+759,Pasta Palace 759,Italian,Tezpur
+760,Biryani Zone 760,Italian,Pune
+761,Pizza World 761,North Indian,Morena
+762,Dragon Wok 762,Chinese,Machilipatnam
+763,BBQ Nation 763,Italian,Sri Ganganagar
+764,Dosa Corner 764,Mexican,Uluberia
+765,Cafe Delight 765,Indian,Aligarh
+766,BBQ Nation 766,Indian,Nanded
+767,BBQ Nation 767,Fast Food,Sonipat
+768,Dosa Corner 768,Cafe,Nanded
+769,Burger Point 769,Fast Food,Maheshtala
+770,Dosa Corner 770,Indian,Amaravati
+771,Cafe Delight 771,Italian,Jamalpur
+772,Cafe Delight 772,Chinese,Guntakal
+773,Pizza World 773,Indian,Satara
+774,Biryani Zone 774,Mexican,Bhavnagar
+775,Pizza World 775,Mexican,Ramagundam
+776,Dragon Wok 776,Indian,Kamarhati
+777,Burger Point 777,Indian,Haridwar
+778,Biryani Zone 778,South Indian,Farrukhabad
+779,Pizza World 779,Cafe,Ramgarh
+780,Burger Point 780,North Indian,Hapur
+781,Dosa Corner 781,North Indian,Vadodara
+782,Burger Point 782,Indian,Bidhannagar
+783,Dosa Corner 783,Cafe,Avadi
+784,Tandoori Treat 784,Mexican,Gaya
+785,Burger Point 785,Italian,Kochi
+786,Dragon Wok 786,Indian,Kirari Suleman Nagar
+787,Pasta Palace 787,South Indian,Karnal
+788,Pizza World 788,North Indian,Patna
+789,BBQ Nation 789,Indian,Purnia
+790,Tandoori Treat 790,Fast Food,Anand
+791,Dosa Corner 791,Cafe,Mathura
+792,Pizza World 792,Italian,Begusarai
+793,Pasta Palace 793,Fast Food,Orai
+794,Burger Point 794,Indian,Noida
+795,BBQ Nation 795,Mexican,Purnia
+796,Spice Hub 796,Cafe,Anand
+797,Cafe Delight 797,North Indian,Pune
+798,Spice Hub 798,Fast Food,Tumkur
+799,Burger Point 799,Fast Food,Deoghar
+800,Dosa Corner 800,Italian,Eluru
+801,Tandoori Treat 801,Fast Food,Morbi
+802,Pizza World 802,Indian,Pallavaram
+803,Cafe Delight 803,Fast Food,Noida
+804,Pizza World 804,Mexican,Ambattur
+805,Dragon Wok 805,Chinese,Jabalpur
+806,Pizza World 806,Italian,Ratlam
+807,Dragon Wok 807,Indian,Sambhal
+808,Biryani Zone 808,South Indian,Ghaziabad
+809,Spice Hub 809,South Indian,Siwan
+810,Spice Hub 810,Fast Food,Jamshedpur
+811,Biryani Zone 811,Cafe,Tinsukia
+812,Pasta Palace 812,Mexican,Raichur
+813,Biryani Zone 813,Indian,Begusarai
+814,Dosa Corner 814,North Indian,Kumbakonam
+815,Cafe Delight 815,Indian,Nandyal
+816,Cafe Delight 816,North Indian,Ramgarh
+817,Burger Point 817,Fast Food,Jhansi
+818,BBQ Nation 818,Cafe,Singrauli
+819,Dragon Wok 819,Cafe,Ambattur
+820,Cafe Delight 820,Chinese,Kadapa
+821,Dragon Wok 821,Mexican,Malda
+822,Cafe Delight 822,North Indian,Kozhikode
+823,Burger Point 823,Cafe,Motihari
+824,Burger Point 824,Cafe,Bhind
+825,Tandoori Treat 825,Chinese,Udupi
+826,Pasta Palace 826,North Indian,Surendranagar Dudhrej
+827,Cafe Delight 827,Italian,Karawal Nagar
+828,Burger Point 828,Fast Food,Ongole
+829,Biryani Zone 829,North Indian,Tiruppur
+830,Dragon Wok 830,Cafe,Hyderabad
+831,Pizza World 831,Mexican,Jamnagar
+832,Cafe Delight 832,Mexican,Sagar
+833,Spice Hub 833,Fast Food,Indore
+834,Tandoori Treat 834,Cafe,Bhusawal
+835,Biryani Zone 835,Indian,Sonipat
+836,Burger Point 836,Cafe,Bhiwani
+837,Cafe Delight 837,Chinese,Ghaziabad
+838,Spice Hub 838,Chinese,Bhalswa Jahangir Pur
+839,Tandoori Treat 839,Mexican,Purnia
+840,Spice Hub 840,Chinese,Bijapur
+841,Burger Point 841,South Indian,Ichalkaranji
+842,Cafe Delight 842,Fast Food,Shimla
+843,BBQ Nation 843,Indian,Raiganj
+844,Tandoori Treat 844,Chinese,Salem
+845,Dragon Wok 845,Fast Food,Barasat
+846,Cafe Delight 846,Mexican,Raebareli
+847,Burger Point 847,Chinese,Madhyamgram
+848,Pasta Palace 848,Fast Food,Nashik
+849,BBQ Nation 849,Fast Food,Madhyamgram
+850,Biryani Zone 850,South Indian,Saharanpur
+851,Burger Point 851,Indian,Jamshedpur
+852,Pizza World 852,Mexican,Shahjahanpur
+853,Pasta Palace 853,Cafe,Indore
+854,Pasta Palace 854,Italian,Machilipatnam
+855,Biryani Zone 855,North Indian,Giridih
+856,Dragon Wok 856,South Indian,Munger
+857,Tandoori Treat 857,North Indian,Danapur
+858,Dragon Wok 858,South Indian,Ratlam
+859,Burger Point 859,Chinese,Maheshtala
+860,Burger Point 860,Mexican,Jaunpur
+861,Pizza World 861,Mexican,Tiruppur
+862,Burger Point 862,Fast Food,Rajkot
+863,Cafe Delight 863,Italian,Narasaraopet
+864,Pasta Palace 864,North Indian,Ichalkaranji
+865,Biryani Zone 865,Chinese,Dewas
+866,Pizza World 866,Fast Food,Nagercoil
+867,Pasta Palace 867,South Indian,Gurgaon
+868,Burger Point 868,South Indian,Thiruvananthapuram
+869,Pizza World 869,South Indian,Ludhiana
+870,Dragon Wok 870,Indian,Ambarnath
+871,Cafe Delight 871,Fast Food,Sambalpur
+872,Dragon Wok 872,Chinese,Dibrugarh
+873,Tandoori Treat 873,Italian,Vellore
+874,Burger Point 874,North Indian,Chinsurah
+875,BBQ Nation 875,Mexican,Guwahati
+876,Pasta Palace 876,Cafe,Panchkula
+877,BBQ Nation 877,Italian,Bahraich
+878,Pizza World 878,Fast Food,Udaipur
+879,Burger Point 879,Mexican,Dhule
+880,Dragon Wok 880,Fast Food,Maheshtala
+881,Pizza World 881,Chinese,Coimbatore
+882,Pizza World 882,Cafe,Kulti
+883,Pasta Palace 883,Indian,Ongole
+884,Burger Point 884,Chinese,Uluberia
+885,Biryani Zone 885,Chinese,Kishanganj
+886,Pizza World 886,Fast Food,Adoni
+887,Dosa Corner 887,Fast Food,Kozhikode
+888,Pasta Palace 888,North Indian,Panvel
+889,Burger Point 889,North Indian,Bilaspur
+890,Dosa Corner 890,North Indian,Rajahmundry
+891,Pizza World 891,North Indian,Salem
+892,Tandoori Treat 892,Italian,Nanded
+893,Pasta Palace 893,Chinese,Coimbatore
+894,Tandoori Treat 894,Chinese,Bathinda
+895,Pizza World 895,Fast Food,Hapur
+896,Tandoori Treat 896,Indian,Bihar Sharif
+897,Spice Hub 897,Italian,Bardhaman
+898,Spice Hub 898,North Indian,Mumbai
+899,Dosa Corner 899,Cafe,Anantapur
+900,Tandoori Treat 900,Indian,Nanded
+901,Dragon Wok 901,North Indian,Ratlam
+902,Biryani Zone 902,Mexican,Bokaro
+903,Dosa Corner 903,Cafe,Navi Mumbai
+904,Biryani Zone 904,Mexican,Chapra
+905,Burger Point 905,Indian,Nizamabad
+906,Pizza World 906,Mexican,Gurgaon
+907,BBQ Nation 907,Mexican,Gandhidham
+908,Dragon Wok 908,South Indian,Allahabad
+909,Cafe Delight 909,Chinese,Junagadh
+910,Cafe Delight 910,Fast Food,Bijapur
+911,Cafe Delight 911,Cafe,Deoghar
+912,Pizza World 912,Fast Food,Raiganj
+913,Pasta Palace 913,Italian,Satna
+914,Cafe Delight 914,South Indian,Pune
+915,Dragon Wok 915,Italian,Faridabad
+916,Biryani Zone 916,Mexican,Mumbai
+917,Dosa Corner 917,Chinese,Latur
+918,Burger Point 918,Indian,Raipur
+919,Biryani Zone 919,Cafe,Imphal
+920,Tandoori Treat 920,Cafe,Ambarnath
+921,Dosa Corner 921,Chinese,Surat
+922,Cafe Delight 922,Fast Food,Muzaffarnagar
+923,Dosa Corner 923,Chinese,Jaunpur
+924,Dragon Wok 924,Mexican,Avadi
+925,Dragon Wok 925,North Indian,Karimnagar
+926,Dragon Wok 926,Indian,Bhatpara
+927,Burger Point 927,Cafe,Kirari Suleman Nagar
+928,Pasta Palace 928,Mexican,Dehri
+929,Dosa Corner 929,South Indian,Maheshtala
+930,Tandoori Treat 930,Fast Food,Patna
+931,Spice Hub 931,Indian,Burhanpur
+932,Biryani Zone 932,Mexican,Parbhani
+933,Tandoori Treat 933,Mexican,Thiruvananthapuram
+934,Biryani Zone 934,Indian,Jalgaon
+935,Burger Point 935,Cafe,Surendranagar Dudhrej
+936,Pizza World 936,North Indian,Bally
+937,Cafe Delight 937,Cafe,Bhagalpur
+938,Cafe Delight 938,Indian,Davanagere
+939,BBQ Nation 939,Indian,Chapra
+940,Tandoori Treat 940,South Indian,Medininagar
+941,Cafe Delight 941,North Indian,Dehradun
+942,Burger Point 942,Cafe,Sirsa
+943,Pasta Palace 943,Mexican,Aligarh
+944,Pasta Palace 944,North Indian,Bokaro
+945,Tandoori Treat 945,Italian,Anand
+946,Pizza World 946,Italian,Chinsurah
+947,BBQ Nation 947,Fast Food,Dewas
+948,Cafe Delight 948,Fast Food,Latur
+949,Pizza World 949,South Indian,Yamunanagar
+950,Tandoori Treat 950,Cafe,Anantapur
+951,Pasta Palace 951,Indian,Satna
+952,Spice Hub 952,Indian,Alwar
+953,Pizza World 953,Fast Food,Ballia
+954,Dragon Wok 954,Mexican,Tezpur
+955,Pizza World 955,Chinese,Dindigul
+956,Cafe Delight 956,Fast Food,Raiganj
+957,Pizza World 957,Cafe,Udaipur
+958,Tandoori Treat 958,North Indian,Bihar Sharif
+959,Tandoori Treat 959,Fast Food,Tirunelveli
+960,Pasta Palace 960,Mexican,Raichur
+961,Tandoori Treat 961,North Indian,Fatehpur
+962,Dragon Wok 962,Indian,Bhopal
+963,Cafe Delight 963,Fast Food,Nellore
+964,Burger Point 964,Cafe,Salem
+965,Tandoori Treat 965,North Indian,Srikakulam
+966,Spice Hub 966,Mexican,Korba
+967,Biryani Zone 967,South Indian,Burhanpur
+968,Spice Hub 968,Mexican,Madurai
+969,Pizza World 969,Cafe,Aligarh
+970,Pizza World 970,South Indian,Baranagar
+971,Spice Hub 971,Italian,Shahjahanpur
+972,Dosa Corner 972,Indian,Mysore
+973,Dragon Wok 973,Fast Food,Bilaspur
+974,BBQ Nation 974,Chinese,Dibrugarh
+975,BBQ Nation 975,South Indian,Anantapur
+976,BBQ Nation 976,Mexican,Suryapet
+977,Spice Hub 977,Chinese,Agartala
+978,Pasta Palace 978,South Indian,Morbi
+979,Pasta Palace 979,Fast Food,Mathura
+980,Dragon Wok 980,Cafe,Chandigarh
+981,Cafe Delight 981,Chinese,Fatehpur
+982,Dragon Wok 982,Fast Food,Ghaziabad
+983,Pasta Palace 983,Fast Food,Bidhannagar
+984,Biryani Zone 984,Mexican,Agartala
+985,Dosa Corner 985,South Indian,Satara
+986,Biryani Zone 986,North Indian,Bhatpara
+987,Dosa Corner 987,North Indian,Firozabad
+988,Biryani Zone 988,South Indian,Warangal
+989,Dragon Wok 989,Fast Food,Dewas
+990,Dragon Wok 990,Fast Food,Buxar
+991,Pasta Palace 991,North Indian,Tiruvottiyur
+992,Biryani Zone 992,Italian,Ghaziabad
+993,Tandoori Treat 993,Cafe,Sonipat
+994,BBQ Nation 994,Fast Food,Guwahati
+995,Pizza World 995,North Indian,Guwahati
+996,Spice Hub 996,North Indian,Nagpur
+997,Burger Point 997,Fast Food,Bhubaneswar
+998,Dragon Wok 998,North Indian,Kulti
+999,Dragon Wok 999,South Indian,Thanjavur
+1000,Dosa Corner 1000,North Indian,Kulti
+1001,Pasta Palace 1001,North Indian,Chapra
+1002,Pizza World 1002,Italian,Hapur
+1003,Tandoori Treat 1003,South Indian,Sagar
+1004,Dosa Corner 1004,Indian,Tezpur
+1005,Pasta Palace 1005,South Indian,Berhampur
+1006,Dosa Corner 1006,Indian,Madanapalle
+1007,Burger Point 1007,Cafe,Mehsana
+1008,Cafe Delight 1008,Mexican,Mahbubnagar
+1009,Burger Point 1009,Chinese,Unnao
+1010,Spice Hub 1010,Chinese,Mehsana
+1011,BBQ Nation 1011,Mexican,Bhagalpur
+1012,Dragon Wok 1012,South Indian,Hazaribagh
+1013,Biryani Zone 1013,Fast Food,Moradabad
+1014,Biryani Zone 1014,Indian,Mathura
+1015,Burger Point 1015,South Indian,Tadipatri
+1016,Pasta Palace 1016,Indian,Malegaon
+1017,Pizza World 1017,Cafe,Tirupati
+1018,Pizza World 1018,Indian,Bhilwara
+1019,BBQ Nation 1019,Mexican,Bulandshahr
+1020,Pizza World 1020,North Indian,Bettiah
+1021,Spice Hub 1021,Indian,Panchkula
+1022,Biryani Zone 1022,Italian,Saharanpur
+1023,Cafe Delight 1023,North Indian,Panihati
+1024,Dragon Wok 1024,Mexican,Machilipatnam
+1025,Pizza World 1025,Mexican,Vasai-Virar
+1026,Biryani Zone 1026,South Indian,Baranagar
+1027,Burger Point 1027,Fast Food,Sikar
+1028,Pizza World 1028,Mexican,Tezpur
+1029,Biryani Zone 1029,Chinese,Amritsar
+1030,Spice Hub 1030,Fast Food,Tiruppur
+1031,Biryani Zone 1031,South Indian,Ranchi
+1032,Pizza World 1032,Cafe,Serampore
+1033,BBQ Nation 1033,Fast Food,Guntakal
+1034,Burger Point 1034,Cafe,Barasat
+1035,Burger Point 1035,Chinese,Siwan
+1036,Pizza World 1036,Mexican,Kanpur
+1037,Cafe Delight 1037,South Indian,Agartala
+1038,Spice Hub 1038,North Indian,Panvel
+1039,BBQ Nation 1039,South Indian,Silchar
+1040,Dragon Wok 1040,North Indian,Jalgaon
+1041,Cafe Delight 1041,North Indian,Farrukhabad
+1042,Tandoori Treat 1042,Indian,Ujjain
+1043,Biryani Zone 1043,Fast Food,Anand
+1044,Dosa Corner 1044,Indian,Naihati
+1045,Burger Point 1045,Mexican,Gorakhpur
+1046,Biryani Zone 1046,Chinese,Hapur
+1047,BBQ Nation 1047,North Indian,Tezpur
+1048,Burger Point 1048,North Indian,Loni
+1049,Cafe Delight 1049,South Indian,Bellary
+1050,Dosa Corner 1050,Chinese,Bijapur
+1051,Dragon Wok 1051,Chinese,Raiganj
+1052,Dragon Wok 1052,Fast Food,Tirupati
+1053,BBQ Nation 1053,Mexican,Berhampur
+1054,Pasta Palace 1054,South Indian,Ajmer
+1055,Dosa Corner 1055,Italian,Rajpur Sonarpur
+1056,Pasta Palace 1056,Mexican,Katni
+1057,Pasta Palace 1057,Fast Food,Bhind
+1058,Burger Point 1058,Italian,Rajkot
+1059,Spice Hub 1059,South Indian,Nizamabad
+1060,Tandoori Treat 1060,Chinese,Gudivada
+1061,Pizza World 1061,Fast Food,Kolkata
+1062,Pasta Palace 1062,Mexican,Aizawl
+1063,Burger Point 1063,South Indian,Jalgaon
+1064,Tandoori Treat 1064,Mexican,Ranchi
+1065,Burger Point 1065,Mexican,Nangloi Jat
+1066,Spice Hub 1066,Mexican,Pali
+1067,Pizza World 1067,Cafe,Firozabad
+1068,Dragon Wok 1068,Indian,Gandhinagar
+1069,Pasta Palace 1069,Mexican,Erode
+1070,Biryani Zone 1070,Indian,Sirsa
+1071,BBQ Nation 1071,North Indian,Jabalpur
+1072,Spice Hub 1072,South Indian,Deoghar
+1073,Tandoori Treat 1073,Italian,Lucknow
+1074,Spice Hub 1074,Cafe,Hubli–Dharwad
+1075,Cafe Delight 1075,Italian,Gaya
+1076,Pasta Palace 1076,Indian,Munger
+1077,Burger Point 1077,Mexican,Jamnagar
+1078,Spice Hub 1078,North Indian,Parbhani
+1079,BBQ Nation 1079,Chinese,Bally
+1080,Pizza World 1080,Cafe,Jalgaon
+1081,Cafe Delight 1081,Cafe,Jalna
+1082,Dragon Wok 1082,Cafe,Guna
+1083,BBQ Nation 1083,Italian,Imphal
+1084,Pasta Palace 1084,Chinese,Kishanganj
+1085,Cafe Delight 1085,Italian,Akola
+1086,Pizza World 1086,Cafe,Motihari
+1087,Pasta Palace 1087,Chinese,Bihar Sharif
+1088,Dosa Corner 1088,Indian,Hindupur
+1089,Spice Hub 1089,North Indian,Ongole
+1090,Dragon Wok 1090,Cafe,Amaravati
+1091,Pasta Palace 1091,Cafe,Vijayanagaram
+1092,Dosa Corner 1092,South Indian,Raurkela Industrial Township
+1093,Dragon Wok 1093,Fast Food,Kolhapur
+1094,Pizza World 1094,North Indian,Karaikudi
+1095,Dosa Corner 1095,Italian,Sirsa
+1096,Spice Hub 1096,Cafe,Maheshtala
+1097,Tandoori Treat 1097,Indian,Tiruchirappalli
+1098,Dosa Corner 1098,South Indian,Ballia
+1099,Burger Point 1099,Italian,Chandigarh
+1100,Tandoori Treat 1100,Indian,Gandhinagar
+1101,Dragon Wok 1101,Indian,Aizawl
+1102,Dosa Corner 1102,Indian,Chandrapur
+1103,BBQ Nation 1103,Mexican,Eluru
+1104,Dosa Corner 1104,South Indian,Ujjain
+1105,Spice Hub 1105,Chinese,Malegaon
+1106,Pasta Palace 1106,North Indian,Ambattur
+1107,Dosa Corner 1107,Fast Food,Ghaziabad
+1108,Tandoori Treat 1108,Fast Food,Bardhaman
+1109,Dosa Corner 1109,North Indian,Phusro
+1110,Pizza World 1110,South Indian,Silchar
+1111,BBQ Nation 1111,North Indian,Firozabad
+1112,Biryani Zone 1112,Indian,Latur
+1113,Pasta Palace 1113,Chinese,Mumbai
+1114,BBQ Nation 1114,Mexican,Tiruvottiyur
+1115,Spice Hub 1115,Fast Food,Kamarhati
+1116,BBQ Nation 1116,Fast Food,Ambattur
+1117,BBQ Nation 1117,Cafe,Satna
+1118,Pizza World 1118,North Indian,Siliguri
+1119,BBQ Nation 1119,Chinese,Parbhani
+1120,Pasta Palace 1120,Mexican,Tumkur
+1121,Dosa Corner 1121,South Indian,Bijapur
+1122,Biryani Zone 1122,Chinese,Eluru
+1123,Dragon Wok 1123,Indian,Kolhapur
+1124,Pasta Palace 1124,Cafe,Katihar
+1125,BBQ Nation 1125,Chinese,Guntakal
+1126,BBQ Nation 1126,South Indian,Begusarai
+1127,Biryani Zone 1127,South Indian,Secunderabad
+1128,Cafe Delight 1128,Italian,Aurangabad
+1129,Dragon Wok 1129,Fast Food,Mango
+1130,Burger Point 1130,South Indian,Kanpur
+1131,Spice Hub 1131,North Indian,Gudivada
+1132,BBQ Nation 1132,Indian,Alwar
+1133,Burger Point 1133,South Indian,Vasai-Virar
+1134,Tandoori Treat 1134,South Indian,Tiruvottiyur
+1135,Dragon Wok 1135,South Indian,Haldia
+1136,Cafe Delight 1136,North Indian,Gurgaon
+1137,Spice Hub 1137,South Indian,Siliguri
+1138,Dosa Corner 1138,Italian,Vijayawada
+1139,Dragon Wok 1139,South Indian,Panihati
+1140,Tandoori Treat 1140,South Indian,Pallavaram
+1141,BBQ Nation 1141,South Indian,Srinagar
+1142,Pasta Palace 1142,Fast Food,Shimoga
+1143,Biryani Zone 1143,Cafe,Tenali
+1144,Dragon Wok 1144,Fast Food,Mahbubnagar
+1145,Biryani Zone 1145,North Indian,Chennai
+1146,Cafe Delight 1146,Mexican,Nagpur
+1147,Dragon Wok 1147,Italian,Darbhanga
+1148,Dragon Wok 1148,Fast Food,Tumkur
+1149,Dosa Corner 1149,Fast Food,Delhi
+1150,Cafe Delight 1150,Cafe,Gandhidham
+1151,Spice Hub 1151,South Indian,Khora 
+1152,Pizza World 1152,Indian,Phusro
+1153,Biryani Zone 1153,Cafe,Ambala
+1154,Biryani Zone 1154,Chinese,Sagar
+1155,Dosa Corner 1155,Fast Food,Jammu
+1156,Dosa Corner 1156,Cafe,Salem
+1157,Tandoori Treat 1157,South Indian,Bikaner
+1158,Dragon Wok 1158,Fast Food,Mangalore
+1159,Biryani Zone 1159,Mexican,Ozhukarai
+1160,Dragon Wok 1160,Mexican,Visakhapatnam
+1161,Pizza World 1161,Fast Food,Mau
+1162,Pizza World 1162,Chinese,New Delhi
+1163,Pasta Palace 1163,Mexican,Darbhanga
+1164,Pizza World 1164,Indian,Shimoga
+1165,Pasta Palace 1165,Indian,Pune
+1166,Burger Point 1166,Indian,Dhanbad
+1167,Spice Hub 1167,Cafe,Gudivada
+1168,Pizza World 1168,South Indian,Haridwar
+1169,Burger Point 1169,Chinese,Junagadh
+1170,Spice Hub 1170,South Indian,Tiruppur
+1171,Pasta Palace 1171,Mexican,Chinsurah
+1172,Cafe Delight 1172,Indian,Secunderabad
+1173,Tandoori Treat 1173,Mexican,Faridabad
+1174,Dragon Wok 1174,Indian,Suryapet
+1175,Spice Hub 1175,Cafe,Rajkot
+1176,Spice Hub 1176,Indian,Guntakal
+1177,Pasta Palace 1177,North Indian,Ambala
+1178,Pasta Palace 1178,North Indian,Jamshedpur
+1179,Spice Hub 1179,Cafe,South Dumdum
+1180,Pizza World 1180,Italian,Gopalpur
+1181,Burger Point 1181,Chinese,Amaravati
+1182,Dosa Corner 1182,South Indian,Karawal Nagar
+1183,Tandoori Treat 1183,North Indian,Etawah
+1184,Cafe Delight 1184,North Indian,Ongole
+1185,BBQ Nation 1185,Italian,Kakinada
+1186,Cafe Delight 1186,Cafe,Muzaffarpur
+1187,Dragon Wok 1187,South Indian,Bangalore
+1188,Dosa Corner 1188,North Indian,Phagwara
+1189,Burger Point 1189,Indian,Muzaffarpur
+1190,Burger Point 1190,Cafe,Aurangabad
+1191,BBQ Nation 1191,Cafe,Davanagere
+1192,Pasta Palace 1192,Mexican,Faridabad
+1193,Spice Hub 1193,Indian,Madanapalle
+1194,Pizza World 1194,Italian,Raichur
+1195,Dragon Wok 1195,Cafe,Begusarai
+1196,Cafe Delight 1196,Italian,Mango
+1197,Pasta Palace 1197,Indian,Madanapalle
+1198,Dosa Corner 1198,South Indian,Mau
+1199,Tandoori Treat 1199,Mexican,Ghaziabad
+1200,Biryani Zone 1200,Indian,Kurnool
+1201,Burger Point 1201,North Indian,Haridwar
+1202,Pasta Palace 1202,Indian,Mau
+1203,Pizza World 1203,Fast Food,Tiruppur
+1204,Spice Hub 1204,South Indian,Guntakal
+1205,Tandoori Treat 1205,Chinese,Farrukhabad
+1206,BBQ Nation 1206,Italian,Unnao
+1207,Biryani Zone 1207,Chinese,Bahraich
+1208,Tandoori Treat 1208,South Indian,Vijayawada
+1209,Tandoori Treat 1209,Cafe,Guna
+1210,Pasta Palace 1210,Fast Food,Bhiwani
+1211,BBQ Nation 1211,Chinese,Bidhannagar
+1212,Burger Point 1212,Fast Food,Hapur
+1213,Spice Hub 1213,Italian,Firozabad
+1214,BBQ Nation 1214,South Indian,Nangloi Jat
+1215,Burger Point 1215,Fast Food,Guna
+1216,Tandoori Treat 1216,Cafe,Saharsa
+1217,Cafe Delight 1217,Indian,Sikar
+1218,Biryani Zone 1218,Mexican,Tiruppur
+1219,Dragon Wok 1219,South Indian,Vellore
+1220,Cafe Delight 1220,Cafe,Amroha
+1221,BBQ Nation 1221,Chinese,Indore
+1222,Tandoori Treat 1222,Cafe,Nangloi Jat
+1223,Burger Point 1223,North Indian,Jalandhar
+1224,Dosa Corner 1224,Italian,Karaikudi
+1225,Burger Point 1225,North Indian,Barasat
+1226,Pizza World 1226,Cafe,Muzaffarnagar
+1227,Pizza World 1227,Cafe,Raipur
+1228,Cafe Delight 1228,Fast Food,Agartala
+1229,Burger Point 1229,Italian,Shimoga
+1230,Spice Hub 1230,North Indian,Hospet
+1231,Dragon Wok 1231,Fast Food,Tirunelveli
+1232,Biryani Zone 1232,Italian,Bihar Sharif
+1233,Pizza World 1233,Italian,Guntur
+1234,Pizza World 1234,Cafe,Madhyamgram
+1235,Dragon Wok 1235,Cafe,Moradabad
+1236,Burger Point 1236,Indian,Parbhani
+1237,Burger Point 1237,Fast Food,Akola
+1238,Pasta Palace 1238,Italian,Burhanpur
+1239,Tandoori Treat 1239,Fast Food,Kalyan-Dombivli
+1240,BBQ Nation 1240,Indian,Tezpur
+1241,Biryani Zone 1241,Cafe,Hajipur
+1242,BBQ Nation 1242,Italian,Bilaspur
+1243,Pasta Palace 1243,South Indian,Uluberia
+1244,Tandoori Treat 1244,Chinese,Uluberia
+1245,BBQ Nation 1245,Chinese,Sambhal
+1246,Pizza World 1246,North Indian,Nashik
+1247,Biryani Zone 1247,North Indian,Bhimavaram
+1248,Dragon Wok 1248,Chinese,Khandwa
+1249,Burger Point 1249,Chinese,Siwan
+1250,BBQ Nation 1250,North Indian,Guntur
+1251,BBQ Nation 1251,North Indian,Bellary
+1252,Dragon Wok 1252,Italian,Kolkata
+1253,Cafe Delight 1253,North Indian,Gandhidham
+1254,Dosa Corner 1254,Mexican,Hazaribagh
+1255,Tandoori Treat 1255,South Indian,Morbi
+1256,Dragon Wok 1256,Italian,Mango
+1257,Pizza World 1257,North Indian,Silchar
+1258,Spice Hub 1258,Cafe,Jalna
+1259,Cafe Delight 1259,Cafe,New Delhi
+1260,Cafe Delight 1260,Mexican,Kanpur
+1261,Cafe Delight 1261,Cafe,Srinagar
+1262,Tandoori Treat 1262,Chinese,Ballia
+1263,Biryani Zone 1263,Fast Food,Anantapuram
+1264,Tandoori Treat 1264,South Indian,Anand
+1265,Dragon Wok 1265,Fast Food,Bhusawal
+1266,Pizza World 1266,Cafe,Kota
+1267,Cafe Delight 1267,North Indian,Varanasi
+1268,Dragon Wok 1268,South Indian,Etawah
+1269,Cafe Delight 1269,Cafe,Dhanbad
+1270,Biryani Zone 1270,Cafe,Nagaon
+1271,Cafe Delight 1271,Italian,Solapur
+1272,Tandoori Treat 1272,South Indian,Nadiad
+1273,Tandoori Treat 1273,Chinese,Amaravati
+1274,Pasta Palace 1274,Indian,Aurangabad
+1275,Dragon Wok 1275,South Indian,Imphal
+1276,Dragon Wok 1276,North Indian,Morena
+1277,Burger Point 1277,Cafe,Shimoga
+1278,Dragon Wok 1278,Chinese,Shimoga
+1279,Biryani Zone 1279,South Indian,Jamalpur
+1280,Biryani Zone 1280,Chinese,Barasat
+1281,BBQ Nation 1281,Cafe,Chandigarh
+1282,Burger Point 1282,Mexican,Delhi
+1283,Tandoori Treat 1283,Mexican,Firozabad
+1284,Tandoori Treat 1284,Cafe,Katihar
+1285,Pasta Palace 1285,Cafe,Singrauli
+1286,Pasta Palace 1286,Indian,Kumbakonam
+1287,Cafe Delight 1287,Italian,Haldia
+1288,Burger Point 1288,South Indian,Salem
+1289,Cafe Delight 1289,Chinese,Tadipatri
+1290,Tandoori Treat 1290,Indian,Korba
+1291,Tandoori Treat 1291,Cafe,Sasaram
+1292,Cafe Delight 1292,Cafe,Unnao
+1293,Burger Point 1293,Indian,Unnao
+1294,Burger Point 1294,North Indian,Pudukkottai
+1295,Dosa Corner 1295,South Indian,Amroha
+1296,Dragon Wok 1296,Fast Food,Alappuzha
+1297,BBQ Nation 1297,Mexican,Aurangabad
+1298,Tandoori Treat 1298,Chinese,Rajpur Sonarpur
+1299,Cafe Delight 1299,Indian,Karnal
+1300,Dragon Wok 1300,Italian,Raipur
+1301,Biryani Zone 1301,Cafe,Alwar
+1302,Burger Point 1302,Italian,Amaravati
+1303,Pizza World 1303,Fast Food,Naihati
+1304,Biryani Zone 1304,Fast Food,Etawah
+1305,Dragon Wok 1305,South Indian,Mathura
+1306,Pasta Palace 1306,Mexican,Tinsukia
+1307,Cafe Delight 1307,Mexican,Asansol
+1308,Burger Point 1308,Mexican,Rohtak
+1309,Dragon Wok 1309,Fast Food,Karimnagar
+1310,Burger Point 1310,North Indian,Korba
+1311,Spice Hub 1311,Italian,Karawal Nagar
+1312,Spice Hub 1312,Fast Food,Jabalpur
+1313,Burger Point 1313,Chinese,Avadi
+1314,Dosa Corner 1314,Chinese,Madurai
+1315,Pasta Palace 1315,Chinese,Agartala
+1316,Cafe Delight 1316,Cafe,Karaikudi
+1317,Dragon Wok 1317,South Indian,Bhind
+1318,BBQ Nation 1318,Chinese,Siwan
+1319,Pizza World 1319,Cafe,Shimoga
+1320,BBQ Nation 1320,Indian,Proddatur
+1321,Tandoori Treat 1321,South Indian,Navi Mumbai
+1322,Dragon Wok 1322,Cafe,Nadiad
+1323,BBQ Nation 1323,Indian,Udupi
+1324,Dosa Corner 1324,South Indian,Aurangabad
+1325,Biryani Zone 1325,Italian,Visakhapatnam
+1326,Tandoori Treat 1326,Italian,Jodhpur
+1327,Pasta Palace 1327,Chinese,Arrah
+1328,Cafe Delight 1328,Fast Food,Bahraich
+1329,Dosa Corner 1329,Mexican,Giridih
+1330,Burger Point 1330,North Indian,Raichur
+1331,Dragon Wok 1331,Fast Food,Jalna
+1332,Tandoori Treat 1332,Cafe,Sultan Pur Majra
+1333,Tandoori Treat 1333,Cafe,Rourkela
+1334,Tandoori Treat 1334,Italian,Firozabad
+1335,Cafe Delight 1335,Fast Food,Rourkela
+1336,Dragon Wok 1336,Chinese,Shahjahanpur
+1337,Biryani Zone 1337,Italian,Bhalswa Jahangir Pur
+1338,Pizza World 1338,Fast Food,Kishanganj
+1339,Burger Point 1339,South Indian,Nagercoil
+1340,Biryani Zone 1340,Italian,Pali
+1341,Pizza World 1341,Fast Food,Kulti
+1342,Pizza World 1342,Cafe,Ambattur
+1343,BBQ Nation 1343,Chinese,Dibrugarh
+1344,Tandoori Treat 1344,Cafe,Sonipat
+1345,BBQ Nation 1345,Chinese,Alappuzha
+1346,Dragon Wok 1346,Chinese,Kumbakonam
+1347,Pasta Palace 1347,Chinese,Dharmavaram
+1348,Dragon Wok 1348,North Indian,Kollam
+1349,Pizza World 1349,Chinese,Karaikudi
+1350,Cafe Delight 1350,Mexican,Naihati
+1351,Tandoori Treat 1351,Indian,Thiruvananthapuram
+1352,Cafe Delight 1352,Indian,Davanagere
+1353,Dragon Wok 1353,Chinese,Jalna
+1354,Dosa Corner 1354,Cafe,Saharanpur
+1355,Pasta Palace 1355,Mexican,Allahabad
+1356,BBQ Nation 1356,Mexican,Kadapa
+1357,BBQ Nation 1357,Mexican,Narasaraopet
+1358,Dragon Wok 1358,Chinese,Burhanpur
+1359,Burger Point 1359,Indian,Gandhinagar
+1360,Dosa Corner 1360,North Indian,Bhimavaram
+1361,Spice Hub 1361,North Indian,Amravati
+1362,Dosa Corner 1362,North Indian,Nadiad
+1363,Pizza World 1363,Mexican,Bhilai
+1364,Tandoori Treat 1364,Mexican,Kottayam
+1365,Pasta Palace 1365,Italian,Asansol
+1366,Tandoori Treat 1366,Italian,Allahabad
+1367,Biryani Zone 1367,Fast Food,Shimla
+1368,Pasta Palace 1368,Indian,Kanpur
+1369,Dragon Wok 1369,South Indian,Sirsa
+1370,BBQ Nation 1370,Italian,Gorakhpur
+1371,Dosa Corner 1371,North Indian,Tadepalligudem
+1372,Spice Hub 1372,Mexican,Varanasi
+1373,Biryani Zone 1373,Fast Food,Kumbakonam
+1374,Burger Point 1374,Mexican,Ongole
+1375,Burger Point 1375,South Indian,Bikaner
+1376,Dosa Corner 1376,Fast Food,Karaikudi
+1377,Tandoori Treat 1377,Cafe,Kolhapur
+1378,Pizza World 1378,Chinese,Dharmavaram
+1379,Dosa Corner 1379,South Indian,Howrah
+1380,Spice Hub 1380,Fast Food,Tirunelveli
+1381,Pasta Palace 1381,North Indian,Gandhidham
+1382,Tandoori Treat 1382,Chinese,Surendranagar Dudhrej
+1383,Cafe Delight 1383,North Indian,Rajahmundry
+1384,Biryani Zone 1384,North Indian,Agartala
+1385,Pasta Palace 1385,Italian,Sasaram
+1386,Pizza World 1386,Cafe,Ballia
+1387,Spice Hub 1387,North Indian,Rourkela
+1388,Pizza World 1388,Chinese,Mau
+1389,Dosa Corner 1389,Chinese,Thanjavur
+1390,Cafe Delight 1390,South Indian,Sasaram
+1391,BBQ Nation 1391,Mexican,Ambarnath
+1392,Pizza World 1392,North Indian,Darbhanga
+1393,BBQ Nation 1393,Cafe,Raebareli
+1394,Dragon Wok 1394,Italian,Hospet
+1395,Burger Point 1395,Cafe,Ludhiana
+1396,Pasta Palace 1396,North Indian,Tinsukia
+1397,Cafe Delight 1397,Mexican,Kadapa
+1398,Dragon Wok 1398,Fast Food,Ajmer
+1399,Tandoori Treat 1399,Indian,Salem
+1400,Burger Point 1400,Mexican,Aligarh
+1401,Cafe Delight 1401,Italian,Saharsa
+1402,Pasta Palace 1402,Cafe,Nandyal
+1403,Dosa Corner 1403,Cafe,Raipur
+1404,Dosa Corner 1404,Mexican,Jhansi
+1405,Biryani Zone 1405,Fast Food,Siliguri
+1406,Biryani Zone 1406,Fast Food,Udupi
+1407,Pasta Palace 1407,Chinese,Guna
+1408,Tandoori Treat 1408,Mexican,Suryapet
+1409,Cafe Delight 1409,Indian,Kirari Suleman Nagar
+1410,Spice Hub 1410,Italian,Dhule
+1411,Dragon Wok 1411,Indian,Chittoor
+1412,Burger Point 1412,Chinese,Agra
+1413,Dragon Wok 1413,Mexican,Secunderabad
+1414,Spice Hub 1414,Cafe,Alwar
+1415,Dosa Corner 1415,Chinese,Tiruppur
+1416,Biryani Zone 1416,Chinese,Kolkata
+1417,Biryani Zone 1417,Italian,Kavali
+1418,Cafe Delight 1418,North Indian,Phusro
+1419,Burger Point 1419,Fast Food,Morena
+1420,Pizza World 1420,Indian,Hindupur
+1421,BBQ Nation 1421,North Indian,Kirari Suleman Nagar
+1422,Dosa Corner 1422,Cafe,Kakinada
+1423,Burger Point 1423,Italian,Guntur
+1424,Spice Hub 1424,South Indian,Mira-Bhayandar
+1425,Dragon Wok 1425,Italian,Udupi
+1426,Pizza World 1426,South Indian,Gopalpur
+1427,Pasta Palace 1427,Mexican,Jaipur
+1428,Spice Hub 1428,Indian,Jammu
+1429,Cafe Delight 1429,Italian,Guntakal
+1430,BBQ Nation 1430,Chinese,Raurkela Industrial Township
+1431,Dragon Wok 1431,Italian,Vijayawada
+1432,Dosa Corner 1432,Cafe,Indore
+1433,Burger Point 1433,Italian,Jamshedpur
+1434,Burger Point 1434,Fast Food,Karawal Nagar
+1435,Cafe Delight 1435,North Indian,Ahmednagar
+1436,Pizza World 1436,Cafe,Bally
+1437,Pizza World 1437,Chinese,Chennai
+1438,Burger Point 1438,Indian,Anantapur
+1439,Tandoori Treat 1439,Chinese,Vadodara
+1440,Dragon Wok 1440,Fast Food,Mahbubnagar
+1441,Dosa Corner 1441,Chinese,Amroha
+1442,BBQ Nation 1442,Mexican,Hyderabad
+1443,Dosa Corner 1443,Italian,Bhopal
+1444,Burger Point 1444,Chinese,Motihari
+1445,Burger Point 1445,Cafe,Ramagundam
+1446,Cafe Delight 1446,Cafe,Medininagar
+1447,Cafe Delight 1447,Chinese,Tezpur
+1448,Dosa Corner 1448,North Indian,Maheshtala
+1449,Burger Point 1449,South Indian,Gorakhpur
+1450,Pasta Palace 1450,North Indian,Narasaraopet
+1451,Spice Hub 1451,North Indian,Kota
+1452,Dosa Corner 1452,South Indian,Coimbatore
+1453,BBQ Nation 1453,North Indian,Naihati
+1454,Spice Hub 1454,South Indian,Bally
+1455,Dragon Wok 1455,Cafe,Bharatpur
+1456,Burger Point 1456,South Indian,Ahmedabad
+1457,Dragon Wok 1457,Italian,Sultan Pur Majra
+1458,Pasta Palace 1458,Indian,Amritsar
+1459,Cafe Delight 1459,Fast Food,Miryalaguda
+1460,Pizza World 1460,Cafe,Asansol
+1461,Tandoori Treat 1461,Cafe,Dhanbad
+1462,Cafe Delight 1462,Chinese,Bihar Sharif
+1463,Dragon Wok 1463,Italian,Ulhasnagar
+1464,Spice Hub 1464,Italian,Tirupati
+1465,Spice Hub 1465,North Indian,Ghaziabad
+1466,Dosa Corner 1466,Indian,Hajipur
+1467,Spice Hub 1467,Cafe,Tezpur
+1468,Pasta Palace 1468,North Indian,Vasai-Virar
+1469,Pasta Palace 1469,Cafe,Junagadh
+1470,BBQ Nation 1470,Cafe,Dhanbad
+1471,Burger Point 1471,Chinese,Loni
+1472,Biryani Zone 1472,Italian,Farrukhabad
+1473,Biryani Zone 1473,Italian,Unnao
+1474,Pasta Palace 1474,South Indian,Dehradun
+1475,Pizza World 1475,Fast Food,Amroha
+1476,BBQ Nation 1476,Italian,Nanded
+1477,Biryani Zone 1477,Cafe,Guna
+1478,Dosa Corner 1478,Indian,Gopalpur
+1479,Dosa Corner 1479,Italian,Bhalswa Jahangir Pur
+1480,BBQ Nation 1480,Italian,Chennai
+1481,Dragon Wok 1481,Indian,Khandwa
+1482,Biryani Zone 1482,Chinese,Uluberia
+1483,Burger Point 1483,Indian,Kumbakonam
+1484,Pizza World 1484,Indian,Mau
+1485,Pizza World 1485,Mexican,Sangli-Miraj & Kupwad
+1486,Cafe Delight 1486,North Indian,Bhopal
+1487,Pizza World 1487,Fast Food,Nellore
+1488,Pizza World 1488,North Indian,Hyderabad
+1489,Burger Point 1489,Indian,Guna
+1490,Cafe Delight 1490,Cafe,Begusarai
+1491,Biryani Zone 1491,Italian,Visakhapatnam
+1492,Biryani Zone 1492,Italian,Udupi
+1493,Dragon Wok 1493,Mexican,Madurai
+1494,Pasta Palace 1494,Fast Food,Satna
+1495,Spice Hub 1495,Mexican,Jammu
+1496,Tandoori Treat 1496,Chinese,Berhampur
+1497,Cafe Delight 1497,Chinese,Aizawl
+1498,Biryani Zone 1498,Italian,Sri Ganganagar
+1499,Tandoori Treat 1499,Italian,Howrah
+1500,Dosa Corner 1500,Indian,Raebareli
+1501,Spice Hub 1501,Indian,Indore
+1502,Dosa Corner 1502,Indian,Bihar Sharif
+1503,Dragon Wok 1503,Fast Food,Saharsa
+1504,BBQ Nation 1504,Chinese,Bhimavaram
+1505,Pizza World 1505,Indian,Ambarnath
+1506,Pasta Palace 1506,Cafe,Khandwa
+1507,Dosa Corner 1507,Fast Food,Gurgaon
+1508,Dosa Corner 1508,Cafe,Jamalpur
+1509,Cafe Delight 1509,North Indian,Indore
+1510,Burger Point 1510,Fast Food,Jalgaon
+1511,Burger Point 1511,Indian,Bhagalpur
+1512,Pizza World 1512,South Indian,South Dumdum
+1513,Pasta Palace 1513,Indian,Hospet
+1514,BBQ Nation 1514,Italian,Bellary
+1515,Dragon Wok 1515,North Indian,Yamunanagar
+1516,Biryani Zone 1516,Fast Food,Pali
+1517,Burger Point 1517,Mexican,Baranagar
+1518,Spice Hub 1518,Fast Food,Haridwar
+1519,Dosa Corner 1519,North Indian,Chandigarh
+1520,Tandoori Treat 1520,North Indian,Rohtak
+1521,Tandoori Treat 1521,South Indian,Ulhasnagar
+1522,Dragon Wok 1522,Fast Food,Begusarai
+1523,Tandoori Treat 1523,Mexican,Nangloi Jat
+1524,Dosa Corner 1524,South Indian,Orai
+1525,Pizza World 1525,Indian,Nangloi Jat
+1526,BBQ Nation 1526,Indian,Mathura
+1527,Dosa Corner 1527,Fast Food,Bhilai
+1528,Spice Hub 1528,Fast Food,Panvel
+1529,Spice Hub 1529,Cafe,Ambala
+1530,Biryani Zone 1530,Italian,Panihati
+1531,Dosa Corner 1531,South Indian,Junagadh
+1532,BBQ Nation 1532,Mexican,Asansol
+1533,Spice Hub 1533,Chinese,Ichalkaranji
+1534,Biryani Zone 1534,Italian,Meerut
+1535,Spice Hub 1535,South Indian,Chandrapur
+1536,Pasta Palace 1536,Cafe,Ujjain
+1537,Cafe Delight 1537,Mexican,Kulti
+1538,Burger Point 1538,Italian,Jodhpur
+1539,Pasta Palace 1539,Chinese,Tiruchirappalli
+1540,BBQ Nation 1540,Italian,Sangli-Miraj & Kupwad
+1541,Tandoori Treat 1541,Indian,Tirunelveli
+1542,BBQ Nation 1542,Chinese,Darbhanga
+1543,Dosa Corner 1543,North Indian,Malegaon
+1544,Biryani Zone 1544,Fast Food,Raipur
+1545,BBQ Nation 1545,Fast Food,Karimnagar
+1546,Cafe Delight 1546,Mexican,Karnal
+1547,Biryani Zone 1547,South Indian,Narasaraopet
+1548,Burger Point 1548,South Indian,Panipat
+1549,Pizza World 1549,Italian,Bhusawal
+1550,Pizza World 1550,Italian,Warangal
+1551,Pizza World 1551,Mexican,Mumbai
+1552,Dragon Wok 1552,Fast Food,Bardhaman
+1553,BBQ Nation 1553,Italian,Bhopal
+1554,Pasta Palace 1554,Fast Food,Haridwar
+1555,Dosa Corner 1555,Mexican,Bharatpur
+1556,Biryani Zone 1556,Mexican,Morbi
+1557,Biryani Zone 1557,Italian,Lucknow
+1558,Burger Point 1558,Chinese,Secunderabad
+1559,Biryani Zone 1559,Indian,Akola
+1560,Dosa Corner 1560,Fast Food,Bhimavaram
+1561,Pizza World 1561,Italian,Bihar Sharif
+1562,Dosa Corner 1562,Fast Food,Sultan Pur Majra
+1563,BBQ Nation 1563,Indian,Bhimavaram
+1564,Biryani Zone 1564,North Indian,Ichalkaranji
+1565,Pizza World 1565,Indian,Panihati
+1566,BBQ Nation 1566,Mexican,Moradabad
+1567,Pasta Palace 1567,South Indian,Surat
+1568,Burger Point 1568,Mexican,Bathinda
+1569,Burger Point 1569,Chinese,Gulbarga
+1570,Burger Point 1570,Indian,Durgapur
+1571,Spice Hub 1571,South Indian,Siliguri
+1572,Pizza World 1572,South Indian,Etawah
+1573,BBQ Nation 1573,Fast Food,Ranchi
+1574,Burger Point 1574,North Indian,Sikar
+1575,Burger Point 1575,Indian,Hubli–Dharwad
+1576,Burger Point 1576,South Indian,Fatehpur
+1577,Dragon Wok 1577,Chinese,Lucknow
+1578,Burger Point 1578,Fast Food,Korba
+1579,Burger Point 1579,Indian,Ajmer
+1580,Dragon Wok 1580,Indian,Eluru
+1581,Pizza World 1581,Cafe,Berhampore
+1582,BBQ Nation 1582,Mexican,Patna
+1583,Spice Hub 1583,Cafe,Farrukhabad
+1584,BBQ Nation 1584,Chinese,Ambattur
+1585,Cafe Delight 1585,South Indian,Kochi
+1586,Pizza World 1586,North Indian,Udupi
+1587,Biryani Zone 1587,Mexican,Tiruppur
+1588,Pizza World 1588,Indian,Panihati
+1589,Tandoori Treat 1589,South Indian,Kharagpur
+1590,Biryani Zone 1590,Mexican,Madanapalle
+1591,BBQ Nation 1591,Mexican,Ongole
+1592,Spice Hub 1592,Italian,Katni
+1593,Biryani Zone 1593,Cafe,Imphal
+1594,Pizza World 1594,Cafe,Delhi
+1595,Dosa Corner 1595,South Indian,Purnia
+1596,Pasta Palace 1596,Indian,Phagwara
+1597,BBQ Nation 1597,Fast Food,Gorakhpur
+1598,Dragon Wok 1598,Mexican,Narasaraopet
+1599,Cafe Delight 1599,Fast Food,Gorakhpur
+1600,BBQ Nation 1600,North Indian,Dindigul
+1601,Pizza World 1601,Indian,Hyderabad
+1602,Cafe Delight 1602,South Indian,Visakhapatnam
+1603,Spice Hub 1603,North Indian,Korba
+1604,Spice Hub 1604,Mexican,Tirupati
+1605,Pasta Palace 1605,Fast Food,Serampore
+1606,Tandoori Treat 1606,South Indian,Chandrapur
+1607,Pizza World 1607,Italian,Nagercoil
+1608,Dosa Corner 1608,South Indian,Gangtok
+1609,Biryani Zone 1609,Indian,Amaravati
+1610,Dosa Corner 1610,Cafe,Khandwa
+1611,Cafe Delight 1611,Chinese,Raebareli
+1612,Pizza World 1612,South Indian,Ramgarh
+1613,Tandoori Treat 1613,Fast Food,New Delhi
+1614,Cafe Delight 1614,Indian,Medininagar
+1615,Cafe Delight 1615,Chinese,Dhanbad
+1616,Tandoori Treat 1616,South Indian,Dharmavaram
+1617,Dragon Wok 1617,North Indian,Eluru
+1618,Pizza World 1618,Mexican,Kollam
+1619,Spice Hub 1619,Italian,Bokaro
+1620,Spice Hub 1620,South Indian,Vellore
+1621,Tandoori Treat 1621,South Indian,Sambalpur
+1622,Spice Hub 1622,Mexican,Korba
+1623,Spice Hub 1623,Fast Food,Mehsana
+1624,Tandoori Treat 1624,South Indian,Khandwa
+1625,Pizza World 1625,Fast Food,Akola
+1626,Pizza World 1626,Fast Food,Kanpur
+1627,Spice Hub 1627,Indian,Dindigul
+1628,Pizza World 1628,Chinese,Amaravati
+1629,Burger Point 1629,Fast Food,Nanded
+1630,Burger Point 1630,Fast Food,Khammam
+1631,BBQ Nation 1631,Italian,Bhiwandi
+1632,Cafe Delight 1632,North Indian,Delhi
+1633,Cafe Delight 1633,Chinese,Vadodara
+1634,Pizza World 1634,Cafe,Kakinada
+1635,Dragon Wok 1635,Fast Food,Munger
+1636,Pizza World 1636,Fast Food,Chittoor
+1637,Dosa Corner 1637,Chinese,Vijayanagaram
+1638,BBQ Nation 1638,North Indian,Bhopal
+1639,Biryani Zone 1639,Chinese,Uluberia
+1640,Pizza World 1640,Indian,Thoothukudi
+1641,Tandoori Treat 1641,Cafe,Meerut
+1642,Tandoori Treat 1642,Indian,Aizawl
+1643,Pizza World 1643,Fast Food,Ghaziabad
+1644,Tandoori Treat 1644,South Indian,Bijapur
+1645,Tandoori Treat 1645,Italian,Kharagpur
+1646,Dragon Wok 1646,Chinese,Firozabad
+1647,Cafe Delight 1647,Italian,Sirsa
+1648,Dosa Corner 1648,Fast Food,Berhampore
+1649,Cafe Delight 1649,Chinese,Madanapalle
+1650,Burger Point 1650,Fast Food,Ramagundam
+1651,Dragon Wok 1651,Indian,Fatehpur
+1652,Biryani Zone 1652,South Indian,Sasaram
+1653,Dosa Corner 1653,Italian,Thrissur
+1654,Cafe Delight 1654,North Indian,Chittoor
+1655,Burger Point 1655,Indian,Solapur
+1656,Spice Hub 1656,Cafe,Erode
+1657,Dragon Wok 1657,Cafe,Khora 
+1658,Pizza World 1658,Cafe,Hubli–Dharwad
+1659,Dragon Wok 1659,Cafe,Alwar
+1660,Cafe Delight 1660,Cafe,Ongole
+1661,Burger Point 1661,Mexican,Sirsa
+1662,Tandoori Treat 1662,South Indian,Arrah
+1663,Pizza World 1663,Mexican,Sangli-Miraj & Kupwad
+1664,Burger Point 1664,Indian,Guwahati
+1665,Biryani Zone 1665,Indian,Fatehpur
+1666,Cafe Delight 1666,North Indian,Durgapur
+1667,Burger Point 1667,Italian,Morena
+1668,Cafe Delight 1668,Chinese,Katihar
+1669,BBQ Nation 1669,Chinese,Bidar
+1670,Burger Point 1670,Italian,Jamshedpur
+1671,Cafe Delight 1671,Mexican,Bhiwandi
+1672,Spice Hub 1672,Cafe,Coimbatore
+1673,Pizza World 1673,Cafe,Bidhannagar
+1674,Pizza World 1674,Indian,Agra
+1675,Burger Point 1675,Fast Food,Sri Ganganagar
+1676,Dosa Corner 1676,South Indian,Phusro
+1677,BBQ Nation 1677,North Indian,Ichalkaranji
+1678,Biryani Zone 1678,North Indian,Tirupati
+1679,Dosa Corner 1679,Italian,Mirzapur
+1680,Spice Hub 1680,Cafe,Bidhannagar
+1681,Tandoori Treat 1681,Mexican,Chittoor
+1682,Pizza World 1682,Indian,Kishanganj
+1683,Cafe Delight 1683,Indian,Solapur
+1684,BBQ Nation 1684,Italian,Maheshtala
+1685,Biryani Zone 1685,Mexican,Etawah
+1686,Dosa Corner 1686,Italian,Shimla
+1687,Spice Hub 1687,South Indian,Guntakal
+1688,Pizza World 1688,North Indian,Munger
+1689,Burger Point 1689,Mexican,Navi Mumbai
+1690,Burger Point 1690,North Indian,Vasai-Virar
+1691,BBQ Nation 1691,Mexican,Akola
+1692,Dragon Wok 1692,North Indian,Anand
+1693,Burger Point 1693,Cafe,Nellore
+1694,Pizza World 1694,Fast Food,Bhusawal
+1695,BBQ Nation 1695,Fast Food,Malda
+1696,Pizza World 1696,Mexican,Mathura
+1697,Spice Hub 1697,North Indian,Kanpur
+1698,Dragon Wok 1698,Mexican,Tezpur
+1699,Biryani Zone 1699,South Indian,Suryapet
+1700,Biryani Zone 1700,Indian,Tadepalligudem
+1701,Pizza World 1701,Italian,Jalgaon
+1702,Burger Point 1702,Fast Food,Nandyal
+1703,Pasta Palace 1703,Cafe,Bhilwara
+1704,Tandoori Treat 1704,South Indian,Jammu
+1705,Pasta Palace 1705,Indian,Ramagundam
+1706,BBQ Nation 1706,Cafe,Hajipur
+1707,Pasta Palace 1707,Mexican,Rajkot
+1708,Tandoori Treat 1708,South Indian,Alappuzha
+1709,Dragon Wok 1709,North Indian,Morena
+1710,Burger Point 1710,Cafe,Dewas
+1711,Spice Hub 1711,Chinese,Nadiad
+1712,Burger Point 1712,Mexican,Jalandhar
+1713,Pizza World 1713,Chinese,Ramgarh
+1714,Dosa Corner 1714,South Indian,Bhusawal
+1715,Pizza World 1715,Indian,Noida
+1716,BBQ Nation 1716,Italian,Shimla
+1717,BBQ Nation 1717,South Indian,Nizamabad
+1718,Pizza World 1718,North Indian,Srikakulam
+1719,Cafe Delight 1719,Italian,Bidhannagar
+1720,Burger Point 1720,Cafe,Sri Ganganagar
+1721,Pasta Palace 1721,Cafe,Bijapur
+1722,Pasta Palace 1722,Fast Food,Asansol
+1723,Biryani Zone 1723,Mexican,Dhanbad
+1724,Spice Hub 1724,Cafe,Raebareli
+1725,Burger Point 1725,Cafe,Korba
+1726,Pizza World 1726,Chinese,Tadepalligudem
+1727,Tandoori Treat 1727,Italian,Maheshtala
+1728,Burger Point 1728,Italian,Aurangabad
+1729,Biryani Zone 1729,Fast Food,Ballia
+1730,BBQ Nation 1730,North Indian,Karawal Nagar
+1731,BBQ Nation 1731,Mexican,Srikakulam
+1732,Tandoori Treat 1732,Mexican,Katni
+1733,Spice Hub 1733,Chinese,Nagpur
+1734,Biryani Zone 1734,Cafe,Siliguri
+1735,Pizza World 1735,Cafe,Nagpur
+1736,Spice Hub 1736,Cafe,Dhule
+1737,Cafe Delight 1737,South Indian,Orai
+1738,Spice Hub 1738,Mexican,Anand
+1739,Biryani Zone 1739,Fast Food,Chandrapur
+1740,Spice Hub 1740,Fast Food,Gaya
+1741,Biryani Zone 1741,North Indian,Gopalpur
+1742,Biryani Zone 1742,Mexican,Serampore
+1743,Burger Point 1743,South Indian,Tenali
+1744,Pizza World 1744,North Indian,Jabalpur
+1745,Dragon Wok 1745,Fast Food,Tadipatri
+1746,Biryani Zone 1746,Cafe,Asansol
+1747,Tandoori Treat 1747,Italian,Bhimavaram
+1748,Dosa Corner 1748,Mexican,Ghaziabad
+1749,Dosa Corner 1749,Cafe,Karnal
+1750,Dragon Wok 1750,Fast Food,Munger
+1751,Spice Hub 1751,Chinese,Ambala
+1752,Burger Point 1752,North Indian,Kanpur
+1753,Pasta Palace 1753,Cafe,Bhopal
+1754,Pizza World 1754,Indian,Jorhat
+1755,Pizza World 1755,South Indian,Gudivada
+1756,Dosa Corner 1756,Indian,Mira-Bhayandar
+1757,Dosa Corner 1757,Indian,Bhagalpur
+1758,Dragon Wok 1758,Indian,Dehri
+1759,Cafe Delight 1759,South Indian,Tiruvottiyur
+1760,Biryani Zone 1760,Fast Food,Aurangabad
+1761,Dragon Wok 1761,Cafe,Guntur
+1762,Burger Point 1762,Indian,Tenali
+1763,Dosa Corner 1763,Fast Food,Tiruppur
+1764,Dragon Wok 1764,Mexican,Gaya
+1765,Pizza World 1765,Mexican,Bathinda
+1766,Tandoori Treat 1766,Fast Food,Rajkot
+1767,Cafe Delight 1767,Chinese,Burhanpur
+1768,Biryani Zone 1768,Italian,Nellore
+1769,Biryani Zone 1769,Indian,Shimla
+1770,BBQ Nation 1770,Indian,Mehsana
+1771,Pizza World 1771,South Indian,Ballia
+1772,Dosa Corner 1772,South Indian,Guntur
+1773,Dosa Corner 1773,North Indian,Farrukhabad
+1774,BBQ Nation 1774,Indian,Medininagar
+1775,Spice Hub 1775,Mexican,Bally
+1776,Pizza World 1776,Chinese,Unnao
+1777,Tandoori Treat 1777,Indian,Hosur
+1778,Dosa Corner 1778,North Indian,Bhubaneswar
+1779,Tandoori Treat 1779,North Indian,Hajipur
+1780,Biryani Zone 1780,Cafe,Allahabad
+1781,BBQ Nation 1781,Fast Food,Cuttack
+1782,Dragon Wok 1782,North Indian,Lucknow
+1783,Dosa Corner 1783,Mexican,Latur
+1784,Biryani Zone 1784,Cafe,Bally
+1785,Tandoori Treat 1785,Italian,Raiganj
+1786,Spice Hub 1786,Fast Food,Avadi
+1787,Pasta Palace 1787,North Indian,Secunderabad
+1788,Biryani Zone 1788,Italian,Madurai
+1789,Dragon Wok 1789,Italian,Dewas
+1790,Cafe Delight 1790,North Indian,Agartala
+1791,Cafe Delight 1791,North Indian,Khora 
+1792,Biryani Zone 1792,North Indian,Orai
+1793,Dosa Corner 1793,Chinese,Raebareli
+1794,Pasta Palace 1794,South Indian,Serampore
+1795,Spice Hub 1795,Cafe,Tumkur
+1796,Cafe Delight 1796,Chinese,Ujjain
+1797,Spice Hub 1797,Mexican,Bhalswa Jahangir Pur
+1798,Biryani Zone 1798,North Indian,Silchar
+1799,BBQ Nation 1799,Cafe,Jalandhar
+1800,BBQ Nation 1800,Indian,Etawah
+1801,Tandoori Treat 1801,South Indian,Secunderabad
+1802,Cafe Delight 1802,South Indian,Gudivada
+1803,Pasta Palace 1803,Mexican,Bahraich
+1804,Cafe Delight 1804,North Indian,Malegaon
+1805,Pizza World 1805,Chinese,Maheshtala
+1806,Biryani Zone 1806,Italian,Panchkula
+1807,Dragon Wok 1807,Chinese,Bhubaneswar
+1808,Biryani Zone 1808,Chinese,Sikar
+1809,Cafe Delight 1809,Italian,Kochi
+1810,Dosa Corner 1810,Fast Food,Panvel
+1811,Dosa Corner 1811,North Indian,Eluru
+1812,BBQ Nation 1812,Fast Food,Vijayawada
+1813,Cafe Delight 1813,North Indian,Anantapur
+1814,Tandoori Treat 1814,North Indian,Tiruvottiyur
+1815,Dragon Wok 1815,Italian,Gaya
+1816,Dragon Wok 1816,Indian,Dindigul
+1817,Tandoori Treat 1817,Italian,Ramagundam
+1818,Dragon Wok 1818,South Indian,Navi Mumbai
+1819,Pasta Palace 1819,Italian,Loni
+1820,BBQ Nation 1820,North Indian,South Dumdum
+1821,BBQ Nation 1821,Indian,Naihati
+1822,Pizza World 1822,Chinese,Durg
+1823,Dosa Corner 1823,Fast Food,Nizamabad
+1824,BBQ Nation 1824,Mexican,South Dumdum
+1825,Pizza World 1825,Fast Food,Vijayawada
+1826,Pizza World 1826,Italian,Ajmer
+1827,Dragon Wok 1827,Fast Food,Karimnagar
+1828,Pizza World 1828,Fast Food,Guntakal
+1829,Spice Hub 1829,Indian,Madhyamgram
+1830,Dragon Wok 1830,North Indian,Bikaner
+1831,Dosa Corner 1831,Chinese,Tirupati
+1832,Tandoori Treat 1832,Chinese,Rohtak
+1833,Dragon Wok 1833,Italian,Rajkot
+1834,Pizza World 1834,Cafe,Kolkata
+1835,BBQ Nation 1835,Cafe,Kirari Suleman Nagar
+1836,BBQ Nation 1836,Mexican,Ulhasnagar
+1837,BBQ Nation 1837,Indian,Medininagar
+1838,Spice Hub 1838,South Indian,Jalandhar
+1839,Cafe Delight 1839,Indian,Ramagundam
+1840,Cafe Delight 1840,South Indian,Lucknow
+1841,Spice Hub 1841,Indian,Jamnagar
+1842,Dosa Corner 1842,South Indian,Panvel
+1843,Cafe Delight 1843,North Indian,Amaravati
+1844,Pizza World 1844,Italian,Ulhasnagar
+1845,BBQ Nation 1845,North Indian,Dehri
+1846,Pizza World 1846,Italian,Thoothukudi
+1847,Spice Hub 1847,North Indian,Raichur
+1848,Biryani Zone 1848,Mexican,Bhusawal
+1849,Pasta Palace 1849,Fast Food,Visakhapatnam
+1850,BBQ Nation 1850,Chinese,Jamnagar
+1851,Cafe Delight 1851,Mexican,Imphal
+1852,Cafe Delight 1852,South Indian,Udupi
+1853,Pizza World 1853,Cafe,Khammam
+1854,Spice Hub 1854,South Indian,Mysore
+1855,Dosa Corner 1855,Chinese,Amritsar
+1856,Dosa Corner 1856,Indian,Vellore
+1857,Tandoori Treat 1857,Chinese,Farrukhabad
+1858,Burger Point 1858,Fast Food,Ghaziabad
+1859,Spice Hub 1859,Cafe,Bidhannagar
+1860,Biryani Zone 1860,Indian,Karaikudi
+1861,Tandoori Treat 1861,Indian,Bharatpur
+1862,Burger Point 1862,Indian,Thiruvananthapuram
+1863,Spice Hub 1863,Italian,Avadi
+1864,BBQ Nation 1864,Mexican,Bangalore
+1865,BBQ Nation 1865,Italian,Rajpur Sonarpur
+1866,Pasta Palace 1866,North Indian,Pondicherry
+1867,Dragon Wok 1867,Chinese,Machilipatnam
+1868,Dosa Corner 1868,Indian,Kavali
+1869,Biryani Zone 1869,Cafe,Jaunpur
+1870,Burger Point 1870,North Indian,Saharanpur
+1871,Tandoori Treat 1871,Chinese,Loni
+1872,BBQ Nation 1872,Italian,Mira-Bhayandar
+1873,Pasta Palace 1873,Italian,Chandigarh
+1874,Biryani Zone 1874,Italian,Machilipatnam
+1875,Burger Point 1875,Mexican,Thiruvananthapuram
+1876,Dosa Corner 1876,South Indian,Ichalkaranji
+1877,Biryani Zone 1877,South Indian,Hospet
+1878,Cafe Delight 1878,Cafe,Aurangabad
+1879,Biryani Zone 1879,Chinese,Guna
+1880,Spice Hub 1880,Mexican,Nizamabad
+1881,Dosa Corner 1881,Mexican,Siwan
+1882,Cafe Delight 1882,South Indian,Jalandhar
+1883,Spice Hub 1883,Indian,Haldia
+1884,Burger Point 1884,Italian,Motihari
+1885,Tandoori Treat 1885,Mexican,Bhiwandi
+1886,Pizza World 1886,Italian,Dehri
+1887,Pasta Palace 1887,Italian,Khora 
+1888,Burger Point 1888,North Indian,Thoothukudi
+1889,Dosa Corner 1889,Mexican,Berhampur
+1890,Biryani Zone 1890,North Indian,Srikakulam
+1891,Dragon Wok 1891,Indian,Dehradun
+1892,Burger Point 1892,Chinese,Asansol
+1893,Spice Hub 1893,North Indian,Ichalkaranji
+1894,Cafe Delight 1894,Fast Food,Junagadh
+1895,BBQ Nation 1895,Italian,Allahabad
+1896,Burger Point 1896,Indian,South Dumdum
+1897,Spice Hub 1897,Chinese,Ballia
+1898,Pizza World 1898,Fast Food,Rajpur Sonarpur
+1899,Cafe Delight 1899,Mexican,Tiruppur
+1900,Tandoori Treat 1900,North Indian,Kollam
+1901,Burger Point 1901,Fast Food,Lucknow
+1902,Cafe Delight 1902,Chinese,Bidhannagar
+1903,Burger Point 1903,Cafe,Jaunpur
+1904,BBQ Nation 1904,Mexican,Danapur
+1905,Biryani Zone 1905,Cafe,Ambala
+1906,Dragon Wok 1906,Cafe,Faridabad
+1907,Pizza World 1907,Italian,Panipat
+1908,Pizza World 1908,Indian,Sambalpur
+1909,Pizza World 1909,Italian,Shimla
+1910,BBQ Nation 1910,Mexican,Parbhani
+1911,Tandoori Treat 1911,Mexican,Akola
+1912,Pizza World 1912,Cafe,Ambattur
+1913,Cafe Delight 1913,Indian,Tirupati
+1914,Pizza World 1914,Mexican,Nandyal
+1915,Dragon Wok 1915,Italian,Buxar
+1916,BBQ Nation 1916,Mexican,Durgapur
+1917,Spice Hub 1917,Italian,Singrauli
+1918,Biryani Zone 1918,Fast Food,Meerut
+1919,Spice Hub 1919,South Indian,Bellary
+1920,Cafe Delight 1920,Italian,Davanagere
+1921,BBQ Nation 1921,South Indian,Rajahmundry
+1922,Dragon Wok 1922,Fast Food,Orai
+1923,BBQ Nation 1923,Chinese,Guna
+1924,Pasta Palace 1924,Indian,Navi Mumbai
+1925,Spice Hub 1925,Chinese,Vijayanagaram
+1926,Pasta Palace 1926,Mexican,Coimbatore
+1927,Dragon Wok 1927,Chinese,Jaipur
+1928,Burger Point 1928,Mexican,Tiruvottiyur
+1929,Cafe Delight 1929,South Indian,Begusarai
+1930,Cafe Delight 1930,North Indian,Raurkela Industrial Township
+1931,Spice Hub 1931,South Indian,Bulandshahr
+1932,Pasta Palace 1932,Cafe,Adoni
+1933,BBQ Nation 1933,South Indian,Jehanabad
+1934,Burger Point 1934,Mexican,Bhagalpur
+1935,Dragon Wok 1935,Mexican,Phusro
+1936,Burger Point 1936,Mexican,Gandhidham
+1937,Dragon Wok 1937,Fast Food,Bhubaneswar
+1938,Burger Point 1938,Mexican,Barasat
+1939,Spice Hub 1939,Italian,Machilipatnam
+1940,BBQ Nation 1940,Cafe,Bidhannagar
+1941,Spice Hub 1941,Indian,Danapur
+1942,Burger Point 1942,North Indian,Berhampore
+1943,Pasta Palace 1943,South Indian,Mehsana
+1944,Dragon Wok 1944,Fast Food,Hindupur
+1945,Cafe Delight 1945,Indian,Tumkur
+1946,Dosa Corner 1946,Mexican,Hosur
+1947,Cafe Delight 1947,Mexican,Munger
+1948,Cafe Delight 1948,Mexican,Akola
+1949,Burger Point 1949,Italian,Alwar
+1950,Dosa Corner 1950,Indian,Visakhapatnam
+1951,Cafe Delight 1951,Fast Food,Patna
+1952,Biryani Zone 1952,Fast Food,Raurkela Industrial Township
+1953,Burger Point 1953,Indian,Nagaon
+1954,Pizza World 1954,Mexican,Bareilly
+1955,Pizza World 1955,Cafe,Korba
+1956,Burger Point 1956,North Indian,Chinsurah
+1957,Tandoori Treat 1957,South Indian,Dewas
+1958,Dosa Corner 1958,Italian,Rajpur Sonarpur
+1959,BBQ Nation 1959,South Indian,Silchar
+1960,Dragon Wok 1960,South Indian,Bhiwandi
+1961,Cafe Delight 1961,Italian,Chittoor
+1962,BBQ Nation 1962,Indian,Kurnool
+1963,Tandoori Treat 1963,Italian,Asansol
+1964,Dragon Wok 1964,Mexican,Dehradun
+1965,Tandoori Treat 1965,Chinese,Amritsar
+1966,Dragon Wok 1966,Indian,Panihati
+1967,Pasta Palace 1967,Indian,Cuttack
+1968,Pasta Palace 1968,Cafe,Bhilai
+1969,Tandoori Treat 1969,Mexican,Agra
+1970,Pasta Palace 1970,Chinese,Nandyal
+1971,Tandoori Treat 1971,Chinese,Lucknow
+1972,Pizza World 1972,Italian,Katni
+1973,BBQ Nation 1973,Fast Food,Mysore
+1974,Pasta Palace 1974,Cafe,Rohtak
+1975,BBQ Nation 1975,South Indian,Thane
+1976,Biryani Zone 1976,Cafe,Ludhiana
+1977,Cafe Delight 1977,North Indian,Bilaspur
+1978,Dragon Wok 1978,Chinese,Siwan
+1979,Pizza World 1979,Cafe,Sambalpur
+1980,Tandoori Treat 1980,North Indian,Karaikudi
+1981,Pasta Palace 1981,Fast Food,Kanpur
+1982,Pasta Palace 1982,South Indian,Katihar
+1983,Dosa Corner 1983,South Indian,Jalna
+1984,Tandoori Treat 1984,North Indian,Thanjavur
+1985,Cafe Delight 1985,Chinese,Warangal
+1986,Pizza World 1986,Fast Food,Ulhasnagar
+1987,Burger Point 1987,Fast Food,Bhagalpur
+1988,Pasta Palace 1988,Mexican,Jammu
+1989,Tandoori Treat 1989,Cafe,Vijayawada
+1990,Pasta Palace 1990,North Indian,Coimbatore
+1991,BBQ Nation 1991,Indian,Meerut
+1992,Pasta Palace 1992,Italian,Madanapalle
+1993,Spice Hub 1993,Cafe,Kalyan-Dombivli
+1994,Pizza World 1994,Indian,Chandigarh
+1995,Spice Hub 1995,South Indian,Jamshedpur
+1996,Biryani Zone 1996,Chinese,Ambala
+1997,Biryani Zone 1997,North Indian,Solapur
+1998,Pizza World 1998,Indian,Hyderabad
+1999,Biryani Zone 1999,South Indian,Bhiwani
+2000,Pasta Palace 2000,Indian,Sagar
