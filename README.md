@@ -99,6 +99,6 @@ Food-Delivery-SQL-Project/
 
 ## Author
 
-**Vimal**
+**Vimal Raj R**
 
 Aspiring Data Scientist | SQL | Machine Learning | Data Analytics
