@@ -24,7 +24,7 @@ These tables are connected using primary and foreign key relationships to simula
 
 ## ER Diagram
 
-![Database Schema](ERdiagram/schema.png)
+![Database Schema](ER_diagram/schema.png)
 
 ---
 
